@@ -1,0 +1,282 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>上海临时活动 - 现在/本周末去哪儿</title>
+<style>
+  :root {
+    --bg: #f5f3ef;
+    --card: #ffffff;
+    --ink: #1a1a1a;
+    --muted: #8a8580;
+    --accent: #d14b2e;
+    --accent-soft: #fbe7e0;
+    --border: #e8e4dd;
+    --tag-bg: #f0eee8;
+    --warn-bg: #fff4e0;
+    --warn-ink: #9a6a0c;
+  }
+  * { box-sizing: border-box; }
+  body {
+    margin: 0;
+    font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+    background: var(--bg);
+    color: var(--ink);
+  }
+  header {
+    padding: 20px 16px 12px;
+    position: sticky;
+    top: 0;
+    background: var(--bg);
+    z-index: 10;
+    border-bottom: 1px solid var(--border);
+  }
+  header h1 {
+    font-size: 20px;
+    margin: 0 0 2px;
+  }
+  header p.sub {
+    margin: 0 0 14px;
+    color: var(--muted);
+    font-size: 13px;
+  }
+  .filters {
+    display: flex;
+    gap: 8px;
+    overflow-x: auto;
+    padding-bottom: 4px;
+    scrollbar-width: none;
+  }
+  .filters::-webkit-scrollbar { display: none; }
+  .chip {
+    flex-shrink: 0;
+    padding: 6px 14px;
+    border-radius: 16px;
+    background: var(--tag-bg);
+    color: var(--ink);
+    font-size: 13px;
+    cursor: pointer;
+    border: 1px solid transparent;
+    white-space: nowrap;
+    user-select: none;
+  }
+  .chip.active {
+    background: var(--accent);
+    color: #fff;
+  }
+  main {
+    padding: 14px 16px 60px;
+    max-width: 640px;
+    margin: 0 auto;
+  }
+  .count-line {
+    font-size: 12px;
+    color: var(--muted);
+    margin: 10px 2px 12px;
+  }
+  .card {
+    background: var(--card);
+    border-radius: 14px;
+    padding: 14px 16px;
+    margin-bottom: 12px;
+    border: 1px solid var(--border);
+  }
+  .card-top {
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-start;
+    gap: 8px;
+  }
+  .card h3 {
+    font-size: 16px;
+    margin: 0 0 6px;
+    line-height: 1.4;
+  }
+  .cat-badge {
+    flex-shrink: 0;
+    font-size: 11px;
+    padding: 3px 8px;
+    border-radius: 6px;
+    background: var(--accent-soft);
+    color: var(--accent);
+    white-space: nowrap;
+  }
+  .meta-row {
+    font-size: 13px;
+    color: var(--muted);
+    margin: 3px 0;
+    display: flex;
+    gap: 6px;
+    align-items: baseline;
+  }
+  .meta-row .icon { flex-shrink: 0; }
+  .desc {
+    font-size: 13px;
+    color: #4a4a4a;
+    margin: 8px 0 4px;
+    line-height: 1.5;
+  }
+  .tags {
+    display: flex;
+    gap: 6px;
+    flex-wrap: wrap;
+    margin-top: 8px;
+  }
+  .tag {
+    font-size: 11px;
+    padding: 2px 8px;
+    border-radius: 10px;
+    background: var(--tag-bg);
+    color: var(--muted);
+  }
+  .fuzzy-warn {
+    margin-top: 10px;
+    font-size: 12px;
+    background: var(--warn-bg);
+    color: var(--warn-ink);
+    padding: 6px 10px;
+    border-radius: 8px;
+    display: flex;
+    gap: 6px;
+    align-items: center;
+  }
+  .source-link {
+    display: inline-block;
+    margin-top: 10px;
+    font-size: 12px;
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px dashed var(--accent);
+  }
+  .empty {
+    text-align: center;
+    color: var(--muted);
+    padding: 60px 20px;
+    font-size: 14px;
+  }
+  footer {
+    text-align: center;
+    color: var(--muted);
+    font-size: 12px;
+    padding: 20px;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>上海近期活动</h1>
+  <p class="sub">展览 · 市集 · 快闪店 · 美食节 · 购物活动 — 时效性信息优先，不确定的会标出来</p>
+  <div class="filters" id="filters"></div>
+</header>
+
+<main>
+  <div class="count-line" id="countLine"></div>
+  <div id="list"></div>
+</main>
+
+<footer>数据来源于公开网络信息，具体以活动官方页面为准 · 原型版本</footer>
+
+<script>
+const CATEGORY_LABELS = {
+  exhibition: "展览",
+  market: "市集",
+  popup_store: "快闪店",
+  food_stall: "美食节",
+  shopping: "购物活动",
+  other: "其他"
+};
+
+let EVENTS = [];
+let currentFilter = "all";
+
+async function loadData() {
+  const res = await fetch("./data.json");
+  EVENTS = await res.json();
+  renderFilters();
+  render();
+}
+
+function renderFilters() {
+  const cats = ["all", ...new Set(EVENTS.map(e => e.category))];
+  const filtersEl = document.getElementById("filters");
+  filtersEl.innerHTML = cats.map(c => {
+    const label = c === "all" ? "全部" : (CATEGORY_LABELS[c] || c);
+    const count = c === "all" ? EVENTS.length : EVENTS.filter(e => e.category === c).length;
+    return `<div class="chip ${c === currentFilter ? "active" : ""}" data-cat="${c}">${label} ${count}</div>`;
+  }).join("");
+  filtersEl.querySelectorAll(".chip").forEach(chip => {
+    chip.addEventListener("click", () => {
+      currentFilter = chip.dataset.cat;
+      renderFilters();
+      render();
+    });
+  });
+}
+
+function formatDate(ev) {
+  const { start_time, end_time, time_detail } = ev;
+  let range = "";
+  if (start_time && end_time) {
+    range = start_time === end_time ? start_time : `${start_time} 至 ${end_time}`;
+  } else if (start_time) {
+    range = `${start_time} 起`;
+  } else if (end_time) {
+    range = `至 ${end_time}`;
+  } else {
+    range = "时间待确认";
+  }
+  if (time_detail) range += ` · ${time_detail}`;
+  return range;
+}
+
+function render() {
+  const list = currentFilter === "all" ? EVENTS : EVENTS.filter(e => e.category === currentFilter);
+  // 按 confidence 从高到低排，让信息最完整的活动排前面
+  const sorted = [...list].sort((a, b) => (b.confidence || 0) - (a.confidence || 0));
+
+  document.getElementById("countLine").textContent = `共 ${sorted.length} 场活动`;
+
+  const listEl = document.getElementById("list");
+  if (sorted.length === 0) {
+    listEl.innerHTML = `<div class="empty">这个分类暂时没有收录到活动</div>`;
+    return;
+  }
+
+  listEl.innerHTML = sorted.map(ev => {
+    const catLabel = CATEGORY_LABELS[ev.category] || ev.category;
+    const tags = (ev.sub_tags || []).map(t => `<span class="tag">${t}</span>`).join("");
+    const fuzzyWarn = ev.is_time_fuzzy
+      ? `<div class="fuzzy-warn">⚠️ 时间信息不完整，去之前建议在原始来源里确认一下还在不在</div>`
+      : "";
+    const locLine = ev.location_name
+      ? `<div class="meta-row"><span class="icon">📍</span><span>${ev.location_name}${ev.address ? " · " + ev.address : ""}</span></div>`
+      : `<div class="meta-row"><span class="icon">📍</span><span>地点待确认</span></div>`;
+    const priceLine = ev.price_info
+      ? `<div class="meta-row"><span class="icon">💰</span><span>${ev.price_info}</span></div>`
+      : "";
+
+    return `
+      <div class="card">
+        <div class="card-top">
+          <h3>${ev.title}</h3>
+          <span class="cat-badge">${catLabel}</span>
+        </div>
+        <div class="meta-row"><span class="icon">📅</span><span>${formatDate(ev)}</span></div>
+        ${locLine}
+        ${priceLine}
+        ${ev.description ? `<div class="desc">${ev.description}</div>` : ""}
+        ${tags ? `<div class="tags">${tags}</div>` : ""}
+        ${fuzzyWarn}
+        <a class="source-link" href="${ev.source_url}" target="_blank" rel="noopener">查看信息来源 →</a>
+      </div>
+    `;
+  }).join("");
+}
+
+loadData();
+</script>
+
+</body>
+</html>
