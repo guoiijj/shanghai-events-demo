@@ -331,5 +331,430 @@
     "description": "卫生护理、家清洗涤、个护电器等展品",
     "confidence": 0.88,
     "source_url": "http://sh.bendibao.com/xiuxian/2026929/309574.shtm"
+  },
+  {
+    "title": "2026慕尼黑分析生化中国展",
+    "category": "exhibition",
+    "sub_tags": [
+      "行业展会",
+      "实验室技术",
+      "分析仪器",
+      "生命科学"
+    ],
+    "start_time": "2026-11-16",
+    "end_time": "2026-11-18",
+    "time_detail": "11月16日-17日 09:00~17:00，11月18日 09:00~16:00",
+    "is_time_fuzzy": false,
+    "location_name": null,
+    "address": null,
+    "price_info": null,
+    "description": "2026慕尼黑分析生化中国展共分8个特色展区，涵盖实验室规划建设、实验室安全、样品前处理、生命科学与诊断、实验室自动化与数字化、核心零部件、分析仪器品牌馆及现场模拟实验室Live Lab。",
+    "confidence": 0.7,
+    "source_url": "http://sh.bendibao.com/xiuxian/20261022/309990.shtm"
+  },
+  {
+    "title": "2026年上海共青森林公园菊花展",
+    "category": "exhibition",
+    "sub_tags": [
+      "花展",
+      "菊花展",
+      "公园活动"
+    ],
+    "start_time": "2026-10-24",
+    "end_time": "2026-11-29",
+    "time_detail": "2026年10月24日至11月29日",
+    "is_time_fuzzy": false,
+    "location_name": "上海共青森林公园",
+    "address": "上海共青森林公园",
+    "price_info": "免费",
+    "description": "以“四秩风华凝秋色，满园菊韵绘新篇”为主题，设佳菊揽盛、艺绽芳华、群英荟萃三大板块，展示600余种精品菊花及多处主题景点。",
+    "confidence": 0.95,
+    "source_url": "http://sh.bendibao.com/xiuxian/20261022/309988.shtm"
+  },
+  {
+    "title": "第十三届中国上海国际童书展",
+    "category": "exhibition",
+    "sub_tags": [
+      "童书展",
+      "图书展",
+      "儿童内容",
+      "IP"
+    ],
+    "start_time": "2026-11-13",
+    "end_time": "2026-11-15",
+    "time_detail": "2026年11月13日-14日 9:30-17:30，11月15日 9:30-16:30",
+    "is_time_fuzzy": false,
+    "location_name": "上海世博展览馆 H1馆",
+    "address": "上海市浦东新区国展路1099号",
+    "price_info": "早鸟票38元起（原价68元），身高1.3米及以下儿童免票",
+    "description": "聚焦0-16岁儿童图书出版及儿童内容，涵盖图书、期刊杂志、影音、娱乐及教育服务等少儿产品全产业链，并举办主题讲座、新书首发、作家签售等活动。",
+    "confidence": 0.95,
+    "source_url": "http://sh.bendibao.com/xiuxian/20261022/309985.shtm"
+  },
+  {
+    "title": "上海耀雪冰雪世界水世界开园",
+    "category": "other",
+    "sub_tags": [
+      "水上乐园",
+      "夏季玩水",
+      "开园"
+    ],
+    "start_time": "2026-05-30",
+    "end_time": null,
+    "time_detail": "2026年5月30日开园",
+    "is_time_fuzzy": true,
+    "location_name": "上海耀雪冰雪世界水世界",
+    "address": "上海市浦东新区南汇新城镇沪城环路2088弄1-5号",
+    "price_info": "早鸟票低至39元",
+    "description": "2026年夏季来临，耀雪冰雪世界水世界将于5月30日开园，早鸟票低至39元，园内有登峰造极、悬空挑战、极速水道、彩虹竞速等近20项水上项目。",
+    "confidence": 0.75,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026527/306250.shtm"
+  },
+  {
+    "title": "上海月湖雕塑公园昆虫花园秘境·秋日丰收奇遇季",
+    "category": "exhibition",
+    "sub_tags": [
+      "稻草艺术",
+      "花海",
+      "亲子互动",
+      "户外装置"
+    ],
+    "start_time": "2026-09-25",
+    "end_time": "2026-10-25",
+    "time_detail": "2026年9月25日-10月25日，营业时间9:00-17:00（16:30停止检票）；NPC互动演绎时间：9月25日-9月27日、10月1日-10月7日；南瓜游玩开放时间：每周六、周日及节假日",
+    "is_time_fuzzy": false,
+    "location_name": "上海月湖雕塑公园",
+    "address": "上海月湖雕塑公园（导航至“上海月湖雕塑公园-游客服务中心”）",
+    "price_info": null,
+    "description": "以稻草、菊花和南瓜为元素打造昆虫花园秘境，可赏巨型稻草昆虫、菊花南瓜景观并参与南瓜互动游戏和NPC演绎。",
+    "confidence": 0.9,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026917/309271.shtm"
+  },
+  {
+    "title": "上海浦江郊野公园奇迹花园秋季花展",
+    "category": "exhibition",
+    "sub_tags": [
+      "花展",
+      "菊花艺术展",
+      "灯会",
+      "夜游"
+    ],
+    "start_time": "2026-09-25",
+    "end_time": "2026-11-30",
+    "time_detail": "8:30—22:00，21:00停止入园",
+    "is_time_fuzzy": false,
+    "location_name": "上海浦江郊野公园奇迹花园",
+    "address": "上海浦江郊野公园奇迹花园",
+    "price_info": "单人票39.9元",
+    "description": "奇迹花园秋季花展，白天可赏沉浸式菊花艺术展，夜间可游千灯会，还有演艺巡游、舞台剧、NPC互动及铁花表演。",
+    "confidence": 0.9,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026928/309538.shtm"
+  },
+  {
+    "title": "上海玛雅海滩水公园开园",
+    "category": "other",
+    "sub_tags": [
+      "水上乐园",
+      "夏季玩水",
+      "主题乐园"
+    ],
+    "start_time": "2026-06-14",
+    "end_time": null,
+    "time_detail": "6月14日开园",
+    "is_time_fuzzy": true,
+    "location_name": "上海玛雅海滩水公园",
+    "address": null,
+    "price_info": "早鸟票109元起",
+    "description": "上海玛雅海滩水公园2026年6月14日开园，打造200000㎡玩水空间，全新主题「海洋奇遇记」，含100+亲子戏水设备、20+大型水上项目。",
+    "confidence": 0.7,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026527/306251.shtm"
+  },
+  {
+    "title": "上海共青森林公园向日葵花海",
+    "category": "other",
+    "sub_tags": [
+      "赏花",
+      "公园",
+      "自然景观"
+    ],
+    "start_time": null,
+    "end_time": "2026-11-01",
+    "time_detail": "最佳观赏期在国庆前后，观赏期可持续到11月初；公园开放时间5:00-18:00",
+    "is_time_fuzzy": true,
+    "location_name": "上海共青森林公园东门",
+    "address": "杨浦区嫩江路100号",
+    "price_info": null,
+    "description": "共青森林公园东门种植近5000平方米、万株“无限阳光”向日葵，已进入盛花期，金黄花朵形成连绵花浪，与园内自然林带相映成趣。",
+    "confidence": 0.7,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026928/309536.shtm"
+  },
+  {
+    "title": "2026年花开海上第十届格桑花文化旅游节",
+    "category": "other",
+    "sub_tags": [
+      "赏花",
+      "文化旅游节",
+      "秋季花海"
+    ],
+    "start_time": "2026-09-25",
+    "end_time": "2026-10-31",
+    "time_detail": "9月25日开幕，花期持续至10月下旬",
+    "is_time_fuzzy": false,
+    "location_name": "花开海上生态园",
+    "address": "上海市金山区亭枫公路花开海上生态园",
+    "price_info": "成人票30元/张，老年票20元/张，学生票20元/张，70周岁以上老人等免票",
+    "description": "园区内格桑花、鼠尾草、硫华菊、柳叶马鞭草、醉蝶花、千日紫、向日葵、地肤等秋季花卉陆续进入观赏期，花期主要集中在9月下旬至10月下旬。",
+    "confidence": 0.9,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309420.shtm"
+  },
+  {
+    "title": "2026中秋嫦娥飞到了花开海上",
+    "category": "other",
+    "sub_tags": [
+      "中秋游园",
+      "汉服",
+      "合影互动"
+    ],
+    "start_time": "2026-09-25",
+    "end_time": "2026-09-27",
+    "time_detail": "9月25日-9月27日下午",
+    "is_time_fuzzy": false,
+    "location_name": "花开海上生态园-花海",
+    "address": "上海市金山区亭枫公路花开海上生态园",
+    "price_info": "身着汉服带妆造可免票入园",
+    "description": "身着华裳的嫦娥携玉兔穿行地肤花海，簪花郎伴花而行，偶遇仙子与簪花郎可驻足合影。",
+    "confidence": 0.85,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309420.shtm"
+  },
+  {
+    "title": "中秋月圆篝火晚会",
+    "category": "other",
+    "sub_tags": [
+      "篝火晚会",
+      "中秋赏月",
+      "烧烤"
+    ],
+    "start_time": "2026-09-26",
+    "end_time": "2026-09-26",
+    "time_detail": "9月26日17:30",
+    "is_time_fuzzy": false,
+    "location_name": "花开海上生态园-芳香花园星空草坪",
+    "address": "上海市金山区亭枫公路花开海上生态园",
+    "price_info": null,
+    "description": "围坐篝火旁赏月，烧烤营地同步开放，可点击预约。",
+    "confidence": 0.8,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309420.shtm"
+  },
+  {
+    "title": "寻找梵高的向日葵",
+    "category": "exhibition",
+    "sub_tags": [
+      "艺术打卡",
+      "梵高向日葵",
+      "抽奖互动"
+    ],
+    "start_time": "2026-09-28",
+    "end_time": "2026-10-15",
+    "time_detail": "9月28日-10月15日",
+    "is_time_fuzzy": false,
+    "location_name": "花开海上生态园-芳香花园五福花海",
+    "address": "上海市金山区亭枫公路花开海上生态园",
+    "price_info": null,
+    "description": "花海间藏着6幅梵高《向日葵》系列画作，找到6幅不同油画打卡留影，带相关话题发布社交平台后可前往芳香学院抽奖。",
+    "confidence": 0.85,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309420.shtm"
+  },
+  {
+    "title": "一朵游走的格桑花",
+    "category": "other",
+    "sub_tags": [
+      "游船体验",
+      "打卡抽奖"
+    ],
+    "start_time": "2026-10-01",
+    "end_time": "2026-10-07",
+    "time_detail": "10月1日-10月7日",
+    "is_time_fuzzy": false,
+    "location_name": "花开海上生态园-芳香花园水上码头",
+    "address": "上海市金山区亭枫公路花开海上生态园",
+    "price_info": null,
+    "description": "乘彩虹小艇沿水系漫游花海，寻找藏在岸边的八瓣格桑，找到后可前往芳香学院参与抽奖；门票编号尾数为8的游客可兑换1小时免费福利，限每日前30位。",
+    "confidence": 0.85,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309420.shtm"
+  },
+  {
+    "title": "花开海上·奇趣嘉年华",
+    "category": "other",
+    "sub_tags": [
+      "小丑互动",
+      "杂技表演",
+      "魔术秀"
+    ],
+    "start_time": "2026-10-02",
+    "end_time": "2026-10-04",
+    "time_detail": "10月2日-10月4日14:00-15:30",
+    "is_time_fuzzy": false,
+    "location_name": "花开海上生态园-芳香花园星空草坪",
+    "address": "上海市金山区亭枫公路花开海上生态园",
+    "price_info": null,
+    "description": "滑稽小丑互动、花式气球派送、杂技表演、魔术秀轮番上演。",
+    "confidence": 0.85,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309420.shtm"
+  },
+  {
+    "title": "花海烧烤派对",
+    "category": "food_stall",
+    "sub_tags": [
+      "烧烤",
+      "篝火",
+      "花海夜景"
+    ],
+    "start_time": "2026-10-02",
+    "end_time": "2026-10-04",
+    "time_detail": "10月2日-10月4日17:30-20:00",
+    "is_time_fuzzy": false,
+    "location_name": "花开海上生态园-芳香花园星空草坪",
+    "address": "上海市金山区亭枫公路花开海上生态园",
+    "price_info": null,
+    "description": "篝火、烧烤、花海夜景，烧烤营地同步开放，可点击预约。",
+    "confidence": 0.85,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309420.shtm"
+  },
+  {
+    "title": "秋日花海集市",
+    "category": "market",
+    "sub_tags": [
+      "非遗文创",
+      "手作饰品",
+      "传统布艺",
+      "匠心陶艺",
+      "民俗手作"
+    ],
+    "start_time": "2026-10-01",
+    "end_time": "2026-10-07",
+    "time_detail": "10月1日-10月7日",
+    "is_time_fuzzy": false,
+    "location_name": "花开海上生态园-枫花路",
+    "address": "上海市金山区亭枫公路花开海上生态园",
+    "price_info": null,
+    "description": "汇聚非遗文创、手作饰品、传统布艺、匠心陶艺、民俗手作等。",
+    "confidence": 0.85,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309420.shtm"
+  },
+  {
+    "title": "2026年“临港时刻 时光之戒”五一光影烟花秀",
+    "category": "other",
+    "sub_tags": [
+      "光影秀",
+      "烟花秀",
+      "免费活动"
+    ],
+    "start_time": "2026-05-02",
+    "end_time": "2026-05-02",
+    "time_detail": "2026年5月2日20:00",
+    "is_time_fuzzy": false,
+    "location_name": "滴水湖—环湖景观带",
+    "address": "浦东新区滴水湖环湖景观带（地铁16号线滴水湖站）",
+    "price_info": "免费",
+    "description": "以整个滴水湖为光影幕布、湖心雕塑“水滴”为核心点的光影烟花秀，免费无需预约直接前往，如遇特殊天气取消。",
+    "confidence": 0.85,
+    "source_url": "http://sh.bendibao.com/xiuxian/20251222/302943.shtm"
+  },
+  {
+    "title": "2026年“临港时刻 时光之戒”光影烟花秀（每周六常规场）",
+    "category": "other",
+    "sub_tags": [
+      "光影秀",
+      "烟花秀",
+      "免费活动",
+      "常态化演出"
+    ],
+    "start_time": null,
+    "end_time": null,
+    "time_detail": "每周六及部分节假日晚上20:00",
+    "is_time_fuzzy": true,
+    "location_name": "滴水湖—环湖景观带",
+    "address": "浦东新区滴水湖环湖景观带（地铁16号线滴水湖站）",
+    "price_info": "免费",
+    "description": "2026年每周六及部分节假日晚上20:00在滴水湖畔举办的“临港时刻 时光之戒”光影烟花秀，市民可免费参与。",
+    "confidence": 0.6,
+    "source_url": "http://sh.bendibao.com/xiuxian/20251222/302943.shtm"
+  },
+  {
+    "title": "东岸艺游系列活动之“艺趣大邑商”主题游园会",
+    "category": "exhibition",
+    "sub_tags": [
+      "灯会",
+      "NPC互动游园",
+      "博物馆联名",
+      "殷商文化"
+    ],
+    "start_time": "2026-09-25",
+    "end_time": "2026-11-15",
+    "time_detail": "2026年9月25日-11月15日",
+    "is_time_fuzzy": false,
+    "location_name": "浦东美术馆东广场、西广场",
+    "address": "浦东新区滨江大道2777号",
+    "price_info": "免费",
+    "description": "东岸文化联合安阳市殷墟博物馆举办的主题游园会，含“礼行三境 灯耀千年”主题灯会、NPC游园互动、集“贝壳”兑换福利等活动。",
+    "confidence": 0.95,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026918/309289.shtm"
+  },
+  {
+    "title": "PCE2026第八届上海国际口腔清洁护理用品展",
+    "category": "exhibition",
+    "sub_tags": [
+      "行业展会",
+      "口腔护理",
+      "免费"
+    ],
+    "start_time": "2026-10-28",
+    "end_time": "2026-10-30",
+    "time_detail": "10月28-30日",
+    "is_time_fuzzy": false,
+    "location_name": "上海新国际博览中心",
+    "address": "上海新国际博览中心",
+    "price_info": "免费",
+    "description": "第八届上海国际口腔清洁护理用品展览会，展品涵盖日常清洁护理产品、口腔特护产品、原辅材料、包装设备及OEM/ODM等。",
+    "confidence": 0.9,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026929/309576.shtm"
+  },
+  {
+    "title": "惜时奋进——马长河蟋蟀画作品展",
+    "category": "exhibition",
+    "sub_tags": [
+      "画展",
+      "社区展览"
+    ],
+    "start_time": "2026-10-12",
+    "end_time": "2026-10-25",
+    "time_detail": "10月12日-10月25日",
+    "is_time_fuzzy": false,
+    "location_name": "曹杨社区文化活动中心",
+    "address": "杏山路317号",
+    "price_info": null,
+    "description": "邀您共赏秋虫世界的力与美，在传统与创新的交融中感受跨越千年的雅趣真谛。",
+    "confidence": 0.85,
+    "source_url": "https://zainow.cn/shanghai/"
+  },
+  {
+    "title": "2026金秋游园会",
+    "category": "market",
+    "sub_tags": [
+      "游园会",
+      "美食",
+      "科普",
+      "摄影"
+    ],
+    "start_time": "2026-09-25",
+    "end_time": "2026-10-25",
+    "time_detail": "9月25日—10月25日",
+    "is_time_fuzzy": false,
+    "location_name": "顾村公园",
+    "address": "顾村公园",
+    "price_info": null,
+    "description": "满园飘香的丹桂、如梦似幻的粉黛、绚丽多姿的月季，公园精心准备多项主题活动，将科普、摄影、游乐、美食等内容融入秋色中。",
+    "confidence": 0.8,
+    "source_url": "https://zainow.cn/shanghai/"
   }
 ]
