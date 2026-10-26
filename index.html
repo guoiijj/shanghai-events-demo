@@ -305,8 +305,8 @@ function renderJsonLd() {
 async function boot() {
   try {
     const [evRes, metaRes] = await Promise.all([
-      fetch("./data.json", { cache: "no-store" }),
-      fetch("./meta.json", { cache: "no-store" }).catch(() => null)
+      fetch(`./data.json?v=${Date.now()}`, { cache: "no-store" }),
+      fetch(`./meta.json?v=${Date.now()}`, { cache: "no-store" }).catch(() => null)
     ]);
     EVENTS = await evRes.json();
     if (metaRes && metaRes.ok) META = await metaRes.json();
