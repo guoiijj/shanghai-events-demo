@@ -644,62 +644,6 @@
     "last_verified": "2026-10-26"
   },
   {
-    "id": "21f05dba61bb",
-    "title": "上海耀雪冰雪世界水世界开园",
-    "category": "other",
-    "sub_tags": [
-      "水上乐园",
-      "夏季玩水",
-      "开园"
-    ],
-    "start_time": "2026-05-30",
-    "end_time": null,
-    "time_detail": "2026年5月30日开园",
-    "is_time_fuzzy": true,
-    "location_name": "上海耀雪冰雪世界水世界",
-    "address": "上海市浦东新区南汇新城镇沪城环路2088弄1-5号",
-    "price_info": "早鸟票低至39元",
-    "description": "2026年夏季来临，耀雪冰雪世界水世界将于5月30日开园，早鸟票低至39元，园内有登峰造极、悬空挑战、极速水道、彩虹竞速等近20项水上项目。",
-    "confidence": 0.75,
-    "status": "unknown",
-    "days_left": null,
-    "days_to_start": -149,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026527/306250.shtm",
-    "source_count": 1,
-    "source_names": [
-      "历史数据"
-    ],
-    "last_verified": "2026-10-26"
-  },
-  {
-    "id": "a17f8b19e9e4",
-    "title": "上海玛雅海滩水公园开园",
-    "category": "other",
-    "sub_tags": [
-      "水上乐园",
-      "夏季玩水",
-      "主题乐园"
-    ],
-    "start_time": "2026-06-14",
-    "end_time": null,
-    "time_detail": "6月14日开园",
-    "is_time_fuzzy": true,
-    "location_name": "上海玛雅海滩水公园",
-    "address": null,
-    "price_info": "早鸟票109元起",
-    "description": "上海玛雅海滩水公园2026年6月14日开园，打造200000㎡玩水空间，全新主题「海洋奇遇记」，含100+亲子戏水设备、20+大型水上项目。",
-    "confidence": 0.7,
-    "status": "unknown",
-    "days_left": null,
-    "days_to_start": -134,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026527/306251.shtm",
-    "source_count": 1,
-    "source_names": [
-      "历史数据"
-    ],
-    "last_verified": "2026-10-26"
-  },
-  {
     "id": "2950c34b5943",
     "title": "银魂主题快闪",
     "category": "popup_store",
