@@ -68,27 +68,34 @@ def _source_urls(e: dict) -> set:
 
 
 def is_same_event(a: dict, b: dict) -> bool:
-    # 同一条来源链接 = 同一个活动，最可靠的判据
-    if _source_urls(a) & _source_urls(b):
-        return True
-    if not _dates_close(a, b):
-        return False
+    """判定是否同一活动。
+
+    坑：同一篇汇总文章会抽出多个活动，它们共用 source_url、同一场馆、日期也重叠。
+    所以"同 URL / 同场馆"都只是提示，标题相似度才是主判据；缺日期时要求更严。
+    """
     ta, tb = norm_title(a.get("title", "")), norm_title(b.get("title", ""))
     if not ta or not tb:
         return False
     t_sim = _sim(ta, tb)
+    contains = (ta in tb or tb in ta) and min(len(ta), len(tb)) >= 6
     va, vb = norm_venue(a.get("location_name") or ""), norm_venue(b.get("location_name") or "")
-    if va and vb and (va in vb or vb in va) and min(len(va), len(vb)) >= 4:
-        v_sim = max(_sim(va, vb), 0.9)
+    if va and vb:
+        v_sim = max(_sim(va, vb), 0.9) if ((va in vb or vb in va) and min(len(va), len(vb)) >= 4) else _sim(va, vb)
     else:
-        v_sim = _sim(va, vb) if va and vb else 1.0
-    if t_sim >= 0.92:
-        return v_sim >= 0.4 or not va or not vb
-    if (ta in tb or tb in ta) and min(len(ta), len(tb)) >= 6 and v_sim >= 0.5 and _overlaps(a, b):
+        v_sim = 0.5  # 一方没地点：不给额外加分
+    sa, sb = a.get("start_time"), b.get("start_time")
+    if not sa or not sb:
+        # 缺日期时，只有标题几乎一样才认为是同一条
+        return t_sim >= 0.9 and (v_sim >= 0.6 or not va or not vb)
+    if not _dates_close(a, b):
+        return False
+    if _source_urls(a) & _source_urls(b):
+        return t_sim >= 0.72 or contains
+    if t_sim >= 0.92 and (v_sim >= 0.45 or not va or not vb):
         return True
-    if t_sim >= 0.66 and v_sim >= 0.72 and _overlaps(a, b):
+    if contains and v_sim >= 0.6 and _overlaps(a, b):
         return True
-    if va and vb and v_sim >= 0.85 and (ta in tb or tb in ta) and _overlaps(a, b):
+    if t_sim >= 0.72 and v_sim >= 0.8 and _overlaps(a, b):
         return True
     return False
 

@@ -155,7 +155,7 @@ def parse_generic_list(html: str, base_url: str) -> list[dict]:
     return out
 
 
-def fetch_article(url: str, timeout: int = 20, retries: int = 2) -> tuple[str, str]:
+def fetch_article(url: str, timeout: int = 15, retries: int = 1) -> tuple[str, str]:
     """返回 (去噪后的正文, 页面标题)。"""
     html, final_url, status = http_get(url, timeout=timeout, retries=retries)
     text = html_to_text(html)

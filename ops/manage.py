@@ -13,6 +13,7 @@ from __future__ import annotations
 
 import argparse
 import sys
+import time
 from datetime import datetime
 from pathlib import Path
 
@@ -111,6 +112,7 @@ def cmd_run(args) -> int:
                     log(f"    + {ev['title']} ({ev.get('start_time')}~{ev.get('end_time')})")
             seen[cand["url"]] = {"first_seen": now_sh().isoformat(timespec="seconds"),
                                  "source_id": src["id"], "events": len(events)}
+            time.sleep(1.2)  # 连续抓详情页会被限流，放慢一点
         stats["per_source"][src["id"]] = per
 
     enr = {"done": 0, "fields": 0, "fail": 0}
