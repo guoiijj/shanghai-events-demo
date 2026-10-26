@@ -6,19 +6,16 @@
     "sub_tags": [
       "赏花",
       "文化旅游节",
-      "秋季花海",
-      "中秋游园",
-      "汉服",
-      "合影互动"
+      "秋季花海"
     ],
     "start_time": "2026-09-25",
     "end_time": "2026-10-31",
-    "time_detail": "10月1日-10月7日",
+    "time_detail": "9月25日开幕，花期持续至10月下旬",
     "is_time_fuzzy": false,
-    "location_name": "花开海上生态园-枫花路",
+    "location_name": "花开海上生态园",
     "address": "上海市金山区亭枫公路花开海上生态园",
-    "price_info": "身着汉服带妆造可免票入园",
-    "description": "乘彩虹小艇沿水系漫游花海，寻找藏在岸边的八瓣格桑，找到后可前往芳香学院参与抽奖；门票编号尾数为8的游客可兑换1小时免费福利，限每日前30位。",
+    "price_info": "成人票30元/张，老年票20元/张，学生票20元/张，70周岁以上老人等免票",
+    "description": "园区内格桑花、鼠尾草、硫华菊、柳叶马鞭草、醉蝶花、千日紫、向日葵、地肤等秋季花卉陆续进入观赏期，花期主要集中在9月下旬至10月下旬。",
     "confidence": 0.9,
     "status": "ongoing",
     "days_left": 5,
@@ -94,10 +91,7 @@
     "category": "food_stall",
     "sub_tags": [
       "汉堡",
-      "美食节",
-      "美食市集",
-      "免费入场",
-      "首发品牌"
+      "美食节"
     ],
     "start_time": "2026-10-16",
     "end_time": "2026-11-01",
@@ -106,7 +100,7 @@
     "location_name": "上海万象城",
     "address": null,
     "price_info": "免费入场，消费自选",
-    "description": "17天超长档期，来自全国31座城市的45家顶尖手作汉堡品牌齐聚，近四成品牌首次登陆上海，含3家海外品牌首进亚洲及多家港台品牌；覆盖SolongPark有街公园全户外空间，可逛吃、看展、遛娃，还有虹桥镇政府“票嗨虹桥”消费",
+    "description": "45家手作汉堡品牌，来自全国31座城市",
     "confidence": 0.95,
     "status": "ongoing",
     "days_left": 6,
@@ -116,6 +110,34 @@
     "source_names": [
       "历史数据",
       "上海本地宝 · 市集"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
+    "id": "4a1e8a522efc",
+    "title": "上海共青森林公园向日葵花海",
+    "category": "other",
+    "sub_tags": [
+      "赏花",
+      "公园",
+      "自然景观"
+    ],
+    "start_time": null,
+    "end_time": "2026-11-01",
+    "time_detail": "最佳观赏期在国庆前后，观赏期可持续到11月初；公园开放时间5:00-18:00",
+    "is_time_fuzzy": true,
+    "location_name": "上海共青森林公园东门",
+    "address": "杨浦区嫩江路100号",
+    "price_info": null,
+    "description": "共青森林公园东门种植近5000平方米、万株“无限阳光”向日葵，已进入盛花期，金黄花朵形成连绵花浪，与园内自然林带相映成趣。",
+    "confidence": 0.7,
+    "status": "ongoing",
+    "days_left": 6,
+    "days_to_start": null,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026928/309536.shtm",
+    "source_count": 1,
+    "source_names": [
+      "历史数据"
     ],
     "last_verified": "2026-10-26"
   },
@@ -242,10 +264,7 @@
     "sub_tags": [
       "花展",
       "菊花展",
-      "公园活动",
-      "赏花",
-      "公园",
-      "自然景观"
+      "公园活动"
     ],
     "start_time": "2026-10-24",
     "end_time": "2026-11-29",
@@ -254,7 +273,7 @@
     "location_name": "上海共青森林公园",
     "address": "上海共青森林公园",
     "price_info": "免费",
-    "description": "以开园四十载为主线，设佳菊揽盛、艺绽芳华、群英荟萃三大板块，展示600余种近千盆精品菊花及全国菊展金奖品种，串联多处花境与主题景点。",
+    "description": "以“四秩风华凝秋色，满园菊韵绘新篇”为主题，设佳菊揽盛、艺绽芳华、群英荟萃三大板块，展示600余种精品菊花及多处主题景点。",
     "confidence": 0.95,
     "status": "ongoing",
     "days_left": 34,
@@ -475,8 +494,7 @@
     "sub_tags": [
       "行业展会",
       "口腔护理",
-      "免费",
-      "行业展"
+      "免费"
     ],
     "start_time": "2026-10-28",
     "end_time": "2026-10-30",
@@ -560,9 +578,7 @@
       "童书展",
       "图书展",
       "儿童内容",
-      "IP",
-      "亲子",
-      "图书"
+      "IP"
     ],
     "start_time": "2026-11-13",
     "end_time": "2026-11-15",
@@ -591,9 +607,7 @@
       "行业展会",
       "实验室技术",
       "分析仪器",
-      "生命科学",
-      "实验室仪器",
-      "分析生化"
+      "生命科学"
     ],
     "start_time": "2026-11-16",
     "end_time": "2026-11-18",
@@ -644,16 +658,67 @@
     "last_verified": "2026-10-26"
   },
   {
+    "id": "4aa052bb377f",
+    "title": "2026年“临港时刻 时光之戒”光影烟花秀（每周六常规场）",
+    "category": "other",
+    "sub_tags": [
+      "光影秀",
+      "烟花秀",
+      "免费活动",
+      "常态化演出"
+    ],
+    "start_time": null,
+    "end_time": null,
+    "time_detail": "每周六及部分节假日晚上20:00",
+    "is_time_fuzzy": true,
+    "location_name": "滴水湖—环湖景观带",
+    "address": "浦东新区滴水湖环湖景观带（地铁16号线滴水湖站）",
+    "price_info": "免费",
+    "description": "2026年每周六及部分节假日晚上20:00在滴水湖畔举办的“临港时刻 时光之戒”光影烟花秀，市民可免费参与。",
+    "confidence": 0.6,
+    "status": "unknown",
+    "days_left": null,
+    "days_to_start": null,
+    "source_url": "http://sh.bendibao.com/xiuxian/20251222/302943.shtm",
+    "source_count": 1,
+    "source_names": [
+      "历史数据"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
     "id": "2950c34b5943",
     "title": "银魂主题快闪",
     "category": "popup_store",
     "sub_tags": [
       "二次元",
-      "银魂",
-      "意大利美食",
-      "HelloKitty",
-      "沉浸式",
-      "异国文化"
+      "银魂"
+    ],
+    "start_time": null,
+    "end_time": null,
+    "time_detail": null,
+    "is_time_fuzzy": true,
+    "location_name": "永嘉路309号口袋公园",
+    "address": "徐汇区永嘉路309号",
+    "price_info": null,
+    "description": "周边商品+拍照场景",
+    "confidence": 0.5,
+    "status": "unknown",
+    "days_left": null,
+    "days_to_start": null,
+    "source_url": "https://post.m.smzdm.com/zz/p/azz7wzmn/",
+    "source_count": 1,
+    "source_names": [
+      "历史数据"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
+    "id": "99282f1111d7",
+    "title": "PAC意大利美食节",
+    "category": "food_stall",
+    "sub_tags": [
+      "意大利美食"
     ],
     "start_time": null,
     "end_time": null,
@@ -664,6 +729,60 @@
     "price_info": null,
     "description": "30+意大利美食摊位，艺术空间+游戏互动",
     "confidence": 0.5,
+    "status": "unknown",
+    "days_left": null,
+    "days_to_start": null,
+    "source_url": "https://post.m.smzdm.com/zz/p/azz7wzmn/",
+    "source_count": 1,
+    "source_names": [
+      "历史数据"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
+    "id": "c3501467c209",
+    "title": "HelloKitty主题快闪",
+    "category": "popup_store",
+    "sub_tags": [
+      "二次元",
+      "HelloKitty"
+    ],
+    "start_time": null,
+    "end_time": null,
+    "time_detail": null,
+    "is_time_fuzzy": true,
+    "location_name": "光复路127号",
+    "address": "静安区光复路127号",
+    "price_info": null,
+    "description": null,
+    "confidence": 0.4,
+    "status": "unknown",
+    "days_left": null,
+    "days_to_start": null,
+    "source_url": "https://post.m.smzdm.com/zz/p/azz7wzmn/",
+    "source_count": 1,
+    "source_names": [
+      "历史数据"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
+    "id": "0dded3766b64",
+    "title": "疯狂动物城快闪",
+    "category": "popup_store",
+    "sub_tags": [
+      "二次元",
+      "沉浸式"
+    ],
+    "start_time": null,
+    "end_time": null,
+    "time_detail": null,
+    "is_time_fuzzy": true,
+    "location_name": "五角场合生汇L1",
+    "address": null,
+    "price_info": null,
+    "description": "沉浸式场景+周边产品",
+    "confidence": 0.4,
     "status": "unknown",
     "days_left": null,
     "days_to_start": null,
