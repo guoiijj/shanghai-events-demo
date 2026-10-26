@@ -3,7 +3,13 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>上海临时活动 - 现在/本周末去哪儿</title>
+<title>上海临时活动 · 现在去哪儿（展览/市集/快闪/美食节）</title>
+<meta name="description" content="上海正在发生和即将开始的临时活动：展览、市集、快闪店、美食节。按“还去得成”排序，每日自动核验，每条都附原始信息来源。">
+<link rel="canonical" href="https://guoiijj.github.io/shanghai-events-demo/">
+<meta property="og:title" content="上海临时活动 · 现在去哪儿">
+<meta property="og:description" content="只收录还去得成的展览 / 市集 / 快闪 / 美食节，每日自动核验。">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#f5f3ef">
 <style>
   :root {
     --bg: #f5f3ef;
@@ -14,269 +20,306 @@
     --accent-soft: #fbe7e0;
     --border: #e8e4dd;
     --tag-bg: #f0eee8;
+    --ok: #2e7d5b;
+    --ok-soft: #e4f3ec;
+    --soon: #2f6ea5;
+    --soon-soft: #e6f0f8;
     --warn-bg: #fff4e0;
     --warn-ink: #9a6a0c;
   }
   * { box-sizing: border-box; }
+  html { -webkit-text-size-adjust: 100%; }
   body {
     margin: 0;
-    font-family: -apple-system, "PingFang SC", "Microsoft YaHei", sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, "PingFang SC", "Microsoft YaHei", sans-serif;
     background: var(--bg);
     color: var(--ink);
-  }
-  header {
-    padding: 20px 16px 12px;
-    position: sticky;
-    top: 0;
-    background: var(--bg);
-    z-index: 10;
-    border-bottom: 1px solid var(--border);
-  }
-  header h1 {
-    font-size: 20px;
-    margin: 0 0 2px;
-  }
-  header p.sub {
-    margin: 0 0 14px;
-    color: var(--muted);
-    font-size: 13px;
-  }
-  .filters {
-    display: flex;
-    gap: 8px;
-    overflow-x: auto;
-    padding-bottom: 4px;
-    scrollbar-width: none;
-  }
-  .filters::-webkit-scrollbar { display: none; }
-  .chip {
-    flex-shrink: 0;
-    padding: 6px 14px;
-    border-radius: 16px;
-    background: var(--tag-bg);
-    color: var(--ink);
-    font-size: 13px;
-    cursor: pointer;
-    border: 1px solid transparent;
-    white-space: nowrap;
-    user-select: none;
-  }
-  .chip.active {
-    background: var(--accent);
-    color: #fff;
-  }
-  main {
-    padding: 14px 16px 60px;
-    max-width: 640px;
-    margin: 0 auto;
-  }
-  .count-line {
-    font-size: 12px;
-    color: var(--muted);
-    margin: 10px 2px 12px;
-  }
-  .card {
-    background: var(--card);
-    border-radius: 14px;
-    padding: 14px 16px;
-    margin-bottom: 12px;
-    border: 1px solid var(--border);
-  }
-  .card-top {
-    display: flex;
-    justify-content: space-between;
-    align-items: flex-start;
-    gap: 8px;
-  }
-  .card h3 {
-    font-size: 16px;
-    margin: 0 0 6px;
-    line-height: 1.4;
-  }
-  .cat-badge {
-    flex-shrink: 0;
-    font-size: 11px;
-    padding: 3px 8px;
-    border-radius: 6px;
-    background: var(--accent-soft);
-    color: var(--accent);
-    white-space: nowrap;
-  }
-  .meta-row {
-    font-size: 13px;
-    color: var(--muted);
-    margin: 3px 0;
-    display: flex;
-    gap: 6px;
-    align-items: baseline;
-  }
-  .meta-row .icon { flex-shrink: 0; }
-  .desc {
-    font-size: 13px;
-    color: #4a4a4a;
-    margin: 8px 0 4px;
     line-height: 1.5;
   }
-  .tags {
-    display: flex;
-    gap: 6px;
-    flex-wrap: wrap;
-    margin-top: 8px;
+  header {
+    padding: 18px 16px 10px;
+    position: sticky;
+    top: 0;
+    background: rgba(245, 243, 239, .96);
+    backdrop-filter: saturate(180%) blur(8px);
+    z-index: 20;
+    border-bottom: 1px solid var(--border);
   }
-  .tag {
-    font-size: 11px;
-    padding: 2px 8px;
-    border-radius: 10px;
-    background: var(--tag-bg);
-    color: var(--muted);
+  .head-top { display: flex; align-items: baseline; gap: 8px; }
+  h1 { font-size: 20px; margin: 0; letter-spacing: .5px; }
+  .upd { margin-left: auto; font-size: 11px; color: var(--muted); display: flex; align-items: center; gap: 5px; white-space: nowrap; }
+  .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--ok); display: inline-block; }
+  .live-dot.stale { background: #c9a227; }
+  p.sub { margin: 4px 0 12px; color: var(--muted); font-size: 12.5px; }
+  .search { position: relative; margin-bottom: 10px; }
+  .search input {
+    width: 100%; padding: 9px 12px 9px 34px; border-radius: 10px;
+    border: 1px solid var(--border); background: var(--card); font-size: 14px;
+    color: var(--ink); outline: none; font-family: inherit;
   }
+  .search input:focus { border-color: var(--accent); }
+  .search .ico { position: absolute; left: 11px; top: 50%; transform: translateY(-50%); font-size: 13px; color: var(--muted); }
+  .tabs, .cats { display: flex; gap: 7px; overflow-x: auto; scrollbar-width: none; padding-bottom: 6px; }
+  .tabs::-webkit-scrollbar, .cats::-webkit-scrollbar { display: none; }
+  .chip {
+    flex-shrink: 0; padding: 6px 13px; border-radius: 16px; background: var(--tag-bg);
+    color: var(--ink); font-size: 13px; cursor: pointer; border: 1px solid transparent;
+    white-space: nowrap; user-select: none; font-family: inherit;
+  }
+  .chip.active { background: var(--accent); color: #fff; }
+  .chip .n { opacity: .6; font-size: 11px; margin-left: 2px; }
+  .row2 { display: flex; align-items: center; gap: 10px; margin-top: 2px; }
+  .cats { flex: 1; }
+  .free-toggle { flex-shrink: 0; font-size: 12px; color: var(--muted); display: flex; align-items: center; gap: 4px; cursor: pointer; user-select: none; padding-bottom: 6px; }
+  .free-toggle input { accent-color: var(--accent); }
+  main { padding: 12px 16px 40px; max-width: 700px; margin: 0 auto; }
+  .count-line { font-size: 12px; color: var(--muted); margin: 4px 2px 12px; }
+  .card {
+    background: var(--card); border-radius: 14px; padding: 14px 16px; margin-bottom: 11px;
+    border: 1px solid var(--border); position: relative;
+  }
+  .card-top { display: flex; justify-content: space-between; align-items: flex-start; gap: 8px; }
+  .card h3 { font-size: 16px; margin: 0 0 6px; line-height: 1.4; flex: 1; }
+  .pill { flex-shrink: 0; font-size: 11px; padding: 3px 8px; border-radius: 6px; white-space: nowrap; font-weight: 500; }
+  .pill.ongoing { background: var(--ok-soft); color: var(--ok); }
+  .pill.upcoming { background: var(--soon-soft); color: var(--soon); }
+  .pill.unknown { background: var(--warn-bg); color: var(--warn-ink); }
+  .meta-row { font-size: 13px; color: var(--muted); margin: 3px 0; display: flex; gap: 6px; align-items: baseline; }
+  .meta-row .icon { flex-shrink: 0; font-size: 12px; }
+  .desc { font-size: 13px; color: #4a4a4a; margin: 8px 0 4px; line-height: 1.55; }
+  .tags { display: flex; gap: 6px; flex-wrap: wrap; margin-top: 8px; }
+  .tag { font-size: 11px; padding: 2px 8px; border-radius: 10px; background: var(--tag-bg); color: var(--muted); }
   .fuzzy-warn {
-    margin-top: 10px;
-    font-size: 12px;
-    background: var(--warn-bg);
-    color: var(--warn-ink);
-    padding: 6px 10px;
-    border-radius: 8px;
-    display: flex;
-    gap: 6px;
-    align-items: center;
+    margin-top: 9px; font-size: 11.5px; background: var(--warn-bg); color: var(--warn-ink);
+    padding: 5px 9px; border-radius: 7px; display: inline-block;
   }
-  .source-link {
-    display: inline-block;
-    margin-top: 10px;
-    font-size: 12px;
-    color: var(--accent);
-    text-decoration: none;
-    border-bottom: 1px dashed var(--accent);
-  }
-  .empty {
-    text-align: center;
-    color: var(--muted);
-    padding: 60px 20px;
-    font-size: 14px;
-  }
-  footer {
-    text-align: center;
-    color: var(--muted);
-    font-size: 12px;
-    padding: 20px;
+  .card-foot { display: flex; align-items: center; gap: 10px; margin-top: 10px; }
+  .source-link { font-size: 12px; color: var(--accent); text-decoration: none; }
+  .source-link:hover { text-decoration: underline; }
+  .verify { font-size: 11px; color: #b0aaa3; margin-left: auto; }
+  .empty { text-align: center; color: var(--muted); font-size: 13px; padding: 40px 0; }
+  footer { max-width: 700px; margin: 0 auto; padding: 8px 16px 40px; font-size: 11.5px; color: var(--muted); line-height: 1.7; }
+  footer a { color: var(--muted); }
+  @media (min-width: 700px) {
+    header { padding: 22px 20px 12px; }
+    h1 { font-size: 22px; }
   }
 </style>
 </head>
 <body>
-
 <header>
-  <h1>上海近期活动</h1>
-  <p class="sub">展览 · 市集 · 快闪店 · 美食节 · 购物活动 — 时效性信息优先，不确定的会标出来</p>
-  <div class="filters" id="filters"></div>
+  <div class="head-top">
+    <h1>上海临时活动</h1>
+    <span class="upd"><span class="live-dot" id="dot"></span><span id="updText">加载中…</span></span>
+  </div>
+  <p class="sub">只收录还去得成的展览 / 市集 / 快闪 / 美食节 · 每日自动核验</p>
+  <div class="search">
+    <span class="ico">🔍</span>
+    <input id="q" type="search" placeholder="搜活动、地点、标签，如“市集”“浦东”" autocomplete="off">
+  </div>
+  <nav class="tabs" id="tabs"></nav>
+  <div class="row2">
+    <nav class="cats" id="cats"></nav>
+    <label class="free-toggle"><input type="checkbox" id="freeOnly"> 只看免费</label>
+  </div>
 </header>
-
 <main>
   <div class="count-line" id="countLine"></div>
   <div id="list"></div>
 </main>
-
-<footer>数据来源于公开网络信息，具体以活动官方页面为准 · 原型版本</footer>
+<footer>
+  <div id="footStats"></div>
+  <div>信息来源为公开网页（本地宝、政府网站等），每条卡片底部可查原文。活动可能临时取消或调整，出发前建议点开来源确认。</div>
+  <div>发现信息有误？<a href="https://github.com/guoiijj/shanghai-events-demo/issues/new" target="_blank" rel="noopener">报错 / 补充</a></div>
+</footer>
 
 <script>
 const CATEGORY_LABELS = {
-  exhibition: "展览",
-  market: "市集",
-  popup_store: "快闪店",
-  food_stall: "美食节",
-  shopping: "购物活动",
-  other: "其他"
+  exhibition: "展览", market: "市集", popup_store: "快闪店",
+  food_stall: "美食节", shopping: "购物活动", other: "其他"
 };
 
 let EVENTS = [];
-let currentFilter = "all";
+let META = null;
+let tab = "live";
+let cat = "all";
+let q = "";
+let freeOnly = false;
 
-async function loadData() {
-  const res = await fetch("./data.json");
-  EVENTS = await res.json();
-  renderFilters();
-  render();
+const $ = (id) => document.getElementById(id);
+const esc = (s) => String(s ?? "").replace(/[&<>"']/g, c => ({ "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#39;" }[c]));
+
+function parseDate(s) {
+  if (!s) return null;
+  const [y, m, d] = s.split("-").map(Number);
+  return new Date(y, m - 1, d);
 }
-
-function renderFilters() {
-  const cats = ["all", ...new Set(EVENTS.map(e => e.category))];
-  const filtersEl = document.getElementById("filters");
-  filtersEl.innerHTML = cats.map(c => {
-    const label = c === "all" ? "全部" : (CATEGORY_LABELS[c] || c);
-    const count = c === "all" ? EVENTS.length : EVENTS.filter(e => e.category === c).length;
-    return `<div class="chip ${c === currentFilter ? "active" : ""}" data-cat="${c}">${label} ${count}</div>`;
-  }).join("");
-  filtersEl.querySelectorAll(".chip").forEach(chip => {
-    chip.addEventListener("click", () => {
-      currentFilter = chip.dataset.cat;
-      renderFilters();
-      render();
-    });
-  });
+function fmtDate(s) {
+  if (!s) return "";
+  const d = parseDate(s);
+  return `${d.getMonth() + 1}月${d.getDate()}日`;
 }
-
-function formatDate(ev) {
-  const { start_time, end_time, time_detail } = ev;
-  let range = "";
-  if (start_time && end_time) {
-    range = start_time === end_time ? start_time : `${start_time} 至 ${end_time}`;
-  } else if (start_time) {
-    range = `${start_time} 起`;
-  } else if (end_time) {
-    range = `至 ${end_time}`;
-  } else {
-    range = "时间待确认";
+function endOfWeek() {
+  const now = new Date();
+  const day = now.getDay();
+  const sat = new Date(now);
+  sat.setDate(now.getDate() + (day === 6 ? 0 : day === 0 ? -1 : 6 - day));
+  sat.setHours(0, 0, 0, 0);
+  return { start: sat, end: new Date(sat.getFullYear(), sat.getMonth(), sat.getDate() + 1, 23, 59) };
+}
+function overlapsWeekend(ev) {
+  const w = endOfWeek();
+  const s = parseDate(ev.start_time) || parseDate(ev.end_time);
+  const e = parseDate(ev.end_time) || parseDate(ev.start_time);
+  if (!s || !e) return false;
+  return s <= w.end && e >= w.start;
+}
+function inTab(ev) {
+  if (tab === "live") return ev.status !== "unknown";
+  if (tab === "weekend") return overlapsWeekend(ev);
+  return ev.status === tab;
+}
+function isFree(ev) { return /免费/.test(ev.price_info || ""); }
+function matchQ(ev) {
+  if (!q) return true;
+  const hay = [ev.title, ev.location_name, ev.address, ev.description, (ev.sub_tags || []).join(" "), ev.price_info]
+    .join(" ").toLowerCase();
+  return q.split(/\s+/).every(w => hay.includes(w));
+}
+function badge(ev) {
+  if (ev.status === "unknown") return `<span class="pill unknown">时间待确认</span>`;
+  if (ev.status === "ongoing") {
+    if (ev.days_left === null) return `<span class="pill ongoing">进行中</span>`;
+    if (ev.days_left === 0) return `<span class="pill ongoing">今天最后一天</span>`;
+    return `<span class="pill ongoing">进行中 · 剩${ev.days_left}天</span>`;
   }
-  if (time_detail) range += ` · ${time_detail}`;
-  return range;
+  if (ev.days_to_start === 0) return `<span class="pill upcoming">今天开始</span>`;
+  if (ev.days_to_start === 1) return `<span class="pill upcoming">明天开始</span>`;
+  return `<span class="pill upcoming">${ev.days_to_start}天后</span>`;
 }
-
+function dateText(ev) {
+  const s = ev.start_time, e = ev.end_time;
+  let r = "";
+  if (s && e) r = s === e ? fmtDate(s) : `${fmtDate(s)} – ${fmtDate(e)}`;
+  else if (s) r = `${fmtDate(s)} 起`;
+  else if (e) r = `至 ${fmtDate(e)}`;
+  else return "时间以来源为准";
+  if (ev.time_detail) r += ` · ${ev.time_detail}`;
+  return r;
+}
+function sortKey(a, b) {
+  const rank = { ongoing: 0, upcoming: 1, unknown: 2 };
+  const ra = rank[a.status] ?? 3, rb = rank[b.status] ?? 3;
+  if (ra !== rb) return ra - rb;
+  if (a.status === "ongoing") return (a.days_left ?? 999) - (b.days_left ?? 999);
+  if (a.status === "upcoming") return (a.days_to_start ?? 999) - (b.days_to_start ?? 999);
+  return (b.confidence || 0) - (a.confidence || 0);
+}
+function renderTabs() {
+  const counts = { live: 0, ongoing: 0, upcoming: 0, weekend: 0, unknown: 0 };
+  EVENTS.forEach(ev => {
+    if (ev.status !== "unknown") counts.live++;
+    counts[ev.status] = (counts[ev.status] || 0) + 1;
+    if (overlapsWeekend(ev)) counts.weekend++;
+  });
+  const defs = [["live", "现在能去"], ["ongoing", "进行中"], ["weekend", "本周末"], ["upcoming", "即将开始"], ["unknown", "待确认"]];
+  $("tabs").innerHTML = defs.map(([k, label]) =>
+    `<button class="chip ${tab === k ? "active" : ""}" data-tab="${k}">${label}<span class="n">${counts[k] || 0}</span></button>`
+  ).join("");
+  $("tabs").querySelectorAll(".chip").forEach(el => el.onclick = () => { tab = el.dataset.tab; cat = "all"; render(); });
+}
+function renderCats() {
+  const base = EVENTS.filter(inTab).filter(matchQ).filter(ev => !freeOnly || isFree(ev));
+  const counts = {};
+  base.forEach(ev => counts[ev.category] = (counts[ev.category] || 0) + 1);
+  const cats = [["all", "全部"], ...Object.keys(CATEGORY_LABELS).filter(c => counts[c]).map(c => [c, CATEGORY_LABELS[c]])];
+  $("cats").innerHTML = cats.map(([k, label]) =>
+    `<button class="chip ${cat === k ? "active" : ""}" data-cat="${k}">${label}<span class="n">${k === "all" ? base.length : counts[k]}</span></button>`
+  ).join("");
+  $("cats").querySelectorAll(".chip").forEach(el => el.onclick = () => { cat = el.dataset.cat; render(); });
+}
 function render() {
-  const list = currentFilter === "all" ? EVENTS : EVENTS.filter(e => e.category === currentFilter);
-  // 按 confidence 从高到低排，让信息最完整的活动排前面
-  const sorted = [...list].sort((a, b) => (b.confidence || 0) - (a.confidence || 0));
+  renderTabs();
+  renderCats();
+  let list = EVENTS.filter(inTab).filter(matchQ).filter(ev => !freeOnly || isFree(ev));
+  if (cat !== "all") list = list.filter(ev => ev.category === cat);
+  list.sort(sortKey);
 
-  document.getElementById("countLine").textContent = `共 ${sorted.length} 场活动`;
+  $("countLine").textContent = list.length ? `共 ${list.length} 场 · 按“最快结束 / 最近开始”排序` : "";
 
-  const listEl = document.getElementById("list");
-  if (sorted.length === 0) {
-    listEl.innerHTML = `<div class="empty">这个分类暂时没有收录到活动</div>`;
+  if (!list.length) {
+    $("list").innerHTML = `<div class="empty">这个筛选下暂时没有活动<br>试试「即将开始」或清空搜索</div>`;
     return;
   }
-
-  listEl.innerHTML = sorted.map(ev => {
-    const catLabel = CATEGORY_LABELS[ev.category] || ev.category;
-    const tags = (ev.sub_tags || []).map(t => `<span class="tag">${t}</span>`).join("");
-    const fuzzyWarn = ev.is_time_fuzzy
-      ? `<div class="fuzzy-warn">⚠️ 时间信息不完整，去之前建议在原始来源里确认一下还在不在</div>`
+  $("list").innerHTML = list.map(ev => {
+    const tags = (ev.sub_tags || []).slice(0, 4).map(t => `<span class="tag">${esc(t)}</span>`).join("");
+    const loc = ev.location_name
+      ? `<div class="meta-row"><span class="icon">📍</span><span>${esc(ev.location_name)}${ev.address && ev.address !== ev.location_name ? " · " + esc(ev.address) : ""}</span></div>`
+      : `<div class="meta-row"><span class="icon">📍</span><span>地点以来源为准</span></div>`;
+    const price = ev.price_info ? `<div class="meta-row"><span class="icon">💰</span><span>${esc(ev.price_info)}</span></div>` : "";
+    const src = ev.source_url
+      ? `<a class="source-link" href="${esc(ev.source_url)}" target="_blank" rel="noopener nofollow">看原文${ev.source_count > 1 ? ` · ${ev.source_count}个来源` : ""} →</a>`
       : "";
-    const locLine = ev.location_name
-      ? `<div class="meta-row"><span class="icon">📍</span><span>${ev.location_name}${ev.address ? " · " + ev.address : ""}</span></div>`
-      : `<div class="meta-row"><span class="icon">📍</span><span>地点待确认</span></div>`;
-    const priceLine = ev.price_info
-      ? `<div class="meta-row"><span class="icon">💰</span><span>${ev.price_info}</span></div>`
-      : "";
-
+    const fuzzy = ev.is_time_fuzzy ? `<div class="fuzzy-warn">⚠️ 时间不完整，出发前先看原文确认</div>` : "";
     return `
-      <div class="card">
-        <div class="card-top">
-          <h3>${ev.title}</h3>
-          <span class="cat-badge">${catLabel}</span>
-        </div>
-        <div class="meta-row"><span class="icon">📅</span><span>${formatDate(ev)}</span></div>
-        ${locLine}
-        ${priceLine}
-        ${ev.description ? `<div class="desc">${ev.description}</div>` : ""}
+      <article class="card">
+        <div class="card-top"><h3>${esc(ev.title)}</h3>${badge(ev)}</div>
+        <div class="meta-row"><span class="icon">📅</span><span>${dateText(ev)}</span></div>
+        ${loc}${price}
+        ${ev.description ? `<div class="desc">${esc(ev.description)}</div>` : ""}
         ${tags ? `<div class="tags">${tags}</div>` : ""}
-        ${fuzzyWarn}
-        <a class="source-link" href="${ev.source_url}" target="_blank" rel="noopener">查看信息来源 →</a>
-      </div>
-    `;
+        ${fuzzy}
+        <div class="card-foot">${src}<span class="verify">核验 ${esc(ev.last_verified || "")}</span></div>
+      </article>`;
   }).join("");
 }
-
-loadData();
+function renderMeta() {
+  if (!META) return;
+  const d = new Date(META.generated_at);
+  const fresh = (Date.now() - d.getTime()) < 36 * 3600 * 1000;
+  $("dot").className = "live-dot" + (fresh ? "" : " stale");
+  $("updText").textContent = `${d.getMonth() + 1}/${d.getDate()} ${String(d.getHours()).padStart(2, "0")}:${String(d.getMinutes()).padStart(2, "0")} 已核验`;
+  const c = META.counts || {};
+  $("footStats").textContent = `在架 ${c.published || 0} 场（进行中 ${c.ongoing || 0} · 即将开始 ${c.upcoming || 0}）· 时间待确认 ${c.unknown || 0} 场 · 每日自动更新`;
+}
+function renderJsonLd() {
+  const items = EVENTS.filter(e => e.status !== "unknown").slice(0, 30).map((e, i) => ({
+    "@type": "ListItem", position: i + 1,
+    item: {
+      "@type": "Event", name: e.title,
+      startDate: e.start_time || undefined,
+      endDate: e.end_time || undefined,
+      eventStatus: "https://schema.org/EventScheduled",
+      location: { "@type": "Place", name: e.location_name || "上海", address: e.address || "上海" },
+      offers: e.price_info ? { "@type": "Offer", price: /免费/.test(e.price_info) ? "0" : undefined, priceCurrency: "CNY", description: e.price_info } : undefined,
+      description: e.description || undefined,
+      url: e.source_url || undefined
+    }
+  }));
+  const el = document.createElement("script");
+  el.type = "application/ld+json";
+  el.textContent = JSON.stringify({ "@context": "https://schema.org", "@type": "ItemList", itemListElement: items });
+  document.head.appendChild(el);
+}
+async function boot() {
+  try {
+    const [evRes, metaRes] = await Promise.all([
+      fetch("./data.json", { cache: "no-store" }),
+      fetch("./meta.json", { cache: "no-store" }).catch(() => null)
+    ]);
+    EVENTS = await evRes.json();
+    if (metaRes && metaRes.ok) META = await metaRes.json();
+  } catch (e) {
+    $("list").innerHTML = `<div class="empty">数据加载失败，请稍后刷新</div>`;
+    return;
+  }
+  renderMeta();
+  renderJsonLd();
+  render();
+  $("q").addEventListener("input", e => { q = e.target.value.trim().toLowerCase(); render(); });
+  $("freeOnly").addEventListener("change", e => { freeOnly = e.target.checked; render(); });
+}
+boot();
 </script>
-
 </body>
 </html>
