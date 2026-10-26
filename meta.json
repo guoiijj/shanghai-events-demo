@@ -1,10 +1,16 @@
 {
-  "generated_at": "2026-10-26T21:07:11+08:00",
+  "generated_at": "2026-10-26T21:10:43+08:00",
   "counts": {
     "published": 23,
     "ongoing": 16,
     "upcoming": 6,
     "unknown": 1,
     "total_db": 34
+  },
+  "run": {
+    "new": 0,
+    "merged": 0,
+    "articles": 0,
+    "failed": 0
   }
 }

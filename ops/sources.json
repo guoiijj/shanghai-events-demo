@@ -1,0 +1,62 @@
+[
+  {
+    "id": "bendibao_xiuxian",
+    "name": "上海本地宝 · 休闲",
+    "list_url": "http://sh.bendibao.com/xiuxian/",
+    "mode": "bendibao_list",
+    "enabled": true,
+    "max_new": 12,
+    "priority": 2,
+    "note": "综合休闲频道，更新最勤，文章带明确起止日期"
+  },
+  {
+    "id": "bendibao_zhanlan",
+    "name": "上海本地宝 · 展览",
+    "list_url": "http://sh.bendibao.com/xiuxian/zhanlan/",
+    "mode": "bendibao_api",
+    "enabled": true,
+    "max_new": 60,
+    "priority": 2,
+    "note": "结构化接口一次50条，日期/场馆/地址齐全，无需LLM"
+  },
+  {
+    "id": "bendibao_shiji",
+    "name": "上海本地宝 · 市集",
+    "list_url": "http://sh.bendibao.com/xiuxian/shiji/",
+    "mode": "bendibao_api",
+    "enabled": true,
+    "max_new": 60,
+    "priority": 2,
+    "note": "结构化接口一次50条，日期/场馆/地址齐全，无需LLM"
+  },
+  {
+    "id": "bendibao_huodong",
+    "name": "上海本地宝 · 周末去哪玩",
+    "list_url": "http://sh.bendibao.com/xiuxian/huodong/",
+    "mode": "bendibao_news",
+    "enabled": true,
+    "max_new": 12,
+    "priority": 2,
+    "note": "资讯列表页25条/页，更新快，是日常新增主力"
+  },
+  {
+    "id": "zainow_sh",
+    "name": "在场 ONSITE · 上海",
+    "list_url": "https://zainow.cn/shanghai/",
+    "mode": "generic_list",
+    "enabled": false,
+    "max_new": 10,
+    "priority": 3,
+    "note": "第三方聚合站，400+ 场但社区活动占比高；需要单独写结构化解析，暂关闭"
+  },
+  {
+    "id": "shyp_gov_bmgg",
+    "name": "杨浦区政府 · 便民公告",
+    "list_url": "https://www.shyp.gov.cn/shypq/ggfw-bmgg/",
+    "mode": "generic_list",
+    "enabled": false,
+    "max_new": 5,
+    "priority": 4,
+    "note": "区级周活动预告，社区活动多、展览市集少；作为补充源，默认关闭"
+  }
+]
