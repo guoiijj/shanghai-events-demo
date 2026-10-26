@@ -62,6 +62,33 @@
     "last_verified": "2026-10-26"
   },
   {
+    "id": "4c26a559bb19",
+    "title": "漆彩东方——第七届上海漆画作品展",
+    "category": "exhibition",
+    "sub_tags": [
+      "漆画",
+      "免费"
+    ],
+    "start_time": "2026-09-23",
+    "end_time": "2026-10-31",
+    "time_detail": "9:00-17:00（周二至周日）",
+    "is_time_fuzzy": false,
+    "location_name": "刘海粟美术馆（分馆）",
+    "address": "铜川路1869号",
+    "price_info": "免费",
+    "description": "第七届上海漆画作品展，集中展示本地漆画创作成果，在刘海粟美术馆分馆展出。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 5,
+    "days_to_start": -33,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026831/308858.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 周末去哪玩"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
     "id": "96434e4dee92",
     "title": "HOCH汉堡节",
     "category": "food_stall",
@@ -118,6 +145,36 @@
     "source_count": 1,
     "source_names": [
       "历史数据"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
+    "id": "056dc5a4a45a",
+    "title": "CHINA白",
+    "category": "exhibition",
+    "sub_tags": [
+      "陶瓷",
+      "工艺美术",
+      "免费",
+      "文物",
+      "宫廷"
+    ],
+    "start_time": null,
+    "end_time": "2026-11-18",
+    "time_detail": "9:00-17:00（16:30停止入馆，周一闭馆）",
+    "is_time_fuzzy": true,
+    "location_name": "奉贤博物馆",
+    "address": null,
+    "price_info": "免费",
+    "description": "奉贤博物馆携手故宫博物院，带来121件（套）乾隆朝宫廷珍品，御玺、朝服像、金玉重器、官窑瓷器、文房雅玩齐聚，围绕乾隆治国理政与文化雅趣展开。",
+    "confidence": 0.85,
+    "status": "ongoing",
+    "days_left": 23,
+    "days_to_start": null,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026824/308652.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 周末去哪玩"
     ],
     "last_verified": "2026-10-26"
   },
@@ -376,6 +433,35 @@
     "days_left": null,
     "days_to_start": -32,
     "source_url": "http://sh.bendibao.com/xiuxian/2026924/309471.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 周末去哪玩"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
+    "id": "5ea6fc51a1f6",
+    "title": "放鹤谷鲜花农场第六届金秋菊花展·金秋园游会",
+    "category": "exhibition",
+    "sub_tags": [
+      "菊花展",
+      "古风游园",
+      "亲子",
+      "免费菊苗"
+    ],
+    "start_time": "2026-10-20",
+    "end_time": null,
+    "time_detail": null,
+    "is_time_fuzzy": true,
+    "location_name": "放鹤谷鲜花农场",
+    "address": "放鹤路莲花南路交界口西侧300米",
+    "price_info": null,
+    "description": "上海菊花展分会场，十月下旬以古风赏菊游园为主题，设室外古风市集与投壶蹴鞠等传统游乐，室内展馆陈列独本、三才、多本及七彩云菊等精品菊种。",
+    "confidence": 0.7,
+    "status": "ongoing",
+    "days_left": null,
+    "days_to_start": -6,
+    "source_url": "http://sh.bendibao.com/xiuxian/202698/309073.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 周末去哪玩"
