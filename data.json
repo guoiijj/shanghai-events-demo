@@ -1,33 +1,5 @@
 [
   {
-    "id": "1f48ca1a8eda",
-    "title": "2026年花开海上第十届格桑花文化旅游节",
-    "category": "other",
-    "sub_tags": [
-      "赏花",
-      "文化旅游节",
-      "秋季花海"
-    ],
-    "start_time": "2026-09-25",
-    "end_time": "2026-10-31",
-    "time_detail": "9月25日开幕，花期持续至10月下旬",
-    "is_time_fuzzy": false,
-    "location_name": "花开海上生态园",
-    "address": "上海市金山区亭枫公路花开海上生态园",
-    "price_info": "成人票30元/张，老年票20元/张，学生票20元/张，70周岁以上老人等免票",
-    "description": "园区内格桑花、鼠尾草、硫华菊、柳叶马鞭草、醉蝶花、千日紫、向日葵、地肤等秋季花卉陆续进入观赏期，花期主要集中在9月下旬至10月下旬。",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 5,
-    "days_to_start": -31,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309420.shtm",
-    "source_count": 1,
-    "source_names": [
-      "历史数据"
-    ],
-    "last_verified": "2026-10-26"
-  },
-  {
     "id": "6d65a62bb72c",
     "title": "海派今潮·光映中秋",
     "category": "market",
@@ -36,7 +8,8 @@
       "免费",
       "非遗",
       "灯会",
-      "综合市集"
+      "综合市集",
+      "打卡"
     ],
     "start_time": "2026-09-22",
     "end_time": "2026-10-31",
@@ -58,48 +31,21 @@
     "last_verified": "2026-10-26"
   },
   {
-    "id": "f0d1474a3a52",
-    "title": "灯林镜月",
-    "category": "exhibition",
-    "sub_tags": [
-      "中秋",
-      "免费",
-      "灯会",
-      "打卡"
-    ],
-    "start_time": null,
-    "end_time": "2026-10-31",
-    "time_detail": null,
-    "is_time_fuzzy": true,
-    "location_name": "滨港商业中心今潮8弄北广场",
-    "address": null,
-    "price_info": "免费",
-    "description": "桂花树下灯笼层叠如林、水池中月色点缀，白天夜晚各有其美的中秋赏灯装置。",
-    "confidence": 0.8,
-    "status": "ongoing",
-    "days_left": 5,
-    "days_to_start": null,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309419.shtm",
-    "source_count": 1,
-    "source_names": [
-      "上海本地宝 · 市集"
-    ],
-    "last_verified": "2026-10-26"
-  },
-  {
     "id": "96434e4dee92",
     "title": "HOCH汉堡节",
     "category": "food_stall",
     "sub_tags": [
       "汉堡",
       "美食节",
-      "美食市集"
+      "美食市集",
+      "免费入场",
+      "首发品牌"
     ],
     "start_time": "2026-10-16",
     "end_time": "2026-11-01",
-    "time_detail": "10:00-22:00",
+    "time_detail": "每日10:00—22:00（视单日库存自然闭店）",
     "is_time_fuzzy": false,
-    "location_name": "上海万象城",
+    "location_name": "上海万象城SoLong Park有街公园",
     "address": null,
     "price_info": "免费入场，消费自选",
     "description": "17天超长档期，来自全国31座城市的45家顶尖手作汉堡品牌齐聚，近四成品牌首次登陆上海，含3家海外品牌首进亚洲及多家港台品牌；覆盖SolongPark有街公园全户外空间，可逛吃、看展、遛娃，还有虹桥镇政府“票嗨虹桥”消费",
@@ -111,35 +57,6 @@
     "source_count": 2,
     "source_names": [
       "历史数据",
-      "上海本地宝 · 市集"
-    ],
-    "last_verified": "2026-10-26"
-  },
-  {
-    "id": "398a880ff48e",
-    "title": "HOCH汉堡节上海站",
-    "category": "food_stall",
-    "sub_tags": [
-      "汉堡",
-      "免费入场",
-      "美食节",
-      "首发品牌"
-    ],
-    "start_time": "2026-10-16",
-    "end_time": "2026-11-01",
-    "time_detail": "每日10:00—22:00（视单日库存自然闭店）",
-    "is_time_fuzzy": false,
-    "location_name": "上海万象城SoLong Park有街公园",
-    "address": null,
-    "price_info": "免费入场，消费自选",
-    "description": "45家手作汉堡品牌齐聚，来自全国31座城市，近四成首次登陆上海，含3家海外品牌首进亚洲，档期延长至17天。",
-    "confidence": 0.95,
-    "status": "ongoing",
-    "days_left": 6,
-    "days_to_start": -10,
-    "source_url": "http://sh.bendibao.com/xiuxian/20261015/309844.shtm",
-    "source_count": 1,
-    "source_names": [
       "上海本地宝 · 市集"
     ],
     "last_verified": "2026-10-26"
@@ -174,34 +91,6 @@
     "last_verified": "2026-10-26"
   },
   {
-    "id": "9951ead5cc0e",
-    "title": "非遗大豫园·音乐季",
-    "category": "other",
-    "sub_tags": [
-      "非遗",
-      "音乐",
-      "国际文化"
-    ],
-    "start_time": "2026-09-19",
-    "end_time": "2026-11-15",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "BFC外滩金融中心",
-    "address": null,
-    "price_info": null,
-    "description": "大豫园首个以非遗音乐为内核的年度活动，启幕夜在BFC外滩心动露台“月之窗舞台”开锣，后续轮番上演法国爵士、巴西民谣、哥伦比亚拉丁电音等世界音乐。",
-    "confidence": 0.8,
-    "status": "ongoing",
-    "days_left": 20,
-    "days_to_start": -37,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026914/309202.shtm",
-    "source_count": 1,
-    "source_names": [
-      "上海本地宝 · 展览"
-    ],
-    "last_verified": "2026-10-26"
-  },
-  {
     "id": "629043080d74",
     "title": "2026年上海外滩露台艺术季",
     "category": "exhibition",
@@ -209,7 +98,9 @@
       "熊猫主题",
       "艺术装置",
       "打卡集章",
-      "免费预约"
+      "免费预约",
+      "非遗",
+      "音乐"
     ],
     "start_time": "2026-09-13",
     "end_time": "2026-11-22",
@@ -218,7 +109,7 @@
     "location_name": "北外滩滨江沿线",
     "address": null,
     "price_info": null,
-    "description": "熊猫主题艺术装置沿“一公里外滩”进入多个历史建筑与公共空间，复星艺术中心呈现约3米高大型熊猫装置，多处处露台设互动装置并可预约打卡集章。",
+    "description": "大豫园首个以非遗音乐为内核的年度活动，启幕夜在BFC外滩心动露台“月之窗舞台”开锣，后续轮番上演法国爵士、巴西民谣、哥伦比亚拉丁电音等世界音乐。",
     "confidence": 0.9,
     "status": "ongoing",
     "days_left": 27,
@@ -317,31 +208,31 @@
     "last_verified": "2026-10-26"
   },
   {
-    "id": "3bbedc13ab0a",
-    "title": "句句有光",
+    "id": "107d10e63afc",
+    "title": "约翰尼·德普：边缘形象",
     "category": "exhibition",
     "sub_tags": [
-      "免费",
-      "光影装置",
-      "文学",
-      "打卡"
+      "艺术展",
+      "中国首秀",
+      "演展联票",
+      "大师纪念"
     ],
-    "start_time": null,
-    "end_time": "2026-11-30",
+    "start_time": "2026-07-17",
+    "end_time": "2026-12-06",
     "time_detail": null,
-    "is_time_fuzzy": true,
-    "location_name": "今潮8弄",
+    "is_time_fuzzy": false,
+    "location_name": "上海民生现代美术馆",
     "address": null,
-    "price_info": "免费",
-    "description": "文学弄堂大型光影装置，分布于弄堂空间与北广场，转角可邂逅文学光影，并有机会领取限定好礼。",
-    "confidence": 0.8,
+    "price_info": "联票90元",
+    "description": "约翰尼·德普在中国的首个美术馆大展，与德国古典电子跨界乐队“交响狂徒”上海音乐会组成演展联票，首轮优惠票平均半价发售。",
+    "confidence": 0.85,
     "status": "ongoing",
-    "days_left": 35,
-    "days_to_start": null,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309419.shtm",
+    "days_left": 41,
+    "days_to_start": -101,
+    "source_url": "http://sh.bendibao.com/xiuxian/202699/309131.shtm",
     "source_count": 1,
     "source_names": [
-      "上海本地宝 · 市集"
+      "上海本地宝 · 周末去哪玩"
     ],
     "last_verified": "2026-10-26"
   },
@@ -397,6 +288,66 @@
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 展览"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
+    "id": "0ea0673dbb34",
+    "title": "CHOUCHOU&FRIENDS全球旗舰店",
+    "category": "popup_store",
+    "sub_tags": [
+      "二次元",
+      "明星IP",
+      "潮玩",
+      "限定商品"
+    ],
+    "start_time": "2026-09-23",
+    "end_time": null,
+    "time_detail": null,
+    "is_time_fuzzy": true,
+    "location_name": "CHOUCHOU&FRIENDS全球旗舰店",
+    "address": "南京东路558号",
+    "price_info": null,
+    "description": "周杰伦官方二次元IP周同学CHOUCHOU全球首家旗舰店，总面积570平方米，共三层，首发超300个SKU，含上海城市限定系列，仅此店可买。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": null,
+    "days_to_start": -33,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026924/309499.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 周末去哪玩"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
+    "id": "1447745b1bb0",
+    "title": "无畏契约×巴黎世家限时概念空间",
+    "category": "popup_store",
+    "sub_tags": [
+      "联名",
+      "预约制",
+      "潮流",
+      "游戏主题",
+      "免费",
+      "户外"
+    ],
+    "start_time": "2026-09-24",
+    "end_time": null,
+    "time_detail": null,
+    "is_time_fuzzy": true,
+    "location_name": "前滩休闲公园",
+    "address": "静安区永源路",
+    "price_info": null,
+    "description": "无畏契约与巴黎世家联名打造的限时概念空间，落地静安永源路街区，市民可通过预约方式前往打卡体验。",
+    "confidence": 0.7,
+    "status": "ongoing",
+    "days_left": null,
+    "days_to_start": -32,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026924/309471.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 周末去哪玩"
     ],
     "last_verified": "2026-10-26"
   },
@@ -547,6 +498,35 @@
     "last_verified": "2026-10-26"
   },
   {
+    "id": "aafa22b1c9f0",
+    "title": "2026上海动漫文化博览会 COMICUP33",
+    "category": "exhibition",
+    "sub_tags": [
+      "二次元",
+      "同人创作",
+      "国漫",
+      "签售"
+    ],
+    "start_time": "2026-12-26",
+    "end_time": "2026-12-27",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "国家会展中心（上海）",
+    "address": null,
+    "price_info": null,
+    "description": "展馆面积近25万平方米，设1万多个创作摊位，集结全国画手、文手与IP主，设非遗换新、皮影小舞台、独立动画放映及国漫33年主题展等板块。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 62,
+    "days_to_start": 61,
+    "source_url": "http://sh.bendibao.com/xiuxian/20261012/309775.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 周末去哪玩"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
     "id": "21f05dba61bb",
     "title": "上海耀雪冰雪世界水世界开园",
     "category": "other",
@@ -603,64 +583,16 @@
     "last_verified": "2026-10-26"
   },
   {
-    "id": "236d5ac12692",
-    "title": "K11圣诞季",
-    "category": "popup_store",
-    "sub_tags": [
-      "圣诞"
-    ],
-    "start_time": "2025-11-30",
-    "end_time": null,
-    "time_detail": null,
-    "is_time_fuzzy": true,
-    "location_name": "K11",
-    "address": null,
-    "price_info": "免费",
-    "description": null,
-    "confidence": 0.5,
-    "status": "unknown",
-    "days_left": null,
-    "days_to_start": -330,
-    "source_url": "https://www.shyp.gov.cn/shypq/ggfw-bmgg/20251128/495290.html",
-    "source_count": 1,
-    "source_names": [
-      "历史数据"
-    ],
-    "last_verified": "2026-10-26"
-  },
-  {
     "id": "2950c34b5943",
     "title": "银魂主题快闪",
     "category": "popup_store",
     "sub_tags": [
       "二次元",
-      "银魂"
-    ],
-    "start_time": null,
-    "end_time": null,
-    "time_detail": null,
-    "is_time_fuzzy": true,
-    "location_name": "永嘉路309号口袋公园",
-    "address": "徐汇区永嘉路309号",
-    "price_info": null,
-    "description": "周边商品+拍照场景",
-    "confidence": 0.5,
-    "status": "unknown",
-    "days_left": null,
-    "days_to_start": null,
-    "source_url": "https://post.m.smzdm.com/zz/p/azz7wzmn/",
-    "source_count": 1,
-    "source_names": [
-      "历史数据"
-    ],
-    "last_verified": "2026-10-26"
-  },
-  {
-    "id": "99282f1111d7",
-    "title": "PAC意大利美食节",
-    "category": "food_stall",
-    "sub_tags": [
-      "意大利美食"
+      "银魂",
+      "意大利美食",
+      "HelloKitty",
+      "沉浸式",
+      "异国文化"
     ],
     "start_time": null,
     "end_time": null,
@@ -671,60 +603,6 @@
     "price_info": null,
     "description": "30+意大利美食摊位，艺术空间+游戏互动",
     "confidence": 0.5,
-    "status": "unknown",
-    "days_left": null,
-    "days_to_start": null,
-    "source_url": "https://post.m.smzdm.com/zz/p/azz7wzmn/",
-    "source_count": 1,
-    "source_names": [
-      "历史数据"
-    ],
-    "last_verified": "2026-10-26"
-  },
-  {
-    "id": "c3501467c209",
-    "title": "HelloKitty主题快闪",
-    "category": "popup_store",
-    "sub_tags": [
-      "二次元",
-      "HelloKitty"
-    ],
-    "start_time": null,
-    "end_time": null,
-    "time_detail": null,
-    "is_time_fuzzy": true,
-    "location_name": "光复路127号",
-    "address": "静安区光复路127号",
-    "price_info": null,
-    "description": null,
-    "confidence": 0.4,
-    "status": "unknown",
-    "days_left": null,
-    "days_to_start": null,
-    "source_url": "https://post.m.smzdm.com/zz/p/azz7wzmn/",
-    "source_count": 1,
-    "source_names": [
-      "历史数据"
-    ],
-    "last_verified": "2026-10-26"
-  },
-  {
-    "id": "0dded3766b64",
-    "title": "疯狂动物城快闪",
-    "category": "popup_store",
-    "sub_tags": [
-      "二次元",
-      "沉浸式"
-    ],
-    "start_time": null,
-    "end_time": null,
-    "time_detail": null,
-    "is_time_fuzzy": true,
-    "location_name": "五角场合生汇L1",
-    "address": null,
-    "price_info": null,
-    "description": "沉浸式场景+周边产品",
-    "confidence": 0.4,
     "status": "unknown",
     "days_left": null,
     "days_to_start": null,
