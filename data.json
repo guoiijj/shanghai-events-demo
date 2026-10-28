@@ -1,5 +1,89 @@
 [
   {
+    "id": "e199abd0a28b",
+    "title": "PCE2026第八届上海国际口腔清洁护理用品展",
+    "category": "exhibition",
+    "sub_tags": [
+      "行业展会",
+      "口腔护理",
+      "免费",
+      "行业展"
+    ],
+    "start_time": "2026-10-28",
+    "end_time": "2026-10-30",
+    "time_detail": "10月28-30日",
+    "is_time_fuzzy": false,
+    "location_name": "上海新国际博览中心",
+    "address": "上海新国际博览中心",
+    "price_info": "免费",
+    "description": "第八届上海国际口腔清洁护理用品展览会，展品涵盖日常清洁护理产品、口腔特护产品、原辅材料、包装设备及OEM/ODM等。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 2,
+    "days_to_start": 0,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026929/309576.shtm",
+    "source_count": 1,
+    "source_names": [
+      "历史数据"
+    ],
+    "last_verified": "2026-10-28"
+  },
+  {
+    "id": "53548759726d",
+    "title": "上海国际洗护用品展览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "行业展会",
+      "免费",
+      "日化"
+    ],
+    "start_time": "2026-10-28",
+    "end_time": "2026-10-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "上海新国际博览中心",
+    "address": null,
+    "price_info": "免费",
+    "description": "第八届上海国际洗护用品展览会，由迎河展览与立白日化智云联合主办，展品涵盖个人洗护、家居清洁、织物洗护、香水香氛及消毒抗菌产品等全产业链。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 2,
+    "days_to_start": 0,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026929/309575.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 休闲"
+    ],
+    "last_verified": "2026-10-28"
+  },
+  {
+    "id": "920aaf736cd1",
+    "title": "2026上海国际个人护理博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "个护",
+      "日化"
+    ],
+    "start_time": "2026-10-28",
+    "end_time": "2026-10-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "上海新国际博览中心",
+    "address": null,
+    "price_info": "免费",
+    "description": "卫生护理、家清洗涤、个护电器等展品",
+    "confidence": 0.88,
+    "status": "ongoing",
+    "days_left": 2,
+    "days_to_start": 0,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026929/309574.shtm",
+    "source_count": 1,
+    "source_names": [
+      "历史数据"
+    ],
+    "last_verified": "2026-10-26"
+  },
+  {
     "id": "1f48ca1a8eda",
     "title": "2026年花开海上第十届格桑花文化旅游节",
     "category": "other",
@@ -18,8 +102,8 @@
     "description": "园区内格桑花、鼠尾草、硫华菊、柳叶马鞭草、醉蝶花、千日紫、向日葵、地肤等秋季花卉陆续进入观赏期，花期主要集中在9月下旬至10月下旬。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 5,
-    "days_to_start": -31,
+    "days_left": 3,
+    "days_to_start": -33,
     "source_url": "http://sh.bendibao.com/xiuxian/2026922/309420.shtm",
     "source_count": 1,
     "source_names": [
@@ -43,20 +127,20 @@
     "end_time": "2026-10-31",
     "time_detail": null,
     "is_time_fuzzy": false,
-    "location_name": "今潮8弄",
-    "address": "上海市虹口区四川北路989弄35号",
+    "location_name": "滨港商业中心今潮8弄",
+    "address": "四川北路武进路",
     "price_info": "免费",
     "description": "百年弄堂里的海派中秋系列活动，含“灯林镜月”光影装置、文学弄堂光影、20+特色摊位文明市集、评弹雅集、非遗花灯巡游、艺术展览与中秋限定美食，日夜接力精彩不断。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 5,
-    "days_to_start": -34,
+    "days_left": 3,
+    "days_to_start": -36,
     "source_url": "http://sh.bendibao.com/xiuxian/2026922/309419.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 市集"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "4c26a559bb19",
@@ -76,8 +160,8 @@
     "description": "第七届上海漆画作品展，集中展示本地漆画创作成果，在刘海粟美术馆分馆展出。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 5,
-    "days_to_start": -33,
+    "days_left": 3,
+    "days_to_start": -35,
     "source_url": "http://sh.bendibao.com/xiuxian/2026831/308858.shtm",
     "source_count": 1,
     "source_names": [
@@ -86,32 +170,64 @@
     "last_verified": "2026-10-26"
   },
   {
+    "id": "8fb299a2010e",
+    "title": "灯林镜月",
+    "category": "exhibition",
+    "sub_tags": [
+      "中秋",
+      "免费",
+      "灯会",
+      "打卡"
+    ],
+    "start_time": "2026-09-22",
+    "end_time": "2026-10-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "滨港商业中心今潮8弄北广场",
+    "address": "四川北路武进路",
+    "price_info": "免费",
+    "description": "桂花树下灯笼层叠如林、水池中月色点缀，白天夜晚各有其美，是今潮8弄中秋赏灯打卡点。",
+    "confidence": 0.85,
+    "status": "ongoing",
+    "days_left": 3,
+    "days_to_start": -36,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309419.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 市集"
+    ],
+    "last_verified": "2026-10-28"
+  },
+  {
     "id": "96434e4dee92",
     "title": "HOCH汉堡节",
     "category": "food_stall",
     "sub_tags": [
       "汉堡",
-      "美食节"
+      "美食节",
+      "美食市集",
+      "免费入场",
+      "首店品牌"
     ],
     "start_time": "2026-10-16",
     "end_time": "2026-11-01",
-    "time_detail": "10:00-22:00",
+    "time_detail": "10:00-22:00（视单日库存自然闭店）",
     "is_time_fuzzy": false,
-    "location_name": "上海万象城",
+    "location_name": "上海万象城SoLong Park有街公园",
     "address": null,
     "price_info": "免费入场，消费自选",
-    "description": "45家手作汉堡品牌，来自全国31座城市",
+    "description": "17天超长档期，来自全国31座城市的45家顶尖手作汉堡品牌齐聚，近四成品牌首次登陆上海，含3家海外品牌首进亚洲及多家港台品牌；覆盖SolongPark有街公园全户外空间，可逛吃、看展、遛娃，还有虹桥镇政府“票嗨虹桥”消费",
     "confidence": 0.95,
     "status": "ongoing",
-    "days_left": 6,
-    "days_to_start": -10,
+    "days_left": 4,
+    "days_to_start": -12,
     "source_url": "https://www.shanghai.gov.cn/nw17239/20261015/ed421e8a86114a5bb1714148dacab1ce.html",
     "source_count": 2,
     "source_names": [
       "历史数据",
       "上海本地宝 · 市集"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "4a1e8a522efc",
@@ -132,7 +248,7 @@
     "description": "共青森林公园东门种植近5000平方米、万株“无限阳光”向日葵，已进入盛花期，金黄花朵形成连绵花浪，与园内自然林带相映成趣。",
     "confidence": 0.7,
     "status": "ongoing",
-    "days_left": 6,
+    "days_left": 4,
     "days_to_start": null,
     "source_url": "http://sh.bendibao.com/xiuxian/2026928/309536.shtm",
     "source_count": 1,
@@ -161,14 +277,42 @@
     "description": "东岸文化联合安阳市殷墟博物馆举办的主题游园会，含“礼行三境 灯耀千年”主题灯会、NPC游园互动、集“贝壳”兑换福利等活动。",
     "confidence": 0.95,
     "status": "ongoing",
-    "days_left": 20,
-    "days_to_start": -31,
+    "days_left": 18,
+    "days_to_start": -33,
     "source_url": "http://sh.bendibao.com/xiuxian/2026918/309289.shtm",
     "source_count": 1,
     "source_names": [
       "历史数据"
     ],
     "last_verified": "2026-10-26"
+  },
+  {
+    "id": "9951ead5cc0e",
+    "title": "非遗大豫园·音乐季",
+    "category": "other",
+    "sub_tags": [
+      "非遗",
+      "音乐",
+      "国际文化"
+    ],
+    "start_time": "2026-09-19",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "BFC外滩金融中心",
+    "address": null,
+    "price_info": null,
+    "description": "大豫园首个以非遗音乐为内核的年度活动，启幕夜在BFC外滩心动露台“月之窗舞台”开锣，后续轮番上演法国爵士、巴西民谣等世界音乐。",
+    "confidence": 0.8,
+    "status": "ongoing",
+    "days_left": 18,
+    "days_to_start": -39,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026914/309202.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 展览"
+    ],
+    "last_verified": "2026-10-28"
   },
   {
     "id": "056dc5a4a45a",
@@ -191,7 +335,7 @@
     "description": "奉贤博物馆携手故宫博物院，带来121件（套）乾隆朝宫廷珍品，御玺、朝服像、金玉重器、官窑瓷器、文房雅玩齐聚，围绕乾隆治国理政与文化雅趣展开。",
     "confidence": 0.85,
     "status": "ongoing",
-    "days_left": 23,
+    "days_left": 21,
     "days_to_start": null,
     "source_url": "http://sh.bendibao.com/xiuxian/2026824/308652.shtm",
     "source_count": 1,
@@ -216,20 +360,20 @@
     "end_time": "2026-11-22",
     "time_detail": null,
     "is_time_fuzzy": false,
-    "location_name": "北外滩滨江沿线",
+    "location_name": "外滩",
     "address": null,
     "price_info": null,
     "description": "大豫园首个以非遗音乐为内核的年度活动，启幕夜在BFC外滩心动露台“月之窗舞台”开锣，后续轮番上演法国爵士、巴西民谣、哥伦比亚拉丁电音等世界音乐。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 27,
-    "days_to_start": -43,
+    "days_left": 25,
+    "days_to_start": -45,
     "source_url": "http://sh.bendibao.com/xiuxian/2026914/309202.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 展览"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "75b3902f593e",
@@ -248,14 +392,14 @@
     "description": "以“公园+艺术”轻介入模式打通复兴公园与思南公馆两大空间，卤猫系列公共艺术雕塑、《秋千花园》《野肆花园》、紫藤长廊新装置等散落公园街巷，可漫步打卡、沉浸感受自然与艺术交织的疗愈氛围",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 27,
-    "days_to_start": -34,
+    "days_left": 25,
+    "days_to_start": -36,
     "source_url": "http://sh.bendibao.com/xiuxian/20261010/309738.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 展览"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "454297f5d66a",
@@ -276,8 +420,8 @@
     "description": "以“四秩风华凝秋色，满园菊韵绘新篇”为主题，设佳菊揽盛、艺绽芳华、群英荟萃三大板块，展示600余种精品菊花及多处主题景点。",
     "confidence": 0.95,
     "status": "ongoing",
-    "days_left": 34,
-    "days_to_start": -2,
+    "days_left": 32,
+    "days_to_start": -4,
     "source_url": "http://sh.bendibao.com/xiuxian/20261022/309988.shtm",
     "source_count": 2,
     "source_names": [
@@ -305,14 +449,43 @@
     "description": "奇迹花园秋季花展，白天可赏沉浸式菊花艺术展，夜间可游千灯会，还有演艺巡游、舞台剧、NPC互动及铁花表演。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 35,
-    "days_to_start": -31,
+    "days_left": 33,
+    "days_to_start": -33,
     "source_url": "http://sh.bendibao.com/xiuxian/2026928/309538.shtm",
     "source_count": 1,
     "source_names": [
       "历史数据"
     ],
     "last_verified": "2026-10-26"
+  },
+  {
+    "id": "26bc47fc9669",
+    "title": "句句有光",
+    "category": "exhibition",
+    "sub_tags": [
+      "光影装置",
+      "免费",
+      "文学",
+      "打卡"
+    ],
+    "start_time": "2026-09-22",
+    "end_time": "2026-11-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "今潮8弄",
+    "address": "四川北路武进路",
+    "price_info": "免费",
+    "description": "文学弄堂大型光影装置，分布在弄堂空间与北广场，转角可邂逅文学光影，并有机会领取“月下相逢”限定好礼。",
+    "confidence": 0.85,
+    "status": "ongoing",
+    "days_left": 33,
+    "days_to_start": -36,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026922/309419.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 市集"
+    ],
+    "last_verified": "2026-10-28"
   },
   {
     "id": "107d10e63afc",
@@ -334,8 +507,8 @@
     "description": "约翰尼·德普在中国的首个美术馆大展，与德国古典电子跨界乐队“交响狂徒”上海音乐会组成演展联票，首轮优惠票平均半价发售。",
     "confidence": 0.85,
     "status": "ongoing",
-    "days_left": 41,
-    "days_to_start": -101,
+    "days_left": 39,
+    "days_to_start": -103,
     "source_url": "http://sh.bendibao.com/xiuxian/202699/309131.shtm",
     "source_count": 1,
     "source_names": [
@@ -360,14 +533,14 @@
     "description": "上海科技馆首次以科幻为核心主题打造的沉浸体验空间，由600平方米艺术展、500平方米VR大空间体验区及文创空间构成，含光之走廊、烧火工工坊、鲸骨殿堂、登天海滩、星海月船等打卡点，融合超高清视听、实时渲染等技术，最高可支持",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 309,
-    "days_to_start": -25,
+    "days_left": 307,
+    "days_to_start": -27,
     "source_url": "http://sh.bendibao.com/xiuxian/2026108/309659.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 展览"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "f39c9ecf72ca",
@@ -377,7 +550,9 @@
       "文物展",
       "古代文明",
       "亲子",
-      "收费"
+      "收费",
+      "美洲文明",
+      "需购票"
     ],
     "start_time": "2026-07-09",
     "end_time": "2027-11-14",
@@ -389,14 +564,14 @@
     "description": "上博继古埃及大展后再推全球古代文明大展，联合墨西哥、秘鲁文博机构，汇聚1129组近3000件文物，展陈超7000平方米，分“神圣时空”“黄金帝国”两大板块。",
     "confidence": 0.95,
     "status": "ongoing",
-    "days_left": 384,
-    "days_to_start": -109,
+    "days_left": 382,
+    "days_to_start": -111,
     "source_url": "http://sh.bendibao.com/xiuxian/202659/305770.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 展览"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "0ea0673dbb34",
@@ -406,7 +581,8 @@
       "二次元",
       "明星IP",
       "潮玩",
-      "限定商品"
+      "限定商品",
+      "打卡"
     ],
     "start_time": "2026-09-23",
     "end_time": null,
@@ -419,13 +595,13 @@
     "confidence": 0.9,
     "status": "ongoing",
     "days_left": null,
-    "days_to_start": -33,
+    "days_to_start": -35,
     "source_url": "http://sh.bendibao.com/xiuxian/2026924/309499.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 周末去哪玩"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "1447745b1bb0",
@@ -443,20 +619,20 @@
     "end_time": null,
     "time_detail": null,
     "is_time_fuzzy": true,
-    "location_name": "前滩休闲公园",
+    "location_name": "永源路街区",
     "address": "静安区永源路",
     "price_info": null,
     "description": "无畏契约与巴黎世家联名打造的限时概念空间，落地静安永源路街区，市民可通过预约方式前往打卡体验。",
     "confidence": 0.7,
     "status": "ongoing",
     "days_left": null,
-    "days_to_start": -32,
+    "days_to_start": -34,
     "source_url": "http://sh.bendibao.com/xiuxian/2026924/309471.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 周末去哪玩"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "5ea6fc51a1f6",
@@ -479,7 +655,7 @@
     "confidence": 0.7,
     "status": "ongoing",
     "days_left": null,
-    "days_to_start": -6,
+    "days_to_start": -8,
     "source_url": "http://sh.bendibao.com/xiuxian/202698/309073.shtm",
     "source_count": 1,
     "source_names": [
@@ -488,87 +664,118 @@
     "last_verified": "2026-10-26"
   },
   {
-    "id": "e199abd0a28b",
-    "title": "PCE2026第八届上海国际口腔清洁护理用品展",
-    "category": "exhibition",
+    "id": "47d3c2bb0870",
+    "title": "前滩休闲公园贤者主题花园",
+    "category": "other",
     "sub_tags": [
-      "行业展会",
-      "口腔护理",
-      "免费"
+      "游戏主题",
+      "免费",
+      "公园"
     ],
-    "start_time": "2026-10-28",
-    "end_time": "2026-10-30",
-    "time_detail": "10月28-30日",
-    "is_time_fuzzy": false,
-    "location_name": "上海新国际博览中心",
-    "address": "上海新国际博览中心",
-    "price_info": "免费",
-    "description": "第八届上海国际口腔清洁护理用品展览会，展品涵盖日常清洁护理产品、口腔特护产品、原辅材料、包装设备及OEM/ODM等。",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 4,
-    "days_to_start": 2,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026929/309576.shtm",
+    "start_time": "2026-09-24",
+    "end_time": null,
+    "time_detail": null,
+    "is_time_fuzzy": true,
+    "location_name": "前滩休闲公园",
+    "address": null,
+    "price_info": null,
+    "description": "无畏契约贤者主题花园在前滩休闲公园对公众开放，是赛事期间面向市民的线下主题打卡场景。",
+    "confidence": 0.65,
+    "status": "ongoing",
+    "days_left": null,
+    "days_to_start": -34,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026924/309471.shtm",
     "source_count": 1,
     "source_names": [
-      "历史数据"
+      "上海本地宝 · 周末去哪玩"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
-    "id": "53548759726d",
-    "title": "上海国际洗护用品展览会",
-    "category": "exhibition",
+    "id": "70751e11f6f9",
+    "title": "无畏契约冠军赛主题海底捞门店",
+    "category": "other",
     "sub_tags": [
-      "行业展会",
-      "免费",
-      "日化"
+      "联名",
+      "餐饮",
+      "主题门店"
     ],
-    "start_time": "2026-10-28",
-    "end_time": "2026-10-30",
+    "start_time": "2026-09-28",
+    "end_time": null,
+    "time_detail": null,
+    "is_time_fuzzy": true,
+    "location_name": "海底捞多家门店",
+    "address": null,
+    "price_info": null,
+    "description": "无畏契约与海底捞开启全国联动，多家门店升级为冠军赛主题门店，覆盖赛事期间的餐饮消费场景。",
+    "confidence": 0.55,
+    "status": "ongoing",
+    "days_left": null,
+    "days_to_start": -30,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026924/309471.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 周末去哪玩"
+    ],
+    "last_verified": "2026-10-28"
+  },
+  {
+    "id": "370dddb8118a",
+    "title": "2026西云楼第二届南岸手造生活节",
+    "category": "market",
+    "sub_tags": [
+      "文创市集",
+      "手造市集",
+      "非遗",
+      "美食",
+      "免费"
+    ],
+    "start_time": "2026-10-29",
+    "end_time": "2026-11-01",
     "time_detail": null,
     "is_time_fuzzy": false,
-    "location_name": "上海新国际博览中心",
-    "address": null,
-    "price_info": "免费",
-    "description": "第八届上海国际洗护用品展览会，由迎河展览与立白日化智云联合主办，展品涵盖个人洗护、家居清洁、织物洗护、香水香氛及消毒抗菌产品等全产业链。",
+    "location_name": "西云楼",
+    "address": "嘉定区洪德路288弄",
+    "price_info": null,
+    "description": "西云楼化身大漠主题奇境长街，设手造市集、沙漠淘趣、丝绸驼铃、奇域神灯、落日不插电等板块，可看非遗匠人现场捏坯上漆、竹编木作布艺银器绒花陶器等手造，沿河有餐饮小吃与咖啡酒饮，适合秋日松弛逛玩。",
     "confidence": 0.9,
     "status": "upcoming",
     "days_left": 4,
+    "days_to_start": 1,
+    "source_url": "http://sh.bendibao.com/xiuxian/20261028/310073.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 市集"
+    ],
+    "last_verified": "2026-10-28"
+  },
+  {
+    "id": "59d46f47d318",
+    "title": "曲水园菊花艺术展",
+    "category": "exhibition",
+    "sub_tags": [
+      "菊花展",
+      "园林",
+      "免费"
+    ],
+    "start_time": "2026-10-30",
+    "end_time": "2026-11-22",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "曲水园",
+    "address": "上海市青浦区公园路612号",
+    "price_info": null,
+    "description": "以“曲水菊韵·雅集金秋”为主题，设入口迎宾、荷花池花船、假山东篱菊隐、沿河长廊、核心庭院四君子雅集五大展区，展出悬崖菊、菊龙、菊树及炫彩菊等造型品种。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 25,
     "days_to_start": 2,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026929/309575.shtm",
+    "source_url": "http://sh.bendibao.com/xiuxian/20261027/310063.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 休闲"
     ],
-    "last_verified": "2026-10-26"
-  },
-  {
-    "id": "920aaf736cd1",
-    "title": "2026上海国际个人护理博览会",
-    "category": "exhibition",
-    "sub_tags": [
-      "个护",
-      "日化"
-    ],
-    "start_time": "2026-10-28",
-    "end_time": "2026-10-30",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "上海新国际博览中心",
-    "address": null,
-    "price_info": "免费",
-    "description": "卫生护理、家清洗涤、个护电器等展品",
-    "confidence": 0.88,
-    "status": "upcoming",
-    "days_left": 4,
-    "days_to_start": 2,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026929/309574.shtm",
-    "source_count": 1,
-    "source_names": [
-      "历史数据"
-    ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "b8446e7b0d25",
@@ -590,14 +797,42 @@
     "description": "聚焦0-16岁儿童图书出版及儿童内容，涵盖图书、期刊杂志、影音、娱乐及教育服务等少儿产品全产业链，并举办主题讲座、新书首发、作家签售等活动。",
     "confidence": 0.95,
     "status": "upcoming",
-    "days_left": 20,
-    "days_to_start": 18,
+    "days_left": 18,
+    "days_to_start": 16,
     "source_url": "http://sh.bendibao.com/xiuxian/20261022/309985.shtm",
     "source_count": 1,
     "source_names": [
       "历史数据"
     ],
     "last_verified": "2026-10-26"
+  },
+  {
+    "id": "ef62774c28c4",
+    "title": "包装世界（上海）博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "行业展",
+      "免费",
+      "包装机械"
+    ],
+    "start_time": "2026-11-16",
+    "end_time": "2026-11-18",
+    "time_detail": "观众 09:00-17:00（18日 09:00-15:00）",
+    "is_time_fuzzy": false,
+    "location_name": "上海新国际博览中心",
+    "address": null,
+    "price_info": "免费",
+    "description": "展览面积逾70,000平方米，汇聚全球约970家领军企业，展品涵盖包装机械、包装材料、包装印刷与包装设计等，仅限业内人士参观。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 21,
+    "days_to_start": 19,
+    "source_url": "http://sh.bendibao.com/xiuxian/20261027/310061.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 休闲"
+    ],
+    "last_verified": "2026-10-28"
   },
   {
     "id": "95f6ebbc305e",
@@ -619,14 +854,43 @@
     "description": "2026慕尼黑分析生化中国展共分8个特色展区，涵盖实验室规划建设、实验室安全、样品前处理、生命科学与诊断、实验室自动化与数字化、核心零部件、分析仪器品牌馆及现场模拟实验室Live Lab。",
     "confidence": 0.7,
     "status": "upcoming",
-    "days_left": 23,
-    "days_to_start": 21,
+    "days_left": 21,
+    "days_to_start": 19,
     "source_url": "http://sh.bendibao.com/xiuxian/20261022/309990.shtm",
     "source_count": 1,
     "source_names": [
       "历史数据"
     ],
     "last_verified": "2026-10-26"
+  },
+  {
+    "id": "0083d0ea0526",
+    "title": "bauma CHINA 2026 上海宝马展",
+    "category": "exhibition",
+    "sub_tags": [
+      "工程机械",
+      "双馆联动",
+      "行业展会",
+      "实名登记"
+    ],
+    "start_time": "2026-11-23",
+    "end_time": "2026-11-27",
+    "time_detail": "世博展览馆11月23-25日9:00-17:00、11月26日9:00-15:0",
+    "is_time_fuzzy": false,
+    "location_name": "上海世博展览馆、上海新国际博览中心",
+    "address": "上海市浦东新区国展路1099号（世博展览馆）；上海市浦东新区龙阳路2345号（新国际博览中心）",
+    "price_info": "11月21日0:00前预登记免费，之后80元/人",
+    "description": "中国国际工程机械、建材机械、矿山机械、工程车辆及设备博览会，首次一展双馆联动，覆盖工程机械与车辆、矿山机械、新能源技术、数字化工地等产业链，徐工、三一、中联重科及卡特彼勒等国内外品牌参展。",
+    "confidence": 0.95,
+    "status": "upcoming",
+    "days_left": 30,
+    "days_to_start": 26,
+    "source_url": "http://sh.bendibao.com/xiuxian/20261027/310062.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 休闲"
+    ],
+    "last_verified": "2026-10-28"
   },
   {
     "id": "aafa22b1c9f0",
@@ -645,17 +909,17 @@
     "location_name": "国家会展中心（上海）",
     "address": null,
     "price_info": null,
-    "description": "展馆面积近25万平方米，设1万多个创作摊位，集结全国画手、文手与IP主，设非遗换新、皮影小舞台、独立动画放映及国漫33年主题展等板块。",
+    "description": "以“冬日暖阳，创作火种”为主题，展馆面积近25万平方米，设1万多个创作摊位，含非遗换新、皮影小舞台、独立动画放映及国漫33年主题展等板块。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 62,
-    "days_to_start": 61,
+    "days_left": 60,
+    "days_to_start": 59,
     "source_url": "http://sh.bendibao.com/xiuxian/20261012/309775.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 周末去哪玩"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "4aa052bb377f",
