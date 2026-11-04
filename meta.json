@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-02T08:30:40+08:00",
+  "generated_at": "2026-11-04T22:40:42+08:00",
   "counts": {
-    "published": 31,
-    "ongoing": 19,
-    "upcoming": 7,
+    "published": 33,
+    "ongoing": 22,
+    "upcoming": 6,
     "unknown": 5,
-    "total_db": 71
+    "total_db": 73
   },
   "run": {
-    "new": 0,
-    "merged": 4,
-    "articles": 1,
+    "new": 2,
+    "merged": 5,
+    "articles": 2,
     "failed": 0
   }
 }
