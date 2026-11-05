@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T22:40:42+08:00",
+  "generated_at": "2026-11-05T08:30:35+08:00",
   "counts": {
     "published": 33,
     "ongoing": 22,
@@ -8,9 +8,9 @@
     "total_db": 73
   },
   "run": {
-    "new": 2,
+    "new": 0,
     "merged": 5,
-    "articles": 2,
+    "articles": 0,
     "failed": 0
   }
 }
