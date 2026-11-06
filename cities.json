@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-06T20:28:28+08:00",
+  "generated_at": "2026-11-06T20:48:41+08:00",
   "city_count": 75,
-  "total_published": 60,
+  "total_published": 64,
   "cities": [
     {
       "code": "sh",
       "name": "上海",
       "tier": 1,
       "tier_label": "一线",
-      "published": 33,
-      "ongoing": 22,
-      "upcoming": 6,
+      "published": 37,
+      "ongoing": 24,
+      "upcoming": 8,
       "unknown": 5
     },
     {

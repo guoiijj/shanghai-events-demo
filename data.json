@@ -96,10 +96,10 @@
     "end_time": "2026-11-15",
     "time_detail": "2026年9月25日-11月15日",
     "is_time_fuzzy": false,
-    "location_name": "浦东美术馆东广场、西广场",
-    "address": "浦东新区滨江大道2777号",
+    "location_name": "浦东美术馆",
+    "address": "上海市浦东新区滨江大道2777号",
     "price_info": "免费",
-    "description": "东岸文化联合安阳市殷墟博物馆举办的主题游园会，含“礼行三境 灯耀千年”主题灯会、NPC游园互动、集“贝壳”兑换福利等活动。",
+    "description": "东岸文化联合安阳市殷墟博物馆打造，以“礼行三境 灯耀千年”主题灯会呈现殷商文物萌趣灯组，中秋国庆期间还有甲骨文灯谜、青铜器解谜、殷商古饮等NPC游园互动，集“贝壳”兑换惊喜福利，活动免费开放。",
     "confidence": 0.95,
     "status": "ongoing",
     "days_left": 9,
@@ -109,7 +109,7 @@
     "source_names": [
       "历史数据"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-11-06"
   },
   {
     "id": "9951ead5cc0e",
@@ -226,7 +226,7 @@
     "source_names": [
       "上海本地宝 · 展览"
     ],
-    "last_verified": "2026-11-05"
+    "last_verified": "2026-11-06"
   },
   {
     "id": "75b3902f593e",
@@ -252,7 +252,7 @@
     "source_names": [
       "上海本地宝 · 展览"
     ],
-    "last_verified": "2026-11-05"
+    "last_verified": "2026-11-06"
   },
   {
     "id": "59d46f47d318",
@@ -261,14 +261,15 @@
     "sub_tags": [
       "菊花展",
       "园林",
-      "免费"
+      "免费",
+      "赏花节"
     ],
     "start_time": "2026-10-30",
     "end_time": "2026-11-22",
     "time_detail": null,
     "is_time_fuzzy": false,
-    "location_name": "曲水园",
-    "address": "上海市青浦区公园路612号",
+    "location_name": "上海曲水园",
+    "address": "上海青浦区公园路612号",
     "price_info": null,
     "description": "以“曲水菊韵·雅集金秋”为主题，设入口迎宾、荷花池花船、假山东篱菊隐、沿河长廊、核心庭院四君子雅集五大展区，展出悬崖菊、菊龙、菊树及炫彩菊等造型品种。",
     "confidence": 0.9,
@@ -280,7 +281,7 @@
     "source_names": [
       "上海本地宝 · 休闲"
     ],
-    "last_verified": "2026-10-28"
+    "last_verified": "2026-11-06"
   },
   {
     "id": "454297f5d66a",
@@ -289,14 +290,15 @@
     "sub_tags": [
       "花展",
       "菊花展",
-      "公园活动"
+      "公园活动",
+      "赏花节"
     ],
     "start_time": "2026-10-24",
     "end_time": "2026-11-29",
     "time_detail": "2026年10月24日至11月29日",
     "is_time_fuzzy": false,
-    "location_name": "上海共青森林公园",
-    "address": "上海共青森林公园",
+    "location_name": "共青森林公园",
+    "address": "上海市杨浦区军工路2000号",
     "price_info": "免费",
     "description": "以“四秩风华凝秋色，满园菊韵绘新篇”为主题，设佳菊揽盛、艺绽芳华、群英荟萃三大板块，展示600余种精品菊花及多处主题景点。",
     "confidence": 0.95,
@@ -308,7 +310,7 @@
     "source_names": [
       "历史数据"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-11-06"
   },
   {
     "id": "ef94f71f6d9a",
@@ -318,16 +320,17 @@
       "花展",
       "菊花艺术展",
       "灯会",
-      "夜游"
+      "夜游",
+      "赏花节"
     ],
     "start_time": "2026-09-25",
     "end_time": "2026-11-30",
     "time_detail": "8:30—22:00，21:00停止入园",
     "is_time_fuzzy": false,
-    "location_name": "上海浦江郊野公园奇迹花园",
-    "address": "上海浦江郊野公园奇迹花园",
+    "location_name": "浦江郊野公园",
+    "address": "上海市闵行区浦星公路2578弄8号",
     "price_info": "单人票39.9元",
-    "description": "奇迹花园秋季花展，白天可赏沉浸式菊花艺术展，夜间可游千灯会，还有演艺巡游、舞台剧、NPC互动及铁花表演。",
+    "description": "数十万盆菊花、上百种品类与七彩菊亮相，3米高绿孔雀大象花雕；夜间上百万盏灯光千灯会夜游，舞台剧、NPC巡游互动与打铁花表演，还有碰碰车等游乐项目和奇迹动物城萌宠，适合亲子家庭与好友结伴。",
     "confidence": 0.9,
     "status": "ongoing",
     "days_left": 24,
@@ -337,7 +340,7 @@
     "source_names": [
       "历史数据"
     ],
-    "last_verified": "2026-10-26"
+    "last_verified": "2026-11-06"
   },
   {
     "id": "26bc47fc9669",
@@ -426,6 +429,58 @@
     "last_verified": "2026-10-29"
   },
   {
+    "id": "844fca48acfd",
+    "title": "双子山蘑力乐园二期开园",
+    "category": "exhibition",
+    "sub_tags": [
+      "景区开放"
+    ],
+    "start_time": "2026-09-19",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "上海世博文化公园",
+    "address": "通耀路55号",
+    "price_info": null,
+    "description": "双子山蘑力乐园二期全新开放，新增国内首台以13种上海本土动物为原型的艺术旋转木马「蘑都飞旋」和森林高空闯关乐园「丛林迷踪」，一期经典项目全部免费开放，适合亲子家庭探险游玩。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 55,
+    "days_to_start": -48,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026918/309296.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海·周末活动"
+    ],
+    "last_verified": "2026-11-06"
+  },
+  {
+    "id": "4da316762380",
+    "title": "滴水湖元旦光影烟花秀",
+    "category": "exhibition",
+    "sub_tags": [
+      "烟花秀"
+    ],
+    "start_time": "2025-12-31",
+    "end_time": "2027-01-01",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "滴水湖",
+    "address": "浦东新区环湖西一路",
+    "price_info": null,
+    "description": "2026年，精彩绝伦的烟花盛宴将继续点亮夜空",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 56,
+    "days_to_start": -310,
+    "source_url": "http://sh.bendibao.com/xiuxian/20251222/302943.shtm",
+    "source_count": 2,
+    "source_names": [
+      "上海·周末活动"
+    ],
+    "last_verified": "2026-11-06"
+  },
+  {
     "id": "350369b4937c",
     "title": "《烧火工》沉浸体验空间",
     "category": "exhibition",
@@ -449,7 +504,7 @@
     "source_names": [
       "上海本地宝 · 展览"
     ],
-    "last_verified": "2026-11-05"
+    "last_verified": "2026-11-06"
   },
   {
     "id": "f39c9ecf72ca",
@@ -480,7 +535,7 @@
     "source_names": [
       "上海本地宝 · 展览"
     ],
-    "last_verified": "2026-11-05"
+    "last_verified": "2026-11-06"
   },
   {
     "id": "0ea0673dbb34",
@@ -660,6 +715,32 @@
     "last_verified": "2026-10-26"
   },
   {
+    "id": "4b7960fa2909",
+    "title": "2026金山平湖半程马拉松暨沪浙乡村半程马拉松",
+    "category": "exhibition",
+    "sub_tags": [
+      "马拉松"
+    ],
+    "start_time": "2026-11-15",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "廊下生态园",
+    "address": "上海市金山区漕廊公路9133号",
+    "price_info": null,
+    "description": "沪浙乡村半程马拉松，赛道穿越金山廊下与平湖广陈，沿途乡村风光，适合跑步爱好者挑战自我。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 9,
+    "days_to_start": 9,
+    "source_url": "http://sh.bendibao.com/xiuxian/202691/308891.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海·周末活动"
+    ],
+    "last_verified": "2026-11-06"
+  },
+  {
     "id": "ef62774c28c4",
     "title": "包装世界（上海）博览会",
     "category": "exhibition",
@@ -744,7 +825,33 @@
     "source_names": [
       "上海本地宝 · 休闲"
     ],
-    "last_verified": "2026-11-05"
+    "last_verified": "2026-11-06"
+  },
+  {
+    "id": "e4bead3aa844",
+    "title": "2026青浦新城半程马拉松赛",
+    "category": "exhibition",
+    "sub_tags": [
+      "马拉松"
+    ],
+    "start_time": "2026-11-22",
+    "end_time": "2026-11-22",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "青浦环城水系公园",
+    "address": null,
+    "price_info": null,
+    "description": "21.0975公里赛道覆盖青浦新城城市风光与内河滨水风景，融合自然风貌、历史遗址、产业基地与人居环境，兼具观赏性与竞技性，沿青浦环城水系公园穿越新城核心区域。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 16,
+    "days_to_start": 16,
+    "source_url": "http://sh.bendibao.com/xiuxian/20261021/309968.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海·周末活动"
+    ],
+    "last_verified": "2026-11-06"
   },
   {
     "id": "0083d0ea0526",
