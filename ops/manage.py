@@ -413,6 +413,58 @@ def write_sweep_report(stats: dict, cities: list[dict], meta: dict | None, elaps
     log(f"日报：{path}")
 
 
+def cmd_night(args) -> int:
+    """夜间长跑：被拦就睡 20 分钟再续，直到跑完队列或用完时间预算。"""
+    ensure_dirs()
+    store = db.load_store()
+    runs = read_json(RUNS_FILE, default={}) or {}
+    cities = select_cities(args)
+    order = ["zhoumohd", "zhanlan", "mianfeihd", "shiji", "shiling"]
+    ch = args.channels or order[today_sh().weekday() % len(order)]
+    queue = [(ch, c) for c in cities]
+    deadline = time.time() + args.minutes * 60
+    stats = {"new": 0, "merged": 0, "blocked": 0, "fail": 0, "done": 0}
+    log(f"夜间扫描 {ch} × {len(queue)} 城，预算 {args.minutes} 分钟")
+    while queue and time.time() < deadline:
+        channel, city = queue[0]
+        try:
+            items = fetch_api_items(source_for(city, channel))
+        except Blocked:
+            stats["blocked"] += 1
+            set_cooldown(20)
+            wait = min(20 * 60, max(0, deadline - time.time()))
+            log(f"  被拦，冷却 {int(wait/60)} 分钟后继续（队列还剩 {len(queue)} 城）")
+            time.sleep(wait)
+            continue
+        except Exception as e:  # noqa: BLE001
+            stats["fail"] += 1
+            log(f"  {city['name']} 失败 {str(e)[:40]}")
+            queue.pop(0)
+            continue
+        for it in items:
+            it["city"] = city["code"]
+            res = db.upsert(store, it)
+            stats[res] += 1
+        if items:
+            runs[city["code"]] = today_sh().isoformat()
+        stats["done"] += 1
+        db.refresh_status(store)
+        db.save_store(store)
+        write_json(RUNS_FILE, runs)
+        queue.pop(0)
+        time.sleep(args.gap)
+    db.dedupe(store)
+    db.refresh_status(store)
+    db.save_store(store)
+    log(f"夜间结束：完成 {stats['done']} 城，新增 {stats['new']}，被拦 {stats['blocked']}，剩 {len(queue)} 城")
+    meta = publisher.publish(store, load_cities(), meta_extra={"run": {"mode": "night", **stats}})
+    log(f"已发布：{meta['cities']} 城，共 {meta['totals']['published']} 场")
+    if args.push:
+        commit = publisher.push_site(f"夜间扫描 {today_sh().isoformat()}")
+        log(f"已推送：{(commit or 'no-change')[:8]}")
+    return 0
+
+
 def cmd_publish(args) -> int:
     store = db.load_store()
     merged = db.dedupe(store)
@@ -544,6 +596,18 @@ def main() -> int:
     sw.add_argument("--push", action="store_true")
     sw.add_argument("--keep-ended-days", type=int, default=45)
     sw.set_defaults(func=cmd_sweep)
+
+    nt = sub.add_parser("night", help="夜间长跑：被拦就睡 20 分钟再续")
+    nt.add_argument("--city", default="")
+    nt.add_argument("--cities", default="")
+    nt.add_argument("--tier", default="")
+    nt.add_argument("--due", action="store_true")
+    nt.add_argument("--limit", type=int, default=0)
+    nt.add_argument("--channels", default="")
+    nt.add_argument("--minutes", type=int, default=240)
+    nt.add_argument("--gap", type=float, default=15)
+    nt.add_argument("--push", action="store_true")
+    nt.set_defaults(func=cmd_night)
 
     p = sub.add_parser("publish")
     p.add_argument("--push", action="store_true")
