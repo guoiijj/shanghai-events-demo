@@ -1,25 +1,25 @@
 {
-  "generated_at": "2026-11-06T21:14:10+08:00",
+  "generated_at": "2026-11-06T21:49:33+08:00",
   "counts": {
     "published": 37,
     "ongoing": 24,
     "upcoming": 8,
     "unknown": 5,
-    "total_db": 110,
+    "total_db": 120,
     "all_cities": {
-      "published": 70,
-      "ongoing": 48,
-      "upcoming": 17,
+      "published": 80,
+      "ongoing": 51,
+      "upcoming": 24,
       "unknown": 5
     }
   },
   "city": "sh",
   "run": {
     "mode": "sweep",
-    "cities": 15,
+    "cities": 8,
     "channels": 1,
-    "new": 6,
+    "new": 10,
     "blocked": 1,
-    "seconds": 56
+    "seconds": 23
   }
 }
