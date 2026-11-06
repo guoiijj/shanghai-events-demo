@@ -1,16 +1,17 @@
 {
-  "generated_at": "2026-11-05T08:30:35+08:00",
+  "generated_at": "2026-11-06T20:28:28+08:00",
   "counts": {
     "published": 33,
     "ongoing": 22,
     "upcoming": 6,
     "unknown": 5,
-    "total_db": 73
+    "total_db": 100,
+    "all_cities": {
+      "published": 60,
+      "ongoing": 41,
+      "upcoming": 14,
+      "unknown": 5
+    }
   },
-  "run": {
-    "new": 0,
-    "merged": 5,
-    "articles": 0,
-    "failed": 0
-  }
+  "city": "sh"
 }

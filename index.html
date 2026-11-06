@@ -3,11 +3,11 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>上海临时活动 · 现在去哪儿（展览/市集/快闪/美食节）</title>
-<meta name="description" content="上海正在发生和即将开始的临时活动：展览、市集、快闪店、美食节。按“还去得成”排序，每日自动核验，每条都附原始信息来源。">
+<title>城市临时活动 · 现在去哪儿（展览/市集/快闪/美食节）</title>
+<meta name="description" content="全国 75 个城市的临时活动：展览、市集、快闪店、美食节。按“还去得成”排序，每日自动核验，每条都附原始信息来源。">
 <link rel="canonical" href="https://guoiijj.github.io/shanghai-events-demo/">
-<meta property="og:title" content="上海临时活动 · 现在去哪儿">
-<meta property="og:description" content="只收录还去得成的展览 / 市集 / 快闪 / 美食节，每日自动核验。">
+<meta property="og:title" content="城市临时活动 · 现在去哪儿">
+<meta property="og:description" content="只收录还去得成的展览 / 市集 / 快闪 / 美食节，覆盖 75 城，每日自动核验。">
 <meta property="og:type" content="website">
 <meta name="theme-color" content="#f5f3ef">
 <style>
@@ -37,10 +37,9 @@
     line-height: 1.5;
   }
   header {
-    padding: 18px 16px 10px;
-    position: sticky;
-    top: 0;
-    background: rgba(245, 243, 239, .96);
+    padding: 16px 16px 10px;
+    position: sticky; top: 0;
+    background: rgba(245, 243, 239, .97);
     backdrop-filter: saturate(180%) blur(8px);
     z-index: 20;
     border-bottom: 1px solid var(--border);
@@ -50,7 +49,16 @@
   .upd { margin-left: auto; font-size: 11px; color: var(--muted); display: flex; align-items: center; gap: 5px; white-space: nowrap; }
   .live-dot { width: 6px; height: 6px; border-radius: 50%; background: var(--ok); display: inline-block; }
   .live-dot.stale { background: #c9a227; }
-  p.sub { margin: 4px 0 12px; color: var(--muted); font-size: 12.5px; }
+  .citybar { display: flex; gap: 8px; margin: 10px 0 8px; align-items: center; }
+  .citybar select {
+    flex: 1; appearance: none; -webkit-appearance: none;
+    padding: 9px 32px 9px 12px; border-radius: 10px; border: 1px solid var(--border);
+    background: var(--card) url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6'><path d='M0 0l5 6 5-6z' fill='%238a8580'/></svg>") no-repeat right 12px center;
+    font-size: 15px; font-weight: 600; color: var(--ink); font-family: inherit; outline: none;
+  }
+  .citybar select:focus { border-color: var(--accent); }
+  .city-count { font-size: 11px; color: var(--muted); white-space: nowrap; }
+  p.sub { margin: 0 0 10px; color: var(--muted); font-size: 12.5px; }
   .search { position: relative; margin-bottom: 10px; }
   .search input {
     width: 100%; padding: 9px 12px 9px 34px; border-radius: 10px;
@@ -97,9 +105,10 @@
   .source-link { font-size: 12px; color: var(--accent); text-decoration: none; }
   .source-link:hover { text-decoration: underline; }
   .verify { font-size: 11px; color: #b0aaa3; margin-left: auto; }
-  .empty { text-align: center; color: var(--muted); font-size: 13px; padding: 40px 0; }
+  .empty { text-align: center; color: var(--muted); font-size: 13px; padding: 44px 0; line-height: 1.8; }
   footer { max-width: 700px; margin: 0 auto; padding: 8px 16px 40px; font-size: 11.5px; color: var(--muted); line-height: 1.7; }
   footer a { color: var(--muted); }
+  .loading { text-align: center; color: var(--muted); font-size: 13px; padding: 40px 0; }
   @media (min-width: 700px) {
     header { padding: 22px 20px 12px; }
     h1 { font-size: 22px; }
@@ -109,8 +118,12 @@
 <body>
 <header>
   <div class="head-top">
-    <h1>上海临时活动</h1>
+    <h1>城市临时活动</h1>
     <span class="upd"><span class="live-dot" id="dot"></span><span id="updText">加载中…</span></span>
+  </div>
+  <div class="citybar">
+    <select id="citySelect" aria-label="选择城市"></select>
+    <span class="city-count" id="cityCount"></span>
   </div>
   <p class="sub">只收录还去得成的展览 / 市集 / 快闪 / 美食节 · 每日自动核验</p>
   <div class="search">
@@ -125,12 +138,11 @@
 </header>
 <main>
   <div class="count-line" id="countLine"></div>
-  <div id="list"></div>
+  <div id="list"><div class="loading">加载中…</div></div>
 </main>
 <footer>
   <div id="footStats"></div>
-  <div>累计访问 <span id="busuanzi_value_site_pv">—</span> 次 · 今日访客 <span id="busuanzi_value_site_uv">—</span> 人</div>
-  <div>信息来源为公开网页（本地宝、政府网站等），每条卡片底部可查原文。活动可能临时取消或调整，出发前建议点开来源确认。</div>
+  <div>信息来源为各城市公开网页（本地宝等），每条卡片底部可查原文。活动可能临时取消或调整，出发前建议点开来源确认。</div>
   <div>发现信息有误？<a href="https://github.com/guoiijj/shanghai-events-demo/issues/new" target="_blank" rel="noopener">报错 / 补充</a></div>
 </footer>
 
@@ -139,9 +151,12 @@ const CATEGORY_LABELS = {
   exhibition: "展览", market: "市集", popup_store: "快闪店",
   food_stall: "美食节", shopping: "购物活动", other: "其他"
 };
+const TIER_LABELS = { 1: "一线", 2: "新一线", 3: "二线", 4: "三线热门" };
 
+let CITIES = [];
+let CITY = "sh";
+let CITY_META = null;
 let EVENTS = [];
-let META = null;
 let tab = "live";
 let cat = "all";
 let q = "";
@@ -249,7 +264,11 @@ function render() {
   $("countLine").textContent = list.length ? `共 ${list.length} 场 · 按“最快结束 / 最近开始”排序` : "";
 
   if (!list.length) {
-    $("list").innerHTML = `<div class="empty">这个筛选下暂时没有活动<br>试试「即将开始」或清空搜索</div>`;
+    const meta = CITIES.find(c => c.code === CITY) || {};
+    const hint = (!meta.published)
+      ? `${esc(meta.name || "这个城市")}正在接入，数据每天补充<br>可以先看看其他城市`
+      : `${esc(meta.name || "这个城市")}这个筛选下暂时没有活动<br>换一个筛选，或明天再来看看`;
+    $("list").innerHTML = `<div class="empty">${hint}</div>`;
     return;
   }
   $("list").innerHTML = list.map(ev => {
@@ -274,14 +293,25 @@ function render() {
       </article>`;
   }).join("");
 }
+function renderCitySelect() {
+  const groups = {};
+  CITIES.forEach(c => (groups[c.tier] = groups[c.tier] || []).push(c));
+  const html = Object.keys(groups).sort().map(t =>
+    `<optgroup label="${TIER_LABELS[t] || "其他"}">` +
+    groups[t].map(c => `<option value="${c.code}" ${c.code === CITY ? "selected" : ""}>${esc(c.name)}　${c.published}场</option>`).join("") +
+    `</optgroup>`
+  ).join("");
+  $("citySelect").innerHTML = html;
+  const meta = CITIES.find(c => c.code === CITY);
+  $("cityCount").textContent = meta ? `在架 ${meta.published}` : "";
+  $("footStats").textContent = `覆盖 ${CITIES.length} 城 · 全站在架 ${CITIES.reduce((n, c) => n + c.published, 0)} 场 · 数据每日自动更新`;
+}
 function renderMeta() {
-  if (!META) return;
-  const d = new Date(META.generated_at);
-  const fresh = (Date.now() - d.getTime()) < 36 * 3600 * 1000;
+  if (!CITY_META) return;
+  const d = new Date(CITY_META.generated_at);
+  const fresh = (Date.now() - d.getTime()) < 48 * 3600 * 1000;
   $("dot").className = "live-dot" + (fresh ? "" : " stale");
   $("updText").textContent = `${d.getMonth() + 1}/${d.getDate()} ${String(d.getHours()).padStart(2, "0")}:${String(d.getMinutes()).padStart(2, "0")} 已核验`;
-  const c = META.counts || {};
-  $("footStats").textContent = `在架 ${c.published || 0} 场（进行中 ${c.ongoing || 0} · 即将开始 ${c.upcoming || 0}）· 时间待确认 ${c.unknown || 0} 场 · 每日自动更新`;
 }
 function renderJsonLd() {
   const items = EVENTS.filter(e => e.status !== "unknown").slice(0, 30).map((e, i) => ({
@@ -291,7 +321,7 @@ function renderJsonLd() {
       startDate: e.start_time || undefined,
       endDate: e.end_time || undefined,
       eventStatus: "https://schema.org/EventScheduled",
-      location: { "@type": "Place", name: e.location_name || "上海", address: e.address || "上海" },
+      location: { "@type": "Place", name: e.location_name || CITY, address: e.address || undefined },
       offers: e.price_info ? { "@type": "Offer", price: /免费/.test(e.price_info) ? "0" : undefined, priceCurrency: "CNY", description: e.price_info } : undefined,
       description: e.description || undefined,
       url: e.source_url || undefined
@@ -302,23 +332,45 @@ function renderJsonLd() {
   el.textContent = JSON.stringify({ "@context": "https://schema.org", "@type": "ItemList", itemListElement: items });
   document.head.appendChild(el);
 }
+async function loadCity(code) {
+  CITY = code;
+  $("list").innerHTML = `<div class="loading">加载中…</div>`;
+  try {
+    const res = await fetch(`./data/${code}.json?v=${Date.now()}`, { cache: "no-store" });
+    EVENTS = res.ok ? await res.json() : [];
+  } catch (e) {
+    EVENTS = [];
+  }
+  tab = "live"; cat = "all"; q = ""; freeOnly = false;
+  $("q").value = ""; $("freeOnly").checked = false;
+  try { localStorage.setItem("city", code); } catch (e) {}
+  const url = new URL(location.href);
+  url.searchParams.set("city", code);
+  history.replaceState(null, "", url);
+  renderCitySelect();
+  renderMeta();
+  render();
+}
 async function boot() {
   try {
-    const [evRes, metaRes] = await Promise.all([
-      fetch(`./data.json?v=${Date.now()}`, { cache: "no-store" }),
-      fetch(`./meta.json?v=${Date.now()}`, { cache: "no-store" }).catch(() => null)
-    ]);
-    EVENTS = await evRes.json();
-    if (metaRes && metaRes.ok) META = await metaRes.json();
+    const res = await fetch(`./cities.json?v=${Date.now()}`, { cache: "no-store" });
+    const data = await res.json();
+    CITIES = data.cities || [];
+    CITY_META = data;
   } catch (e) {
-    $("list").innerHTML = `<div class="empty">数据加载失败，请稍后刷新</div>`;
+    $("list").innerHTML = `<div class="empty">城市列表加载失败，请稍后刷新</div>`;
     return;
   }
-  renderMeta();
-  renderJsonLd();
-  render();
+  const params = new URLSearchParams(location.search);
+  let code = params.get("city");
+  if (!code) { try { code = localStorage.getItem("city"); } catch (e) {} }
+  if (!code || !CITIES.some(c => c.code === code)) code = "sh";
+  $("citySelect").onchange = (e) => loadCity(e.target.value);
   $("q").addEventListener("input", e => { q = e.target.value.trim().toLowerCase(); render(); });
   $("freeOnly").addEventListener("change", e => { freeOnly = e.target.checked; render(); });
+  renderCitySelect();
+  renderMeta();
+  await loadCity(code);
 }
 boot();
 </script>

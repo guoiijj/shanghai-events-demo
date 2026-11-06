@@ -1,0 +1,757 @@
+{
+  "generated_at": "2026-11-06T20:28:28+08:00",
+  "city_count": 75,
+  "total_published": 60,
+  "cities": [
+    {
+      "code": "sh",
+      "name": "上海",
+      "tier": 1,
+      "tier_label": "一线",
+      "published": 33,
+      "ongoing": 22,
+      "upcoming": 6,
+      "unknown": 5
+    },
+    {
+      "code": "bj",
+      "name": "北京",
+      "tier": 1,
+      "tier_label": "一线",
+      "published": 15,
+      "ongoing": 14,
+      "upcoming": 1,
+      "unknown": 0
+    },
+    {
+      "code": "gz",
+      "name": "广州",
+      "tier": 1,
+      "tier_label": "一线",
+      "published": 7,
+      "ongoing": 3,
+      "upcoming": 4,
+      "unknown": 0
+    },
+    {
+      "code": "sz",
+      "name": "深圳",
+      "tier": 1,
+      "tier_label": "一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "hz",
+      "name": "杭州",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 5,
+      "ongoing": 2,
+      "upcoming": 3,
+      "unknown": 0
+    },
+    {
+      "code": "dg",
+      "name": "东莞",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "nj",
+      "name": "南京",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "hf",
+      "name": "合肥",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "tj",
+      "name": "天津",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "nb",
+      "name": "宁波",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "cd",
+      "name": "成都",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "km",
+      "name": "昆明",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "wh",
+      "name": "武汉",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "suzhou",
+      "name": "苏州",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "xa",
+      "name": "西安",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "zz",
+      "name": "郑州",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "cq",
+      "name": "重庆",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "cs",
+      "name": "长沙",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "qd",
+      "name": "青岛",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "linyi",
+      "name": "临沂",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "fs",
+      "name": "佛山",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "bd",
+      "name": "保定",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "nn",
+      "name": "南宁",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "nc",
+      "name": "南昌",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "nt",
+      "name": "南通",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "xm",
+      "name": "厦门",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "tz",
+      "name": "台州",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "heb",
+      "name": "哈尔滨",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "jx",
+      "name": "嘉兴",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "dl",
+      "name": "大连",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "ty",
+      "name": "太原",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "cz",
+      "name": "常州",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "xz",
+      "name": "徐州",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "huizhou",
+      "name": "惠州",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "wx",
+      "name": "无锡",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "sy",
+      "name": "沈阳",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "qz",
+      "name": "泉州",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "ly",
+      "name": "洛阳",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "jn",
+      "name": "济南",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "wz",
+      "name": "温州",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "wf",
+      "name": "潍坊",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "yt",
+      "name": "烟台",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "zh",
+      "name": "珠海",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "sjz",
+      "name": "石家庄",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "fz",
+      "name": "福州",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "sx",
+      "name": "绍兴",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "gy",
+      "name": "贵阳",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "jh",
+      "name": "金华",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "cc",
+      "name": "长春",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "sanya",
+      "name": "三亚",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "zs",
+      "name": "中山",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "lj",
+      "name": "丽江",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "leshan",
+      "name": "乐山",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "bh",
+      "name": "北海",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "dali",
+      "name": "大理",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "weihai",
+      "name": "威海",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "yb",
+      "name": "宜宾",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "yichang",
+      "name": "宜昌",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "zjj",
+      "name": "张家界",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "yz",
+      "name": "扬州",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "qj",
+      "name": "曲靖",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "zhuzhou",
+      "name": "株洲",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "gl",
+      "name": "桂林",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "st",
+      "name": "汕头",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "huzhou",
+      "name": "湖州",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "zhanjiang",
+      "name": "湛江",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "qhd",
+      "name": "秦皇岛",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "my",
+      "name": "绵阳",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "wuhu",
+      "name": "芜湖",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "xf",
+      "name": "襄阳",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "bn",
+      "name": "西双版纳",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "ganzhou",
+      "name": "赣州",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "zunyi",
+      "name": "遵义",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "zj",
+      "name": "镇江",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "huangshan",
+      "name": "黄山",
+      "tier": 4,
+      "tier_label": "三线热门",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    }
+  ]
+}
