@@ -1,31 +1,36 @@
-# 上海临时活动（shanghai-events-demo）
+# 城市临时活动（全国版）
 
-一个"现在 / 本周末上海有什么临时活动"的静态站点：展览、市集、快闪店、美食节。
-每日自动抓取公开信息源 → AI 结构化 → 去重 → 时效判断 → 发布到 GitHub Pages。
+一个"现在 / 本周末这个城市有什么临时活动"的静态站点：展览、市集、快闪店、美食节。
+覆盖一线 / 新一线 / 二线 / 三线热门共 75 城，按城市拆分数据，自动轮转更新。
 
-- 线上：https://guoiijj.github.io/shanghai-events-demo/
-- 数据：`data.json`（在架活动）、`meta.json`（更新时间与计数）
+- 线上：https://guoiijj.github.io/shanghai-events-demo/?city=sh
+- 城市索引：`cities.json`（每城在架数、更新时间）
+- 单城数据：`data/{code}.json`（如 `data/bj.json`）
 - 运营后台：`ops/`（Python，零第三方依赖）
 
 ## 目录
 
 ```
-index.html          站点（原生 JS，读取 data.json / meta.json）
-data.json           发布数据（脚本生成，不要手改）
-meta.json           更新时间、在架数量
+index.html            站点（原生 JS，先读 cities.json，再按城市加载 data/{code}.json）
+data/*.json           75 个城市的活动数据（脚本生成，不要手改）
+cities.json           城市索引：分级、在架数
+data.json / meta.json 兼容旧入口，内容 = 上海
 ops/
-  manage.py         运营入口（run / publish / stats / review / prune / hide / dedupe / import-legacy）
-  sources.json      信息源注册表（改这里加源，不改代码）
-  fetchers.py       抓取层（本地宝列表页 / 活动接口 / 资讯列表）
-  extract.py        LLM 抽取（DeepSeek）
-  enrich.py         回原文补价格、营业时间、地址
-  store.py          主库、去重合并、时效状态、归档
-  publish.py        生成 data.json / meta.json，并通过 GitHub API 推送
-  state/            events.json 主库、archive.json 归档、seen_urls.json 抓取记录
-  reports/          每日运营日报（Markdown）
-  logs/             定时任务日志
-  run_daily.cmd     Windows 计划任务入口
-运营手册.md         每日/每周/每月运营动作
+  manage.py           入口：sweep / run / publish / stats / review / cities / hide / dedupe
+  cities.json         城市注册表（code/name/tier/cadence/domain）
+  sources.json        旧单城源配置（保留给 manual run --city 场景）
+  fetchers.py         抓取层：本地宝移动站结构化接口
+  extract.py          LLM 抽取（仅在文章源启用时用到）
+  enrich.py           回原文补价格/营业时间
+  store.py            主库（带 city 字段）、去重、状态、归档
+  publish.py          按城市编译 data/*.json + cities.json，并用 GitHub API 推送
+  city_probe.py       单城源体检
+  rate_test.py        反爬阈值测试
+  state/              events.json 主库、city_runs.json 轮转表、seen_urls.json
+  reports/            日报（sweep-YYYY-MM-DD.md）
+  logs/               计划任务日志
+  run_daily.cmd       计划任务入口
+运营手册.md           每日/每周/每月运营动作
 ```
 
 ## 常用命令
@@ -33,28 +38,48 @@ ops/
 ```bash
 cd ops
 
-python manage.py stats                  # 看库里有多少、状态分布
-python manage.py review                 # 需要人工确认的条目
-python manage.py run --publish --push   # 抓取→抽取→合并→发布→推 GitHub
-python manage.py publish --push         # 只重新发布
-python manage.py dedupe                 # 全库去重
-python manage.py prune --days 45        # 归档已结束超过 45 天的
-python manage.py hide <id> --reason "场地取消"   # 人工下架
+python manage.py sweep --due --limit 15 --channels auto --gap 15 --publish --push
+python manage.py sweep --cities bj,sh,gz --channels zhoumohd --gap 8 --publish
+python manage.py run --city bj --enrich 1 --publish
+python manage.py stats --city bj
+python manage.py cities
+python manage.py review --city bj
+python manage.py publish --push
 ```
 
-定时任务：Windows 计划任务 `ShanghaiEventsOps`，每天 08:30 执行 `ops/run_daily.cmd`。
+- `sweep` 是多城日常模式：外层频道、内层城市，把请求摊到 75 个城市域名上。
+- `--channels auto` 按星期几轮换两个频道，避免一天把 5 个频道全扫。
+- `--due` 按 `cities.json` 里的 cadence（一线 1 天 / 新一线 2 天 / 二线 3 天 / 三线 7 天）挑选到期城市。
+
+## 数据来源与反爬（重要）
+
+来源是本地宝各城市站（`m.{code}.bendibao.com`），同一套频道：
+
+| 频道 | 接口 | 内容 |
+|---|---|---|
+| zhoumohd | `action=get_data` | 周末活动（量最大） |
+| mianfeihd | `action=get_data` | 免费活动 |
+| zhanlan | `action=get_all_activity` | 展览 |
+| shiji | `action=get_all_activity` | 市集 |
+| shilinghuodong | `action=get_all_activity` | 时令活动（花展/银杏等） |
+
+反爬实测：
+- 桌面站 `{code}.bendibao.com` 很快触发 302 `/challenge`（拼图验证），**不要用**。
+- 移动站 `m.{code}.bendibao.com` 也有 progressive_lock，TTL 约 10 分钟，且**被封后继续请求会续期**。
+- 被封时 `http_get` 会抛 `Blocked`，`sweep` 会跳过该城市；一旦触发，最好整体静默 15 分钟以上。
+- 因此日常用 `--gap 15` 左右、每次只扫 15 城 × 2 频道，一天分多次跑。
 
 ## 数据规则
 
-- **只上"还去得成"的**：`end_time` 早于今天 → 不发布；结束超过 45 天 → 进归档。
-- **时间不确定的单独放**：`is_time_fuzzy=true` 进「待确认」标签，默认列表不展示。
-- **来源可追溯**：每条至少一个 `source_url`，卡片底部直达原文。
-- **多源合并**：同一活动按来源 URL / 标题相似度 / 场馆 + 日期重叠合并，来源数越多越靠前。
-- **时间取并集**：同一活动多次抓取，起止区间取并集，避免把长展期缩成一个子活动。
+- 只上"还去得成"的：`end_time` 早于今天不发布；结束超过 45 天归档。
+- 时间不确定的单列「待确认」，默认列表不展示。
+- 每条都有 `source_url`；同一活动多源合并，来源数越多越靠前。
+- 票务演出（演唱会/话剧/音乐会等）不收。
+- 去重按城市分组；同 URL 不等于同一活动（汇总帖会抽多条），标题相似度是主判据。
 
 ## 环境
 
-- Python 3.11+（脚本只用标准库），Windows 上固定用 `C:\Users\15647\anaconda3\python.exe`。
-- 抽取模型：环境变量 `DEEPSEEK_API_KEY`（或 `OPENAI_API_KEY`）+ `OPENAI_BASE_URL`，默认 `deepseek-chat`。
-- 发布：本机 `git` 到 github.com:443 不通，改用 `gh api`（Git Data API）提交，仓库需已 `gh auth login`。
-- 本地 `webapp/` 只是工作副本，不要用 `git push`；所有发布走 `ops/publish.py`。
+- Python 3.11+（只用标准库）；Windows 上计划任务固定用 `C:\Users\15647\anaconda3\python.exe`。
+- 发布：本机 `git` 到 github.com:443 不通，用 `gh api`（Git Data API）提交；仓库需已 `gh auth login`。
+- 本地 `webapp/` 是工作副本，不要 `git push`；发布走 `ops/publish.py`。
+- GitHub Pages 有 CDN 缓存，前端请求已带 `?v=Date.now()`。

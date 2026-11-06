@@ -41,7 +41,7 @@ def parse_bendibao_list(html: str, base_url: str) -> list[dict]:
     for m in pattern.finditer(html):
         title = clean_text(m.group("title"))
         body = m.group("body")[:4000]
-        link = re.search(r'href="(https?://sh\.bendibao\.com/xiuxian/\d+/\d+\.shtm)"', body)
+        link = re.search(r'href="(https?://[a-z0-9]+\.bendibao\.com/xiuxian/\d+/\d+\.shtm)"', body)
         if not title or not link:
             continue
         url = urljoin(base_url, link.group(1))
@@ -170,6 +170,8 @@ def fetch_article(url: str, timeout: int = 15, retries: int = 1) -> tuple[str, s
 
 _DATE_RE = re.compile(r"(20\d{2})\s*[.\-/年]\s*(\d{1,2})\s*[.\-/月]\s*(\d{1,2})")
 
+SKIP_TYPES = ("演唱会", "音乐会", "话剧", "歌剧", "舞剧", "相声", "脱口秀", "儿童剧", "戏曲", "演出")
+
 
 def _parse_date_range(dates_format: str):
     found = _DATE_RE.findall(dates_format or "")
@@ -196,11 +198,11 @@ def _guess_category(type_name: str, channel: str) -> str:
         return "food_stall"
     if "购物" in t or "促销" in t:
         return "shopping"
-    if any(k in t for k in ("展", "艺术", "美术", "博物馆")):
+    if any(k in t for k in ("赏花", "赏叶", "花展", "花海", "灯会", "艺术", "美术", "博物馆", "展")):
         return "exhibition"
     if channel == "shiji":
         return "market"
-    if channel == "zhanlan":
+    if channel in ("zhanlan", "zhoumohd", "shilinghuodong"):
         return "exhibition"
     return "other"
 
@@ -215,12 +217,18 @@ def _s(v) -> str:
 
 
 def fetch_api_items(source: dict) -> list[dict]:
-    """本地宝活动列表接口：一次 50 条，带日期区间、场馆名和地址。"""
+    """本地宝活动接口：日期、场馆、地址都是结构化的，不用 LLM。
+
+    action=get_all_activity 用于展览/市集/时令；周末活动、免费活动用 action=get_data。
+    """
     base = source["list_url"].rstrip("/") + "/"
+    action = source.get("action", "get_all_activity")
+    pages = source.get("pages", 3)
+    extra = source.get("extra", "")
     today = today_sh()
     out, seen_urls = [], set()
-    for page in (1, 2, 3):
-        url = f"{base}?search=&action=get_all_activity&page={page}&pagesize=50"
+    for page in range(1, pages + 1):
+        url = f"{base}?search=&action={action}&page={page}&pagesize=50{extra}"
         text, _, status = http_get(url)
         if not text.lstrip().startswith("{"):
             log(f"    接口第 {page} 页不是 JSON（HTTP {status}），停止翻页")
@@ -237,13 +245,15 @@ def fetch_api_items(source: dict) -> list[dict]:
                 continue
             seen_urls.add(pcurl)
             added += 1
+            type_name = clean_text(_s(it.get("type_name")))
+            if any(k in type_name for k in SKIP_TYPES):
+                continue  # 票务演出不是本产品品类
             start, end = _parse_date_range(_s(it.get("dates_format")))
             if end and date.fromisoformat(end) < today:
                 continue
             v = venues.get(_s(it.get("venue_id"))) or {}
             venue_name = clean_text(_s(v.get("name")))
             address = clean_text(_s(v.get("address")))
-            type_name = clean_text(_s(it.get("type_name")))
             desc = clean_text(_s(it.get("heighlight")))[:110]
             out.append({
                 "title": clean_text(_s(it.get("name"))),

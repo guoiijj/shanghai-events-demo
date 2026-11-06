@@ -124,8 +124,12 @@ def decode_body(raw: bytes) -> str:
     return raw.decode("utf-8", errors="ignore")
 
 
+class Blocked(RuntimeError):
+    """触发本地宝的拼图验证（progressive_lock），需要冷却后换城市继续。"""
+
+
 def http_get(url: str, timeout: int = 20, retries: int = 2):
-    """返回 (text, final_url, status)。失败抛最后一个异常。"""
+    """返回 (text, final_url, status)。触发反爬验证时抛 Blocked。"""
     last = None
     for attempt in range(retries + 1):
         try:
@@ -139,7 +143,13 @@ def http_get(url: str, timeout: int = 20, retries: int = 2):
                 raw = resp.read()
                 if resp.headers.get("Content-Encoding") == "gzip":
                     raw = gzip.decompress(raw)
-                return decode_body(raw), resp.geturl(), resp.status
+                text = decode_body(raw)
+                final = resp.geturl()
+                if "/challenge" in final or "请完成拼图验证" in text[:3000]:
+                    raise Blocked(f"challenge: {final}")
+                return text, final, resp.status
+        except Blocked:
+            raise
         except Exception as e:  # noqa: BLE001
             last = e
             if attempt < retries:

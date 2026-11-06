@@ -18,8 +18,10 @@ def load_store() -> dict:
     if not store:
         return {"schema": SCHEMA, "updated_at": None, "events": []}
     if isinstance(store, list):  # 从旧格式迁移
-        return {"schema": SCHEMA, "updated_at": None, "events": store}
+        store = {"schema": SCHEMA, "updated_at": None, "events": store}
     store.setdefault("events", [])
+    for e in store["events"]:
+        e.setdefault("city", "sh")  # 早期数据都是上海
     return store
 
 
@@ -102,6 +104,7 @@ def is_same_event(a: dict, b: dict) -> bool:
 
 def make_event(ev: dict) -> dict:
     today = today_sh().isoformat()
+    city = ev.get("city") or "sh"
     src = {
         "url": ev.get("source_url"),
         "source_id": ev.get("source_id"),
@@ -110,7 +113,8 @@ def make_event(ev: dict) -> dict:
         "last_verified": today,
     }
     return {
-        "id": sha1(f"{norm_title(ev['title'])}|{norm_venue(ev.get('location_name') or '')}|{ev.get('start_time') or 'na'}")[:12],
+        "id": sha1(f"{city}|{norm_title(ev['title'])}|{norm_venue(ev.get('location_name') or '')}|{ev.get('start_time') or 'na'}")[:12],
+        "city": city,
         "title": ev["title"],
         "category": ev.get("category", "other"),
         "sub_tags": ev.get("sub_tags", []),
@@ -192,7 +196,11 @@ def merge_into(old: dict, new: dict) -> None:
 
 
 def upsert(store: dict, ev: dict) -> str:
+    city = ev.get("city") or "sh"
+    ev.setdefault("city", city)
     for old in store["events"]:
+        if old.get("city", "sh") != city:
+            continue
         if is_same_event(old, ev):
             merge_into(old, ev)
             return "merged"
@@ -246,27 +254,32 @@ def days_left(e: dict) -> int | None:
 
 
 def dedupe(store: dict) -> int:
-    """对全库做一次去重合并，保留来源最多、信息最全的那条。"""
-    events = sorted(store["events"], key=lambda e: (-len(e.get("sources", [])), -(e.get("confidence") or 0)))
-    kept: list[dict] = []
+    """对全库做一次去重合并，保留来源最多、信息最全的那条。按城市分组，避免跨城误判。"""
     merged = 0
-    for e in events:
-        target = next((k for k in kept if is_same_event(k, e)), None)
-        if target is None:
-            kept.append(e)
-            continue
-        for s in e.get("sources", []):
-            if s.get("url") and s["url"] not in {x.get("url") for x in target.get("sources", [])}:
-                target.setdefault("sources", []).append(s)
-        merge_into(target, {
-            "title": e.get("title"), "category": e.get("category"), "sub_tags": e.get("sub_tags"),
-            "start_time": e.get("start_time"), "end_time": e.get("end_time"),
-            "time_detail": e.get("time_detail"), "location_name": e.get("location_name"),
-            "address": e.get("address"), "price_info": e.get("price_info"),
-            "description": e.get("description"), "confidence": e.get("confidence"),
-        })
-        merged += 1
-    store["events"] = kept
+    by_city: dict[str, list[dict]] = {}
+    for e in store["events"]:
+        by_city.setdefault(e.get("city", "sh"), []).append(e)
+    kept_all: list[dict] = []
+    for city, events in by_city.items():
+        kept: list[dict] = []
+        for e in sorted(events, key=lambda x: (-len(x.get("sources", [])), -(x.get("confidence") or 0))):
+            target = next((k for k in kept if is_same_event(k, e)), None)
+            if target is None:
+                kept.append(e)
+                continue
+            for s in e.get("sources", []):
+                if s.get("url") and s["url"] not in {x.get("url") for x in target.get("sources", [])}:
+                    target.setdefault("sources", []).append(s)
+            merge_into(target, {
+                "title": e.get("title"), "category": e.get("category"), "sub_tags": e.get("sub_tags"),
+                "start_time": e.get("start_time"), "end_time": e.get("end_time"),
+                "time_detail": e.get("time_detail"), "location_name": e.get("location_name"),
+                "address": e.get("address"), "price_info": e.get("price_info"),
+                "description": e.get("description"), "confidence": e.get("confidence"),
+            })
+            merged += 1
+        kept_all.extend(kept)
+    store["events"] = kept_all
     return merged
 
 
@@ -292,8 +305,8 @@ def prune(store: dict, keep_ended_days: int = 45) -> int:
     return len(moved)
 
 
-def stats(store: dict) -> dict:
-    events = store["events"]
+def stats(store: dict, city: str | None = None) -> dict:
+    events = [e for e in store["events"] if not city or e.get("city", "sh") == city]
     srcs = {}
     for e in events:
         for s in e.get("sources", []):
@@ -311,10 +324,12 @@ def stats(store: dict) -> dict:
     }
 
 
-def review_queue(store: dict, limit: int = 40) -> list[dict]:
+def review_queue(store: dict, limit: int = 40, city: str | None = None) -> list[dict]:
     """需要人工看一眼的：低置信 / 时间模糊 / 无地点 / 多源冲突。"""
     q = []
     for e in store["events"]:
+        if city and e.get("city", "sh") != city:
+            continue
         if e.get("status") == "ended":
             continue
         reasons = []

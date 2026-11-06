@@ -1,0 +1,602 @@
+[
+ {
+  "code": "bj",
+  "name": "北京",
+  "tier": 1,
+  "domain": "bj",
+  "cadence": 1,
+  "enabled": true
+ },
+ {
+  "code": "sh",
+  "name": "上海",
+  "tier": 1,
+  "domain": "sh",
+  "cadence": 1,
+  "enabled": true
+ },
+ {
+  "code": "gz",
+  "name": "广州",
+  "tier": 1,
+  "domain": "gz",
+  "cadence": 1,
+  "enabled": true
+ },
+ {
+  "code": "sz",
+  "name": "深圳",
+  "tier": 1,
+  "domain": "sz",
+  "cadence": 1,
+  "enabled": true
+ },
+ {
+  "code": "cd",
+  "name": "成都",
+  "tier": 2,
+  "domain": "cd",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "hz",
+  "name": "杭州",
+  "tier": 2,
+  "domain": "hz",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "cq",
+  "name": "重庆",
+  "tier": 2,
+  "domain": "cq",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "wh",
+  "name": "武汉",
+  "tier": 2,
+  "domain": "wh",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "suzhou",
+  "name": "苏州",
+  "tier": 2,
+  "domain": "suzhou",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "xa",
+  "name": "西安",
+  "tier": 2,
+  "domain": "xa",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "nj",
+  "name": "南京",
+  "tier": 2,
+  "domain": "nj",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "cs",
+  "name": "长沙",
+  "tier": 2,
+  "domain": "cs",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "tj",
+  "name": "天津",
+  "tier": 2,
+  "domain": "tj",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "zz",
+  "name": "郑州",
+  "tier": 2,
+  "domain": "zz",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "dg",
+  "name": "东莞",
+  "tier": 2,
+  "domain": "dg",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "qd",
+  "name": "青岛",
+  "tier": 2,
+  "domain": "qd",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "km",
+  "name": "昆明",
+  "tier": 2,
+  "domain": "km",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "nb",
+  "name": "宁波",
+  "tier": 2,
+  "domain": "nb",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "hf",
+  "name": "合肥",
+  "tier": 2,
+  "domain": "hf",
+  "cadence": 2,
+  "enabled": true
+ },
+ {
+  "code": "fs",
+  "name": "佛山",
+  "tier": 3,
+  "domain": "fs",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "sy",
+  "name": "沈阳",
+  "tier": 3,
+  "domain": "sy",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "wx",
+  "name": "无锡",
+  "tier": 3,
+  "domain": "wx",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "jn",
+  "name": "济南",
+  "tier": 3,
+  "domain": "jn",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "xm",
+  "name": "厦门",
+  "tier": 3,
+  "domain": "xm",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "fz",
+  "name": "福州",
+  "tier": 3,
+  "domain": "fz",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "wz",
+  "name": "温州",
+  "tier": 3,
+  "domain": "wz",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "heb",
+  "name": "哈尔滨",
+  "tier": 3,
+  "domain": "heb",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "sjz",
+  "name": "石家庄",
+  "tier": 3,
+  "domain": "sjz",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "dl",
+  "name": "大连",
+  "tier": 3,
+  "domain": "dl",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "nn",
+  "name": "南宁",
+  "tier": 3,
+  "domain": "nn",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "qz",
+  "name": "泉州",
+  "tier": 3,
+  "domain": "qz",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "jh",
+  "name": "金华",
+  "tier": 3,
+  "domain": "jh",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "gy",
+  "name": "贵阳",
+  "tier": 3,
+  "domain": "gy",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "cz",
+  "name": "常州",
+  "tier": 3,
+  "domain": "cz",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "cc",
+  "name": "长春",
+  "tier": 3,
+  "domain": "cc",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "nc",
+  "name": "南昌",
+  "tier": 3,
+  "domain": "nc",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "nt",
+  "name": "南通",
+  "tier": 3,
+  "domain": "nt",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "jx",
+  "name": "嘉兴",
+  "tier": 3,
+  "domain": "jx",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "xz",
+  "name": "徐州",
+  "tier": 3,
+  "domain": "xz",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "huizhou",
+  "name": "惠州",
+  "tier": 3,
+  "domain": "huizhou",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "ty",
+  "name": "太原",
+  "tier": 3,
+  "domain": "ty",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "yt",
+  "name": "烟台",
+  "tier": 3,
+  "domain": "yt",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "linyi",
+  "name": "临沂",
+  "tier": 3,
+  "domain": "linyi",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "bd",
+  "name": "保定",
+  "tier": 3,
+  "domain": "bd",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "tz",
+  "name": "台州",
+  "tier": 3,
+  "domain": "tz",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "sx",
+  "name": "绍兴",
+  "tier": 3,
+  "domain": "sx",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "zh",
+  "name": "珠海",
+  "tier": 3,
+  "domain": "zh",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "ly",
+  "name": "洛阳",
+  "tier": 3,
+  "domain": "ly",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "wf",
+  "name": "潍坊",
+  "tier": 3,
+  "domain": "wf",
+  "cadence": 3,
+  "enabled": true
+ },
+ {
+  "code": "sanya",
+  "name": "三亚",
+  "tier": 4,
+  "domain": "sanya",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "gl",
+  "name": "桂林",
+  "tier": 4,
+  "domain": "gl",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "dali",
+  "name": "大理",
+  "tier": 4,
+  "domain": "dali",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "lj",
+  "name": "丽江",
+  "tier": 4,
+  "domain": "lj",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "bn",
+  "name": "西双版纳",
+  "tier": 4,
+  "domain": "bn",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "zjj",
+  "name": "张家界",
+  "tier": 4,
+  "domain": "zjj",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "huangshan",
+  "name": "黄山",
+  "tier": 4,
+  "domain": "huangshan",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "weihai",
+  "name": "威海",
+  "tier": 4,
+  "domain": "weihai",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "qhd",
+  "name": "秦皇岛",
+  "tier": 4,
+  "domain": "qhd",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "huzhou",
+  "name": "湖州",
+  "tier": 4,
+  "domain": "huzhou",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "yz",
+  "name": "扬州",
+  "tier": 4,
+  "domain": "yz",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "zj",
+  "name": "镇江",
+  "tier": 4,
+  "domain": "zj",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "wuhu",
+  "name": "芜湖",
+  "tier": 4,
+  "domain": "wuhu",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "ganzhou",
+  "name": "赣州",
+  "tier": 4,
+  "domain": "ganzhou",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "st",
+  "name": "汕头",
+  "tier": 4,
+  "domain": "st",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "zhanjiang",
+  "name": "湛江",
+  "tier": 4,
+  "domain": "zhanjiang",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "zs",
+  "name": "中山",
+  "tier": 4,
+  "domain": "zs",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "zhuzhou",
+  "name": "株洲",
+  "tier": 4,
+  "domain": "zhuzhou",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "yichang",
+  "name": "宜昌",
+  "tier": 4,
+  "domain": "yichang",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "xf",
+  "name": "襄阳",
+  "tier": 4,
+  "domain": "xf",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "my",
+  "name": "绵阳",
+  "tier": 4,
+  "domain": "my",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "leshan",
+  "name": "乐山",
+  "tier": 4,
+  "domain": "leshan",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "yb",
+  "name": "宜宾",
+  "tier": 4,
+  "domain": "yb",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "zunyi",
+  "name": "遵义",
+  "tier": 4,
+  "domain": "zunyi",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "bh",
+  "name": "北海",
+  "tier": 4,
+  "domain": "bh",
+  "cadence": 7,
+  "enabled": true
+ },
+ {
+  "code": "qj",
+  "name": "曲靖",
+  "tier": 4,
+  "domain": "qj",
+  "cadence": 7,
+  "enabled": true
+ }
+]
