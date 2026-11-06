@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-06T20:48:41+08:00",
+  "generated_at": "2026-11-06T21:14:10+08:00",
   "city_count": 75,
-  "total_published": 64,
+  "total_published": 70,
   "cities": [
     {
       "code": "sh",
@@ -41,6 +41,16 @@
       "published": 0,
       "ongoing": 0,
       "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "cd",
+      "name": "成都",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 6,
+      "ongoing": 5,
+      "upcoming": 1,
       "unknown": 0
     },
     {
@@ -96,16 +106,6 @@
     {
       "code": "nb",
       "name": "宁波",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 0,
-      "ongoing": 0,
-      "upcoming": 0,
-      "unknown": 0
-    },
-    {
-      "code": "cd",
-      "name": "成都",
       "tier": 2,
       "tier_label": "新一线",
       "published": 0,

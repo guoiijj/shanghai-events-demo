@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "id": "99ac9ff05645",
+    "title": "第二十四届四川光雾山国际红叶节",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏叶节"
+    ],
+    "start_time": "2026-10-15",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "光雾山旅游景区",
+    "address": "巴中市南江县光雾山镇茶园路",
+    "price_info": null,
+    "description": "光雾山旅游区三大景区红叶陆续进入最佳观赏期，可赏红叶、彩林、溪流瀑布，适合登山徒步与摄影出片",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 9,
+    "days_to_start": -22,
+    "source_url": "http://cd.bendibao.com/xiuxian/20261019/215270.shtm",
+    "source_count": 1,
+    "source_names": [
+      "成都·周末活动"
+    ],
+    "last_verified": "2026-11-06"
+  },
+  {
+    "id": "c60e48e3d09d",
+    "title": "成都欢乐谷2026惊奇潮玩节",
+    "category": "exhibition",
+    "sub_tags": [
+      "二次元"
+    ],
+    "start_time": "2026-10-10",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "成都欢乐谷",
+    "address": "成都市西三环交大立交旁",
+    "price_info": null,
+    "description": "3大人气IP联动（无畏契约手游、鹅鸭杀、纸嫁衣），9大主题惊奇屋、7大影视级惊奇域、3大沉浸式惊奇剧、2场日夜间狂欢大巡游，400+NPC飙戏，高颜值惊奇少年团与「主角加速中」特别玩法。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 9,
+    "days_to_start": -27,
+    "source_url": "http://cd.bendibao.com/xiuxian/20261027/215492.shtm",
+    "source_count": 1,
+    "source_names": [
+      "成都·周末活动"
+    ],
+    "last_verified": "2026-11-06"
+  },
+  {
+    "id": "4a31eb30d755",
+    "title": "2026成都免费公益电影",
+    "category": "exhibition",
+    "sub_tags": [
+      "景区开放"
+    ],
+    "start_time": "2026-10-10",
+    "end_time": "2026-11-20",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "太平洋电影院停车场",
+    "address": "锦江区暑袜北三街2号",
+    "price_info": null,
+    "description": "全市40家合作影院连续7周开展500场免费公益电影专场，可提前预约免费观影，近期放映《老江湖》",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 14,
+    "days_to_start": -27,
+    "source_url": "http://cd.bendibao.com/xiuxian/20261010/214907.shtm",
+    "source_count": 1,
+    "source_names": [
+      "成都·周末活动"
+    ],
+    "last_verified": "2026-11-06"
+  },
+  {
+    "id": "311b01f9b601",
+    "title": "成都博物馆V&A威基伍德陶瓷展",
+    "category": "exhibition",
+    "sub_tags": [
+      "文物展"
+    ],
+    "start_time": "2026-09-30",
+    "end_time": "2026-12-27",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "成都博物馆",
+    "address": "四川省成都市青羊区小河街1号",
+    "price_info": null,
+    "description": "英国维多利亚与艾尔伯特博物馆珍藏威基伍德陶瓷首次来蓉，联合四川博物院、成都博物馆展出202件珍品，呈现从中国瓷西传到英国工业瓷业创新的跨世纪文明对话",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 51,
+    "days_to_start": -37,
+    "source_url": "http://cd.bendibao.com/xiuxian/2026916/213894.shtm",
+    "source_count": 1,
+    "source_names": [
+      "成都·周末活动"
+    ],
+    "last_verified": "2026-11-06"
+  },
+  {
+    "id": "8850f60d7f8f",
+    "title": "成都双子塔灯光秀",
+    "category": "exhibition",
+    "sub_tags": [
+      "灯光秀"
+    ],
+    "start_time": "2026-01-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "成都交子大道天府双塔",
+    "address": "成都市武侯区天府大道北段966号",
+    "price_info": null,
+    "description": "全年进行，灯光璀璨熠熠生辉",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 55,
+    "days_to_start": -309,
+    "source_url": "http://cd.bendibao.com/xiuxian/2024412/182004.shtm",
+    "source_count": 1,
+    "source_names": [
+      "成都·周末活动"
+    ],
+    "last_verified": "2026-11-06"
+  },
+  {
+    "id": "e6262f27d4f9",
+    "title": "2026 灵笼盛典",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2026-12-05",
+    "end_time": "2026-12-05",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "成都东安湖体育公园多功能体育馆",
+    "address": "龙泉驿区双龙路东安湖体育公园",
+    "price_info": null,
+    "description": "《灵笼》首个官方年度盛典，主创团队深度参与，经典名场面还原，《夜曲2X18》四手联弹、马克冉冰婚礼等独家内容首度呈现，20+首经典曲目全新编曲，融合情景舞剧、杂技、武术等25+节目，AR×全息科技打造沉浸式舞台，随票赠送",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 29,
+    "days_to_start": 29,
+    "source_url": "http://cd.bendibao.com/xiuxian/20261028/215533.shtm",
+    "source_count": 1,
+    "source_names": [
+      "成都·周末活动"
+    ],
+    "last_verified": "2026-11-06"
+  }
+]
