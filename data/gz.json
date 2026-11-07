@@ -16,14 +16,14 @@
     "description": "中国移动携手产业生态伙伴 构建技术共生、商业共融、价值共创的产业新生态 共绘智能经济发展新图景",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -1,
+    "days_left": 0,
+    "days_to_start": -2,
     "source_url": "http://gz.bendibao.com/xiuxian/20261027/373610.shtm",
     "source_count": 1,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-07"
   },
   {
     "id": "18785df1590b",
@@ -42,14 +42,14 @@
     "description": "举行10场市场趋势发布专场，按技术类、出海类各设5场，跨境电商平台首次集体登场。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 2,
-    "days_to_start": -2,
+    "days_left": 1,
+    "days_to_start": -3,
     "source_url": "http://gz.bendibao.com/xiuxian/20261027/373609.shtm",
     "source_count": 1,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-07"
   },
   {
     "id": "5072521f05ce",
@@ -68,14 +68,14 @@
     "description": "本届联赛设“广州龙王组”和“湾区龙腾组”两大组别，兼顾本土竞技传承与湾区交流推广。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 24,
-    "days_to_start": -128,
+    "days_left": 23,
+    "days_to_start": -129,
     "source_url": "http://gz.bendibao.com/xiuxian/2026526/368485.shtm",
     "source_count": 1,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-07"
   },
   {
     "id": "10fbd5081b88",
@@ -94,14 +94,14 @@
     "description": "展会规模20000+m²的室内展馆，集结了100多家房车品牌，房车配件，露营装备。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 9,
-    "days_to_start": 7,
+    "days_left": 8,
+    "days_to_start": 6,
     "source_url": "http://gz.bendibao.com/xiuxian/20261027/373611.shtm",
     "source_count": 1,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-07"
   },
   {
     "id": "52ba8867a63c",
@@ -120,14 +120,14 @@
     "description": "本届交易会秉持“面向市场、面向大众、面向国际”的宗旨，致力打造集“内容生产、国际交流、城市联动、产业赋能”于一体的电影行业顶级博览与交易平台。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 16,
-    "days_to_start": 14,
+    "days_left": 15,
+    "days_to_start": 13,
     "source_url": "http://gz.bendibao.com/xiuxian/20261012/373021.shtm",
     "source_count": 1,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-07"
   },
   {
     "id": "bea96754d6c2",
@@ -146,14 +146,14 @@
     "description": "展会延续“新科技・新生活”的主题，诚邀海内外整车企业、科技企业、零部件企业共赴羊城。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 30,
-    "days_to_start": 21,
+    "days_left": 29,
+    "days_to_start": 20,
     "source_url": "http://gz.bendibao.com/xiuxian/20261027/373612.shtm",
     "source_count": 1,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-07"
   },
   {
     "id": "8c6b9b3bbe5c",
@@ -172,13 +172,13 @@
     "description": "本届灯光节设置灯光艺术、灯光装置、城市楼宇影像、城市幻光森林、建筑3D Mapping五大赛道",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 38,
-    "days_to_start": 28,
+    "days_left": 37,
+    "days_to_start": 27,
     "source_url": "http://gz.bendibao.com/xiuxian/2026114/373785.shtm",
     "source_count": 1,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-07"
   }
 ]

@@ -1,1 +1,331 @@
-[]
+[
+  {
+    "id": "27e0c6eba07d",
+    "title": "第二十七届中国中部湖南农博会",
+    "category": "exhibition",
+    "sub_tags": [
+      "食博会",
+      "行业展"
+    ],
+    "start_time": "2026-11-06",
+    "end_time": "2026-11-09",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "长沙国际会展中心",
+    "address": "湖南省长沙市长沙县国展路118号",
+    "price_info": null,
+    "description": "规划展览面积约8万平方米、设6个展馆，覆盖粮油茶业品牌、果蔬生鲜、餐饮食材、国际省际交流、市州形象等板块，可一站式购齐全国特产及国外美食，马达加斯加担任主宾国泰国、马来西亚等国集中亮相",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 2,
+    "days_to_start": -1,
+    "source_url": "http://cs.bendibao.com/xiuxian/2026115/139038.shtm",
+    "source_count": 2,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "a2bdc96c45af",
+    "title": "素蕴万千·中国白：福建德化陶瓷特展",
+    "category": "exhibition",
+    "sub_tags": [
+      "文物展"
+    ],
+    "start_time": "2026-09-24",
+    "end_time": "2026-12-13",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "长沙博物馆",
+    "address": "长沙市开福区栖凤路与湘江北路交汇处西南150米",
+    "price_info": null,
+    "description": "德化的白，“朴素而天下莫能与之争美”",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 36,
+    "days_to_start": -44,
+    "source_url": "http://cs.bendibao.com/xiuxian/2026914/138094.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "6e70abe06852",
+    "title": "扬帆夜市游玩攻略",
+    "category": "market",
+    "sub_tags": [
+      "美食市集"
+    ],
+    "start_time": "2026-05-28",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "扬帆夜市",
+    "address": "长沙市芙蓉区东屯渡街道扬帆小区E区",
+    "price_info": null,
+    "description": "有众多长沙特色美食，很热闹",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -163,
+    "source_url": "http://cs.bendibao.com/xiuxian/2022615/90318.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "147db55f6938",
+    "title": "2026年长沙全年体育赛事活动安排",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2026-01-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "长沙",
+    "address": null,
+    "price_info": null,
+    "description": "长沙2026年体育赛事活动汇总",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -310,
+    "source_url": "http://cs.bendibao.com/xiuxian/202617/132119.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "2bcc1526c479",
+    "title": "四方坪夜市游玩攻略",
+    "category": "market",
+    "sub_tags": [
+      "美食市集"
+    ],
+    "start_time": "2026-05-28",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "四方坪夜市",
+    "address": "长沙市开福区先福路(四方坪地铁站3号口步行410米)",
+    "price_info": null,
+    "description": "美食种类齐全，好吃、好玩、好逛",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -163,
+    "source_url": "http://cs.bendibao.com/xiuxian/2022615/90320.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "4700db8e3ef6",
+    "title": "长沙坡子街派出所",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2026-05-28",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "坡子街派出所",
+    "address": "长沙市天心区火后街14号",
+    "price_info": null,
+    "description": "网红派出所打卡，传递社会正能量",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -163,
+    "source_url": "http://cs.bendibao.com/xiuxian/202456/120379.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "3de016032b4c",
+    "title": "长沙非物质文化遗产展示馆",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2026-01-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "长沙非物质文化遗产馆",
+    "address": "长沙市岳麓区橘子洲头125号",
+    "price_info": null,
+    "description": "欣赏湘剧、花鼓戏、长沙弹词",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -310,
+    "source_url": "http://cs.bendibao.com/xiuxian/2024411/119989.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "d815fb07a152",
+    "title": "杜甫江阁亮灯",
+    "category": "exhibition",
+    "sub_tags": [
+      "灯会"
+    ],
+    "start_time": "2025-01-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "杜甫江阁",
+    "address": "长沙市天心区湘江中路二段108号",
+    "price_info": null,
+    "description": "亮灯后氛围感拉满",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -675,
+    "source_url": "http://cs.bendibao.com/xiuxian/2024318/119506.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "4837adc8c7e1",
+    "title": "长沙湖南自修大学旧址参观攻略",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2025-01-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "湖南自修大学旧址",
+    "address": "湖南省长沙市中山路74号",
+    "price_info": null,
+    "description": "免费向社会公众开放，为湖南省文物保护单位。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -675,
+    "source_url": "http://cs.bendibao.com/xiuxian/202512/124435.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "cacae8f6e359",
+    "title": "长沙新民学会旧址参观攻略",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2025-01-01",
+    "end_time": "2027-01-01",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "新民学会旧址",
+    "address": "湖南省长沙市岳麓区新民路周家巷2号",
+    "price_info": null,
+    "description": "旧址内设有新民学会建党先声专题陈列",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 55,
+    "days_to_start": -675,
+    "source_url": "http://cs.bendibao.com/xiuxian/202512/124434.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "1277b1bfed59",
+    "title": "2026年运满满10KM城市联赛长沙站",
+    "category": "exhibition",
+    "sub_tags": [
+      "马拉松"
+    ],
+    "start_time": "2026-11-08",
+    "end_time": "2026-11-08",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "洋湖国家湿地公园",
+    "address": "湖南省长沙市岳麓区洋湖路680号",
+    "price_info": null,
+    "description": "2026运满满10KM城市联赛（长沙站）将于11月8日（周日）08:00在洋湖国家湿地公园开跑，设10KM竞技组和5KM欢乐跑两个项目",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 1,
+    "days_to_start": 1,
+    "source_url": "http://cs.bendibao.com/xiuxian/20261019/138722.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "0f239699de07",
+    "title": "2026长沙马拉松",
+    "category": "exhibition",
+    "sub_tags": [
+      "马拉松"
+    ],
+    "start_time": "2026-11-15",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "湖南长沙",
+    "address": null,
+    "price_info": null,
+    "description": "长沙马拉松是由世界田径联合会和中国田径协会认证的高端品牌赛事，由湖南省体育局和长沙市人民政府联合主办，由长沙体育产业经营有限公司运营执行。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 8,
+    "days_to_start": 8,
+    "source_url": "http://cs.bendibao.com/xiuxian/202684/137192.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "c403c2dc8589",
+    "title": "长沙岳麓山赏枫叶",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏叶节"
+    ],
+    "start_time": "2026-11-20",
+    "end_time": "2026-11-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "岳麓山",
+    "address": "长沙市登高路58号",
+    "price_info": null,
+    "description": "11月中下旬至12月中旬是长沙岳麓山赏红叶的最佳时节。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 23,
+    "days_to_start": 13,
+    "source_url": "http://cs.bendibao.com/xiuxian/2015924/44766.shtm",
+    "source_count": 1,
+    "source_names": [
+      "长沙·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  }
+]

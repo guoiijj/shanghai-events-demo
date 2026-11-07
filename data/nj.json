@@ -1,1 +1,596 @@
-[]
+[
+  {
+    "id": "1799a344ed12",
+    "title": "南京·锦风绣韵·声溯金陵【日场】",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-07",
+    "end_time": "2026-11-07",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京国际展览中心·新庄",
+    "address": "江苏省南京市玄武区龙蟠路88号",
+    "price_info": null,
+    "description": "多位古风歌手齐聚现场",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183922.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "556ca2f11404",
+    "title": "南京·妮姬同人Only展",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-07",
+    "end_time": "2026-11-07",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "锦创书城朝天宫店",
+    "address": "南京市秦淮区莫愁路81号",
+    "price_info": null,
+    "description": "现场有音乐暖场、嘉宾互动，还有泰特拉自由舞台",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183923.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "298f338712da",
+    "title": "2026世界斯诺克巡回赛国际锦标赛",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-10-31",
+    "end_time": "2026-11-07",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "秦淮区南部新城全民健身中心",
+    "address": "江苏省南京市秦淮区汇秀路66号",
+    "price_info": null,
+    "description": "世界斯诺克巡回赛顶级排名赛，连续三年落户南京，74位世界顶尖球员齐聚秦淮河畔，角逐82.5万英镑奖金，央视全程报道直播。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": -7,
+    "source_url": "http://nj.bendibao.com/xiuxian/20261015/183663.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "764a30661f9c",
+    "title": "第十八届南京度假房车展",
+    "category": "exhibition",
+    "sub_tags": [
+      "车展"
+    ],
+    "start_time": "2026-11-07",
+    "end_time": "2026-11-09",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京国际博览中心",
+    "address": "南京市建邺区江东中路300号",
+    "price_info": null,
+    "description": "多款旅居房车现场上车体验，提前扫码预登记可到现场领取零食大礼包，先到先得",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 2,
+    "days_to_start": 0,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026115/184019.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "313066efeb3f",
+    "title": "2026宝船厂遗址公园庆丰节活动攻略",
+    "category": "exhibition",
+    "sub_tags": [
+      "景区开放"
+    ],
+    "start_time": "2026-10-30",
+    "end_time": "2026-11-11",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "宝船厂遗址公园",
+    "address": "江苏省南京市漓江路57号",
+    "price_info": null,
+    "description": "活动期间景区免门票入园，古船坞旁开设丰收农副产品市集，可选购新鲜果蔬、杂粮干货、土味特产等，同时漫步明代宝船造船遗址，品读郑和下西洋历史，文博古韵与市集烟火兼具，适合散步拍照和家庭出游。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 4,
+    "days_to_start": -8,
+    "source_url": "http://nj.bendibao.com/xiuxian/20261029/183870.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "69f1cc75596c",
+    "title": "2026湖熟菊花展",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏花节"
+    ],
+    "start_time": "2026-10-17",
+    "end_time": "2026-11-22",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京湖熟菊花园",
+    "address": "江苏省南京市江宁区湖熟街道X303",
+    "price_info": null,
+    "description": "打卡秋日菊海",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 15,
+    "days_to_start": -21,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026108/183418.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "5e2fd02a6462",
+    "title": "江苏省户外运动城市联赛",
+    "category": "exhibition",
+    "sub_tags": [
+      "越野赛"
+    ],
+    "start_time": "2026-03-01",
+    "end_time": "2026-11-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京高淳国际慢城",
+    "address": "南京市高淳区桠溪街道生态路6号",
+    "price_info": null,
+    "description": "一站一景、一站一特色，南京为2026江苏省户外运动城市联赛启幕首站赛事。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 23,
+    "days_to_start": -251,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026212/179128.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "cfaac732f17d",
+    "title": "2026玄武湖秋花秋实展",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏花节"
+    ],
+    "start_time": "2026-09-29",
+    "end_time": "2026-11-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "玄武湖",
+    "address": "南京市玄武区玄武巷1号(近洞庭路)",
+    "price_info": null,
+    "description": "玄武湖2026秋花秋实展，含向日葵花展、金秋菊展、盆景赏石书画摄影联展、国庆升旗仪式、热狗节、湖光音乐会、明后湖黄册库护卫巡游等，秋花秋实与湖光秋色相映成趣",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 23,
+    "days_to_start": -39,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026929/183386.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "05e42a44cf28",
+    "title": "栖霞山“江山入戏”赏枫系列活动",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏叶节"
+    ],
+    "start_time": "2026-10-18",
+    "end_time": "2026-12-18",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京栖霞山风景名胜区",
+    "address": "江苏省南京市栖霞区栖霞街88号",
+    "price_info": null,
+    "description": "国内知名的赏枫胜地。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 41,
+    "days_to_start": -20,
+    "source_url": "http://nj.bendibao.com/xiuxian/2025113/177044.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "da73fc257335",
+    "title": "2026江苏省城市篮球联赛",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-09-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京奥体中心体育馆",
+    "address": "江苏省南京市建邺区兴隆街道江东中路222号",
+    "price_info": null,
+    "description": "江苏省13市篮球联赛",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -67,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026130/178846.shtm",
+    "source_count": 4,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "279b7be16d30",
+    "title": "南京大学春假校园开放日",
+    "category": "exhibition",
+    "sub_tags": [
+      "高校开放"
+    ],
+    "start_time": "2026-01-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京大学",
+    "address": null,
+    "price_info": null,
+    "description": "亲历校园风采，在最美春光里漫步百年学府。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -310,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026327/179649.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "59eb9c34eb7d",
+    "title": "2026「高淳农商银行」高淳马拉松",
+    "category": "exhibition",
+    "sub_tags": [
+      "马拉松"
+    ],
+    "start_time": "2026-11-08",
+    "end_time": "2026-11-08",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "濑渚洲公园",
+    "address": "江苏省南京市高淳区丹阳湖南路9号",
+    "price_info": null,
+    "description": "2026高淳马拉松设马拉松和半程马拉松两个项目，参赛规模12000人，9月9日启动预报名，中签后自主选号，先到先得。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 1,
+    "days_to_start": 1,
+    "source_url": "http://nj.bendibao.com/xiuxian/202698/182973.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "8385d1c4c2f4",
+    "title": "第九届高淳马拉松",
+    "category": "exhibition",
+    "sub_tags": [
+      "马拉松"
+    ],
+    "start_time": "2026-11-08",
+    "end_time": "2026-11-08",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "濑渚洲公园",
+    "address": "江苏省南京市高淳区丹阳湖南路9号",
+    "price_info": null,
+    "description": "世界田联标牌、中国田协A类认证赛事，1.2万人规模；本届赛道新增城区路段，串联高淳老街、保圣寺塔、固城湖大桥、固城湖水慢城等，一边城市人文一边湖光山色，完赛还有固城湖螃蟹福利。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 1,
+    "days_to_start": 1,
+    "source_url": "http://nj.bendibao.com/xiuxian/20261028/183839.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "2d1dba2bdf91",
+    "title": "南京·碧蓝航线only大型同人主题展",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-08",
+    "end_time": "2026-11-08",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京空港国际博览中心",
+    "address": "江苏省南京市溧水区润淮大道99号",
+    "price_info": null,
+    "description": "碧蓝航线大型同人主题展，二次元集邮可冲",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 1,
+    "days_to_start": 1,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183924.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "618a88a590a6",
+    "title": "2026第46届（秋季）南京国际珠宝展",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2026-11-13",
+    "end_time": "2026-11-16",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京国际展览中心",
+    "address": "南京市玄武区龙蟠号88号",
+    "price_info": null,
+    "description": "汇聚国内外百余家优质展商、10万+件精选珠宝，覆盖翡翠玉石、钻石彩宝、珍珠、K金镶嵌、设计珠宝等全品类，设免费检测服务，先鉴定再购买",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 9,
+    "days_to_start": 6,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026115/184017.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "cb351ffe9a51",
+    "title": "2026第6届南京国际秋季茶产业博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "茶博会"
+    ],
+    "start_time": "2026-11-13",
+    "end_time": "2026-11-16",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京国际博览中心",
+    "address": "南京市建邺区江东中路300号",
+    "price_info": null,
+    "description": "20000㎡规模、600+品牌展商，六大茶类源头直供，可品鉴采购茶礼；同期有南京炒茶大赛、斗茶大赛、茶艺师大赛、非遗体验及产业论坛等30+场活动",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 9,
+    "days_to_start": 6,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026115/184026.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "5840117e1a01",
+    "title": "南京金牛湖野生动物王国秋假寻西游·西游群英荟",
+    "category": "exhibition",
+    "sub_tags": [
+      "景区开放"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-18",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "金牛湖野生动物王国",
+    "address": "江苏省南京市六合区S247",
+    "price_info": null,
+    "description": "西游群英荟见面会、实景巡游、互动抽奖，随票赠千人湖畔晚宴餐券，秋假专属0.01元儿童票含玻璃栈道体验",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 11,
+    "days_to_start": 7,
+    "source_url": "http://nj.bendibao.com/xiuxian/20261026/183789.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "ddcc813f1de8",
+    "title": "南京·第十届超电国漫嘉年华",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-14",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "水游城假日酒店宴会厅",
+    "address": "秦淮区建康路1号水游城假日酒店5楼",
+    "price_info": null,
+    "description": "现场有套大鹅、静电重现、海底捞金、不服挑战等活动",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 7,
+    "days_to_start": 7,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183925.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "8370c4956fbf",
+    "title": "南京·任天堂同人only-冬日派对",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京世纪缘湖滨花园酒店（南京玄武湖店）",
+    "address": null,
+    "price_info": null,
+    "description": "南京首届任天堂only联动任天堂全明星大乱斗赛事",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 8,
+    "days_to_start": 7,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183928.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "63893435868a",
+    "title": "南京·学园偶像大师同人ONLY·大运动会",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京华贸中心",
+    "address": null,
+    "price_info": null,
+    "description": "舞台节目、嘉宾节目、场内互动、场馆布置与物料，全部以《学园偶像大师》为主题展开！",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 14,
+    "days_to_start": 14,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183929.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "8780aebf419b",
+    "title": "南京·拾光共鸣次元嘉年华",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "泊金全季酒店(南京玄武湖公园店)",
+    "address": "龙蟠路2号",
+    "price_info": null,
+    "description": "现场有随机舞蹈、精彩桌游、游戏专区、舞台节目、摄影专区等",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 14,
+    "days_to_start": 14,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183930.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "b442aca03fe0",
+    "title": "2026中国（南京）国际珠宝首饰展览会",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2026-11-27",
+    "end_time": "2026-11-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京国际博览中心",
+    "address": "南京市建邺区江东中路300号",
+    "price_info": null,
+    "description": "年末压轴珠宝大展，翡翠工厂直销、彩色宝石直供、和田玉鉴赏、珍珠源头甄选、金银首饰福利节、独立设计师与古董专场、松石琥珀水晶专区，现场可免费鉴定、免费首饰清洗，打卡消费领伴手礼",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 23,
+    "days_to_start": 20,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026115/184027.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "da205dcd4e4f",
+    "title": "南京·星幻动漫节2026第26届",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-28",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "do re mi轰趴派对中心",
+    "address": "南京市栖霞区紫东路18-3号114室",
+    "price_info": null,
+    "description": "现场很多活动，10:00-17:00玩转停不下来！",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 21,
+    "days_to_start": 21,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183934.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  }
+]
