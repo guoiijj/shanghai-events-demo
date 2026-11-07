@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T21:48:45+08:00",
+  "generated_at": "2026-11-07T21:52:01+08:00",
   "city_count": 75,
-  "total_published": 158,
+  "total_published": 178,
   "cities": [
     {
       "code": "sh",
@@ -64,6 +64,16 @@
       "unknown": 0
     },
     {
+      "code": "suzhou",
+      "name": "苏州",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 16,
+      "ongoing": 12,
+      "upcoming": 4,
+      "unknown": 0
+    },
+    {
       "code": "qd",
       "name": "青岛",
       "tier": 2,
@@ -114,6 +124,16 @@
       "unknown": 0
     },
     {
+      "code": "wh",
+      "name": "武汉",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 4,
+      "ongoing": 4,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
       "code": "dg",
       "name": "东莞",
       "tier": 2,
@@ -146,26 +166,6 @@
     {
       "code": "nb",
       "name": "宁波",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 0,
-      "ongoing": 0,
-      "upcoming": 0,
-      "unknown": 0
-    },
-    {
-      "code": "wh",
-      "name": "武汉",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 0,
-      "ongoing": 0,
-      "upcoming": 0,
-      "unknown": 0
-    },
-    {
-      "code": "suzhou",
-      "name": "苏州",
       "tier": 2,
       "tier_label": "新一线",
       "published": 0,

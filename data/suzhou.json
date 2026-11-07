@@ -1,1 +1,418 @@
-[]
+[
+  {
+    "id": "fcab4a427ffd",
+    "title": "苏州市公安局第九届警营开放日高新区专场",
+    "category": "exhibition",
+    "sub_tags": [
+      "景区开放"
+    ],
+    "start_time": "2026-11-07",
+    "end_time": "2026-11-07",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "狮山文化广场",
+    "address": "江苏省苏州市虎丘区苏州乐园金鹰国际广场西100米(狮山路西)",
+    "price_info": null,
+    "description": "1个主舞台、15个主题展区，可零距离体验无人机、机器狗、警用方舱、装甲车等炫酷装备，观看警犬展示与舞台表演，参与知识问答、趣味游戏、安全宣讲，集章打卡还能兑换警察IP纪念品和警熊娃娃机游戏币。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2026114/139851.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "6687a9a70a27",
+    "title": "吴江中法面包甜品生活节",
+    "category": "market",
+    "sub_tags": [
+      "美食市集"
+    ],
+    "start_time": "2026-11-06",
+    "end_time": "2026-11-08",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "东太湖生态园",
+    "address": "吴江区苏震桃公路",
+    "price_info": null,
+    "description": "超30家特色摊位集结面包甜品、咖啡美酒与简餐，可与法国主厨面对面交流，还有集章抽奖、马卡龙与水果丹麦挞手作体验、趣味爬宠课等免费福利。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": -1,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2026114/139853.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "5be67cf0de25",
+    "title": "2026年苏州上方山金秋花展",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏花节"
+    ],
+    "start_time": "2026-10-24",
+    "end_time": "2026-11-18",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "苏州市植物园",
+    "address": "苏州市虎丘区上方山行春桥堍",
+    "price_info": null,
+    "description": "以菊花为主，展示超700种菊花、近2000盆独本菊与奇花异卉，还有悬崖菊花瀑、5万株百合、6000余平方米秋季花海及4.5米高小熊猫绿雕等田园野趣景观，适合拍照打卡、亲子出游。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 11,
+    "days_to_start": -14,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/20251020/133466.shtm",
+    "source_count": 2,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "41c0e7bf1118",
+    "title": "向日葵文化生活季",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏花节"
+    ],
+    "start_time": "2026-10-01",
+    "end_time": "2026-11-20",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "荷塘月色湿地公园",
+    "address": "苏州市相城区太阳路西4575号",
+    "price_info": null,
+    "description": "百万株向日葵正在沃土中蓄力生长，静待金秋惊艳绽放。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 13,
+    "days_to_start": -37,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2026922/139139.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "9b2fa0a2f67d",
+    "title": "文明对话——世界纹样的交汇与流变",
+    "category": "exhibition",
+    "sub_tags": [
+      "艺术展"
+    ],
+    "start_time": "2026-09-16",
+    "end_time": "2026-11-20",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "西交利物浦大学",
+    "address": "工业园区仁爱路111号(南京大学苏州研究院对面)",
+    "price_info": null,
+    "description": "设华夏传统纹样、世界经典纹样、纹样再生三大主题，可沿彩陶、青铜、丝路卷草、明清织绣脉络读懂中华审美，也能欣赏两河流域、古埃及、古希腊、古罗马经典纹样；学生深度参与策展并结合AI创作纹样作品，展览期间设专场导览和纹样手工坊",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 13,
+    "days_to_start": -52,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2026920/139083.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "09ce3f2a807f",
+    "title": "【苏州】【苏州】H+美术馆 | 心游万象·无垠&徐震：文明漂移-一种组装技术",
+    "category": "exhibition",
+    "sub_tags": [
+      "作品展"
+    ],
+    "start_time": "2026-05-13",
+    "end_time": "2026-11-29",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "H+美术馆",
+    "address": "苏州市姑苏区上塘街245号",
+    "price_info": null,
+    "description": "H+美术馆的开馆展览，推荐！",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 22,
+    "days_to_start": -178,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2026723/138087.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "fdd616aab0a9",
+    "title": "苏州园林秋季花事活动",
+    "category": "exhibition",
+    "sub_tags": [
+      "庙会"
+    ],
+    "start_time": "2026-09-01",
+    "end_time": "2026-11-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "拙政园",
+    "address": "苏州市姑苏区东北街178号",
+    "price_info": null,
+    "description": "整合品牌展演、专题展览、互动体验、文化研学四大板块，推出六十余场特色活动，含金秋虎丘庙会、桂花市集、盆景兰艺展、天平山红枫季、上方山金秋菊展等，融赏花观景、非遗演艺、手作体验、科普研学于一体",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 23,
+    "days_to_start": -67,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2026917/139018.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "7a672291231c",
+    "title": "苏州太湖国际会议中心音乐喷泉",
+    "category": "exhibition",
+    "sub_tags": [
+      "音乐喷泉"
+    ],
+    "start_time": "2026-04-30",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "太湖国际会议中心",
+    "address": "太湖旅游度假区环太湖大道128号",
+    "price_info": null,
+    "description": "水秀主表演区最长168米、最宽12米，水景喷高可达108米，特效及光影元素合计十五种，光影交织，万般变化，具有较强的冲击力和观赏性，可形成壮观的视觉效果。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -191,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2025219/128766.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "98e869bb11d5",
+    "title": "苏州湾音乐喷泉",
+    "category": "exhibition",
+    "sub_tags": [
+      "音乐喷泉"
+    ],
+    "start_time": "2026-04-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "苏州湾阅湖台",
+    "address": "苏州市吴江区东太湖大道12000号",
+    "price_info": null,
+    "description": "吹着慵懒温柔的海风，看着夕阳染红的天空，当夜幕降临，随着喷泉表演的开始，水柱相继从喷管中涌出，跟着音乐节拍，绚丽色彩变化，起伏而跳跃，真的是视觉与听觉的双重享受！",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -220,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2024424/123334.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "59056ed203b8",
+    "title": "太湖音乐喷泉",
+    "category": "exhibition",
+    "sub_tags": [
+      "音乐喷泉"
+    ],
+    "start_time": "2026-04-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "太湖国际会议中心南广场",
+    "address": "苏州市吴中区太湖旅游度假区环太湖大道128号",
+    "price_info": null,
+    "description": "音乐喷泉的水秀主表演区最长168米、最宽12米，水景喷高可达108米。喷泉水秀特效及光影元素合计15种，光影交织，万般变化。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -220,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/202547/129772.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "bb67bfb08feb",
+    "title": "大渔湾音乐喷泉",
+    "category": "exhibition",
+    "sub_tags": [
+      "音乐喷泉"
+    ],
+    "start_time": "2026-01-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "大渔湾湖滨风情商业街",
+    "address": "苏州市昆山市玉山镇杜克大道505号",
+    "price_info": null,
+    "description": "作为苏州地区首个集音乐喷泉、水幕电影、激光造型于一体的大型声光水艺秀，大渔湾昆曲音乐喷泉东西跨度355米、南北跨度150米、最高喷射高度达60米，不仅在技术上创造了多个“最”，还将昆山的独特文化符号昆曲巧妙地植入一幕幕绚",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 54,
+    "days_to_start": -310,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2024422/123243.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "ca96556df549",
+    "title": "“百戏聚首，国宝归源”圆明园兽首暨海外回流文物特展",
+    "category": "exhibition",
+    "sub_tags": [
+      "文物展"
+    ],
+    "start_time": "2026-10-31",
+    "end_time": "2027-01-05",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "昆山戏曲百戏博物馆",
+    "address": "苏州市昆山市并蒂莲路10号",
+    "price_info": null,
+    "description": "牛首、虎首、猴首、猪首四尊圆明园兽首原件重磅亮相，同时集中展出商周青铜器、北朝石刻造像等海外回流珍贵文物，展现中西艺术与科技交融的璀璨成就。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 59,
+    "days_to_start": -7,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/20261019/139658.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "15ad3163f933",
+    "title": "《拙政问雅・夜苏博》学生秋季专场",
+    "category": "exhibition",
+    "sub_tags": [
+      "灯光秀"
+    ],
+    "start_time": "2026-11-13",
+    "end_time": "2026-11-17",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "拙政园",
+    "address": "苏州市姑苏区东北街178号",
+    "price_info": null,
+    "description": "苏州博物馆与拙政园联票夜游，一墙之隔古今辉映，含苏博专业讲解、拙政问雅夜游及文创伴手礼，适合学生秋季研学",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 10,
+    "days_to_start": 6,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2026116/139868.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "148c1850f8c9",
+    "title": "苏州·第二届City a 动漫游戏博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "木渎影视城会展中心",
+    "address": "金山南路288号",
+    "price_info": null,
+    "description": "现场将开展舞台互动合影&签售互动哟~",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 8,
+    "days_to_start": 7,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/20261012/139524.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "710ea272984a",
+    "title": "【苏州】step.jad依加「NIGHTSTEP夜奔·超感世界」2026Livehouse巡演苏州站",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-12-05",
+    "end_time": "2026-12-05",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "山丘展演空间",
+    "address": "虎丘区新庆东路32号鑫邻里F3层",
+    "price_info": null,
+    "description": "白日的克制归于沉寂，我们奔赴深夜旷野，奔赴一场全然释放的出逃，这便是「夜奔」的内核。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 28,
+    "days_to_start": 28,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/202699/138781.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  },
+  {
+    "id": "b195ea4f7229",
+    "title": "苏州流行摇滚民谣跨年演唱会",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-12-31",
+    "end_time": "2027-01-01",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "山丘livehouse红唐店",
+    "address": "苏州市虎丘区滨河路999号喜年生活广场西侧一楼(近淮海街)",
+    "price_info": null,
+    "description": "跨年一起来听演唱会！新年快乐",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 55,
+    "days_to_start": 54,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2026108/139445.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-07"
+  }
+]
