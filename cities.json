@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-07T21:52:01+08:00",
+  "generated_at": "2026-11-08T13:36:11+08:00",
   "city_count": 75,
-  "total_published": 178,
+  "total_published": 164,
   "cities": [
     {
       "code": "sh",
@@ -28,8 +28,8 @@
       "name": "广州",
       "tier": 1,
       "tier_label": "一线",
-      "published": 7,
-      "ongoing": 3,
+      "published": 6,
+      "ongoing": 2,
       "upcoming": 4,
       "unknown": 0
     },
@@ -48,9 +48,9 @@
       "name": "昆明",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 30,
+      "published": 28,
       "ongoing": 19,
-      "upcoming": 11,
+      "upcoming": 9,
       "unknown": 0
     },
     {
@@ -58,9 +58,9 @@
       "name": "南京",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 23,
+      "published": 20,
       "ongoing": 11,
-      "upcoming": 12,
+      "upcoming": 9,
       "unknown": 0
     },
     {
@@ -68,19 +68,9 @@
       "name": "苏州",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 16,
-      "ongoing": 12,
+      "published": 15,
+      "ongoing": 11,
       "upcoming": 4,
-      "unknown": 0
-    },
-    {
-      "code": "qd",
-      "name": "青岛",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 14,
-      "ongoing": 13,
-      "upcoming": 1,
       "unknown": 0
     },
     {
@@ -89,17 +79,17 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 13,
-      "ongoing": 10,
-      "upcoming": 3,
+      "ongoing": 11,
+      "upcoming": 2,
       "unknown": 0
     },
     {
-      "code": "cq",
-      "name": "重庆",
+      "code": "qd",
+      "name": "青岛",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 10,
-      "ongoing": 9,
+      "published": 13,
+      "ongoing": 12,
       "upcoming": 1,
       "unknown": 0
     },
@@ -131,6 +121,16 @@
       "published": 4,
       "ongoing": 4,
       "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "cq",
+      "name": "重庆",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 4,
+      "ongoing": 3,
+      "upcoming": 1,
       "unknown": 0
     },
     {

@@ -1,161 +1,5 @@
 [
   {
-    "id": "d895f5879a15",
-    "title": "合川钓鱼城队VS巫山红叶队",
-    "category": "exhibition",
-    "sub_tags": [
-      "球赛"
-    ],
-    "start_time": "2026-11-07",
-    "end_time": "2026-11-07",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "合川区体育中心",
-    "address": "重庆市合川区博萃大道与濮湖大道交叉路口东北侧约200米",
-    "price_info": null,
-    "description": "渝超联赛合川赛区主场赛，合川钓鱼城队对阵巫山红叶队",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://cq.bendibao.com/xiuxian/20261028/168647.shtm",
-    "source_count": 1,
-    "source_names": [
-      "重庆·周末活动"
-    ],
-    "last_verified": "2026-11-06"
-  },
-  {
-    "id": "caea384e7782",
-    "title": "九龙愉秒充熊猫队VS彭水蚩尤战神队",
-    "category": "exhibition",
-    "sub_tags": [
-      "球赛"
-    ],
-    "start_time": "2026-11-07",
-    "end_time": "2026-11-07",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "奥体青少年训练基地",
-    "address": "重庆市九龙坡区奥体一支路重庆市奥林匹克体育中心北门东侧约40米",
-    "price_info": null,
-    "description": "渝超联赛九龙坡赛区主场赛事，九龙愉秒充熊猫队对阵彭水蚩尤战神队",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://cq.bendibao.com/xiuxian/2026112/168714.shtm",
-    "source_count": 1,
-    "source_names": [
-      "重庆·周末活动"
-    ],
-    "last_verified": "2026-11-06"
-  },
-  {
-    "id": "d2cda6c11c02",
-    "title": "梁平运虹队VS酉阳桃花源队",
-    "category": "exhibition",
-    "sub_tags": [
-      "球赛"
-    ],
-    "start_time": "2026-11-07",
-    "end_time": "2026-11-07",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "梁平全民健身中心体育场",
-    "address": "重庆市梁平区青桂路泽科·桂湖郡西侧约190米",
-    "price_info": null,
-    "description": "梁平运虹队主场迎战酉阳桃花源队",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://cq.bendibao.com/xiuxian/20261030/168708.shtm",
-    "source_count": 1,
-    "source_names": [
-      "重庆·周末活动"
-    ],
-    "last_verified": "2026-11-06"
-  },
-  {
-    "id": "8613784ebace",
-    "title": "丰都南天湖队VS南岸队",
-    "category": "exhibition",
-    "sub_tags": [
-      "球赛"
-    ],
-    "start_time": "2026-11-07",
-    "end_time": "2026-11-07",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "中恒体育场",
-    "address": "重庆市丰都县名山大道303号",
-    "price_info": null,
-    "description": "重庆城市足球超级联赛丰都赛区，丰都南天湖队主场对阵南岸队，实名制购票现场观赛",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://cq.bendibao.com/xiuxian/20261030/168709.shtm",
-    "source_count": 1,
-    "source_names": [
-      "重庆·周末活动"
-    ],
-    "last_verified": "2026-11-06"
-  },
-  {
-    "id": "752521d7e05c",
-    "title": "江津云宸新能源队VS璧山宜简狼队",
-    "category": "exhibition",
-    "sub_tags": [
-      "球赛"
-    ],
-    "start_time": "2026-11-07",
-    "end_time": "2026-11-07",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "江津区体育中心体育场",
-    "address": "重庆市江津区鼎山大道45号",
-    "price_info": null,
-    "description": "2026渝超联赛江津赛区主场赛事，江津云宸新能源队对阵璧山宜简狼队",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://cq.bendibao.com/xiuxian/2026112/168712.shtm",
-    "source_count": 1,
-    "source_names": [
-      "重庆·周末活动"
-    ],
-    "last_verified": "2026-11-06"
-  },
-  {
-    "id": "cee77afc1879",
-    "title": "大足石刻队VS荣昌陶队",
-    "category": "exhibition",
-    "sub_tags": [
-      "球赛"
-    ],
-    "start_time": "2026-11-07",
-    "end_time": "2026-11-07",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "大足区体育中心",
-    "address": "重庆市大足区重庆市大足区二环南路889号",
-    "price_info": null,
-    "description": "大足石刻队主场迎战荣昌陶队",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://cq.bendibao.com/xiuxian/2026112/168715.shtm",
-    "source_count": 1,
-    "source_names": [
-      "重庆·周末活动"
-    ],
-    "last_verified": "2026-11-06"
-  },
-  {
     "id": "9e0d3f24bc97",
     "title": "第二十届中国（重庆）老年产业博览会",
     "category": "exhibition",
@@ -172,8 +16,8 @@
     "description": "以“银龄焕新 渝见未来”为主题，展出面积4万平方米，设人工智能科技展区可体验外骨骼机器人步行助力、AI中医体质辨识，还有“未来养老之家”沉浸式体验及名医问诊、健康筛查等便民服务",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -1,
+    "days_left": 0,
+    "days_to_start": -2,
     "source_url": "http://cq.bendibao.com/xiuxian/2026115/168843.shtm",
     "source_count": 1,
     "source_names": [
@@ -198,8 +42,8 @@
     "description": "800余个非遗项目参展，设新时代非遗系统性保护成果展及非遗美食风物集、非遗时尚生活展、科技赋能非遗展、传统医药非遗展4个专题展",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 3,
-    "days_to_start": -1,
+    "days_left": 2,
+    "days_to_start": -2,
     "source_url": "http://cq.bendibao.com/xiuxian/20261030/168702.shtm",
     "source_count": 1,
     "source_names": [
@@ -224,8 +68,8 @@
     "description": "4万余盆菊花、280多个品种集中亮相",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -15,
+    "days_left": 7,
+    "days_to_start": -16,
     "source_url": "http://cq.bendibao.com/xiuxian/20261026/168607.shtm",
     "source_count": 1,
     "source_names": [
@@ -250,8 +94,8 @@
     "description": "时隔6年草莓音乐节再抵重庆，两天双舞台，万能青年旅店、杨千嬅、梁博、回春丹等众多音乐人轮番开唱，还有MVM×费那奇动画周主题动画展映。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 22,
-    "days_to_start": 21,
+    "days_left": 21,
+    "days_to_start": 20,
     "source_url": "http://cq.bendibao.com/xiuxian/20261027/168637.shtm",
     "source_count": 1,
     "source_names": [

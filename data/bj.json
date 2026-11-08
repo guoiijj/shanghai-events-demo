@@ -16,8 +16,8 @@
     "description": "2025北京天坛公园菊花展设于天坛祈年殿景区内祈年门南两侧广场之中，分作4个主题展棚及4个专类展棚。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -15,
+    "days_left": 0,
+    "days_to_start": -16,
     "source_url": "http://bj.bendibao.com/xiuxian/20251029/378445.shtm",
     "source_count": 1,
     "source_names": [
@@ -40,8 +40,8 @@
     "description": "以足球赛事为主线，集结17支代表队轮番开赛，配套潮流乐队演出、啦啦操与DJ中场秀，外场设八大趣味运动体验区可零门槛闯关集贴纸兑换奖品，另有45个国际特色摊位与北三县本土市集，打造场内竞技、场外狂欢的双空间秋日嘉年华。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": 0,
+    "days_left": 0,
+    "days_to_start": -1,
     "source_url": "http://bj.bendibao.com/xiuxian/20261010/386829.shtm",
     "source_count": 1,
     "source_names": [
@@ -66,8 +66,8 @@
     "description": "每年秋天八达岭长城层林尽染，黄栌、元宝枫等变色树种将山谷染成红黄色带，长城蜿蜒其间如巨龙披秋装；南城与北10楼至11楼一带彩叶最密集，是俯瞰漫山红遍的最佳观景台。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 3,
-    "days_to_start": -23,
+    "days_left": 2,
+    "days_to_start": -24,
     "source_url": "http://bj.bendibao.com/xiuxian/20261018/387102.shtm",
     "source_count": 1,
     "source_names": [
@@ -92,14 +92,14 @@
     "description": "“如是莫高”第二季重磅来袭深化“藏经洞”版块，邀您开启“寻找藏经洞”奇幻之旅新增敦煌复原服饰与复原乐器内容，带您寻找打开敦煌的另一种方式",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 4,
-    "days_to_start": -360,
+    "days_left": 3,
+    "days_to_start": -361,
     "source_url": "http://bj.bendibao.com/xiuxian/20251112/378830.shtm",
     "source_count": 1,
     "source_names": [
       "北京·展览"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-08"
   },
   {
     "id": "2d940f3fb45e",
@@ -118,8 +118,8 @@
     "description": "秋意渐浓时，这座沉淀1700余年历史的京西福地，正迎来一年中最耀眼的时刻。那棵被乾隆皇帝御封为“帝王”的1400岁银杏，已褪去绿装，身披“黄金甲”，满树金叶映着古寺红墙，宛如从时光里，走来的“金色王者”，静候访客共赴这场",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 7,
-    "days_to_start": -14,
+    "days_left": 6,
+    "days_to_start": -15,
     "source_url": "http://bj.bendibao.com/xiuxian/20251024/378343.shtm",
     "source_count": 1,
     "source_names": [
@@ -148,8 +148,8 @@
     "description": "北海公园的秋日菊事如约而至——北京市第四十七届菊花（市花）展正式开幕。5万株菊花、600余种全品类菊花次第铺展，沿湖有菊香，庭院有巧景，还有一只“小狸花猫”藏在菊丛间，等你来打卡。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -14,
+    "days_left": 7,
+    "days_to_start": -15,
     "source_url": "http://bj.bendibao.com/xiuxian/20251027/378401.shtm",
     "source_count": 1,
     "source_names": [
@@ -174,8 +174,8 @@
     "description": "这个秋天不必远行，中山公园即将为您带来一场金色盛宴，2025中山公园银杏观赏季五大精彩看点，带您沉浸式感受北平之秋",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -7,
+    "days_left": 7,
+    "days_to_start": -8,
     "source_url": "http://bj.bendibao.com/xiuxian/20251029/378456.shtm",
     "source_count": 1,
     "source_names": [
@@ -200,8 +200,8 @@
     "description": "为期一个月的红叶盛会，覆盖西山最佳红叶观赏时段，将山林自然生态、万亩红叶景观与国风文化、休闲游玩、美育体验深度融合，全年龄段适配，老少皆宜，玩转秋日西山!",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -23,
+    "days_left": 7,
+    "days_to_start": -24,
     "source_url": "http://bj.bendibao.com/xiuxian/20241018/366546.shtm",
     "source_count": 1,
     "source_names": [
@@ -226,8 +226,8 @@
     "description": "坡峰岭是华北最大野生黄栌聚集地，被《国家地理》杂志誉为",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -37,
+    "days_left": 7,
+    "days_to_start": -38,
     "source_url": "http://bj.bendibao.com/xiuxian/2025919/377440.shtm",
     "source_count": 1,
     "source_names": [
@@ -250,8 +250,8 @@
     "description": "高能预警 9月25日「惊奇潮玩节」震撼开启，全园皆沉浸，入园即入戏这一次，你来当故事的主角!这场奇幻大戏精彩桥段先划重点。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -43,
+    "days_left": 7,
+    "days_to_start": -44,
     "source_url": "http://bj.bendibao.com/xiuxian/2025915/377254.shtm",
     "source_count": 1,
     "source_names": [
@@ -276,8 +276,8 @@
     "description": "依托北宫国家森林公园山林生态资源，围绕探秋、听秋、作秋、感秋、乘秋、追秋、品秋七大板块，可赏漫山彩叶、参与山野探秘与打卡集章、观看戏曲乐队演出、体验落叶手作与书画展、萌宠互动、乘观光电瓶车、徒步登山定向越野，逛主题市集品",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -21,
+    "days_left": 7,
+    "days_to_start": -22,
     "source_url": "http://bj.bendibao.com/xiuxian/20261018/387099.shtm",
     "source_count": 1,
     "source_names": [
@@ -302,8 +302,8 @@
     "description": "紫竹院公园“竹影凝秋·金菊焕章”2026年秋季菊展将于10月24日正式开幕园内3000余平米布景2.7万余株秋季花卉与青翠竹影交相辉映为广大市民游客呈现一场沉浸式赏菊盛宴",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 15,
-    "days_to_start": -14,
+    "days_left": 14,
+    "days_to_start": -15,
     "source_url": "http://bj.bendibao.com/xiuxian/20251029/378446.shtm",
     "source_count": 1,
     "source_names": [
@@ -328,14 +328,14 @@
     "description": "展览汇聚海南、江苏、上海等多地行业力量与参展精品，打破传统展厅边界，统筹室内展厅与室外近 2000 平方米园林空间，将木石雅韵嵌入真实园景，打造移步异景的沉浸式观展体验。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 64,
-    "days_to_start": -89,
+    "days_left": 63,
+    "days_to_start": -90,
     "source_url": "http://bj.bendibao.com/xiuxian/2026824/385607.shtm",
     "source_count": 1,
     "source_names": [
       "北京·展览"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-08"
   },
   {
     "id": "82683bccaf8f",
@@ -354,14 +354,14 @@
     "description": "此次展览由中俄艺术机构共同策划，集75件勾勒大师一生的重要作品；充分彰显费欣艺术风格之丰盈，创作媒介之全面；是全球近十年规模最宏大，学理体系最完备的尼古拉·费欣个案研究型作品展。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 99,
-    "days_to_start": -39,
+    "days_left": 98,
+    "days_to_start": -40,
     "source_url": "http://bj.bendibao.com/xiuxian/2026824/385609.shtm",
     "source_count": 1,
     "source_names": [
       "北京·展览"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-08"
   },
   {
     "id": "e1b3b310ecee",
@@ -378,13 +378,13 @@
     "description": "三大沉浸场景 刷新你的感官极限",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 945,
-    "days_to_start": -151,
+    "days_left": 944,
+    "days_to_start": -152,
     "source_url": "http://bj.bendibao.com/xiuxian/202669/383606.shtm",
     "source_count": 1,
     "source_names": [
       "北京·展览"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-08"
   }
 ]

@@ -1,31 +1,5 @@
 [
   {
-    "id": "fcab4a427ffd",
-    "title": "苏州市公安局第九届警营开放日高新区专场",
-    "category": "exhibition",
-    "sub_tags": [
-      "景区开放"
-    ],
-    "start_time": "2026-11-07",
-    "end_time": "2026-11-07",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "狮山文化广场",
-    "address": "江苏省苏州市虎丘区苏州乐园金鹰国际广场西100米(狮山路西)",
-    "price_info": null,
-    "description": "1个主舞台、15个主题展区，可零距离体验无人机、机器狗、警用方舱、装甲车等炫酷装备，观看警犬展示与舞台表演，参与知识问答、趣味游戏、安全宣讲，集章打卡还能兑换警察IP纪念品和警熊娃娃机游戏币。",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://suzhou.bendibao.com/xiuxian/2026114/139851.shtm",
-    "source_count": 1,
-    "source_names": [
-      "苏州·周末活动"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
     "id": "6687a9a70a27",
     "title": "吴江中法面包甜品生活节",
     "category": "market",
@@ -42,8 +16,8 @@
     "description": "超30家特色摊位集结面包甜品、咖啡美酒与简餐，可与法国主厨面对面交流，还有集章抽奖、马卡龙与水果丹麦挞手作体验、趣味爬宠课等免费福利。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -1,
+    "days_left": 0,
+    "days_to_start": -2,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026114/139853.shtm",
     "source_count": 1,
     "source_names": [
@@ -68,8 +42,8 @@
     "description": "以菊花为主，展示超700种菊花、近2000盆独本菊与奇花异卉，还有悬崖菊花瀑、5万株百合、6000余平方米秋季花海及4.5米高小熊猫绿雕等田园野趣景观，适合拍照打卡、亲子出游。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 11,
-    "days_to_start": -14,
+    "days_left": 10,
+    "days_to_start": -15,
     "source_url": "http://suzhou.bendibao.com/xiuxian/20251020/133466.shtm",
     "source_count": 2,
     "source_names": [
@@ -94,8 +68,8 @@
     "description": "百万株向日葵正在沃土中蓄力生长，静待金秋惊艳绽放。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 13,
-    "days_to_start": -37,
+    "days_left": 12,
+    "days_to_start": -38,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026922/139139.shtm",
     "source_count": 1,
     "source_names": [
@@ -120,8 +94,8 @@
     "description": "设华夏传统纹样、世界经典纹样、纹样再生三大主题，可沿彩陶、青铜、丝路卷草、明清织绣脉络读懂中华审美，也能欣赏两河流域、古埃及、古希腊、古罗马经典纹样；学生深度参与策展并结合AI创作纹样作品，展览期间设专场导览和纹样手工坊",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 13,
-    "days_to_start": -52,
+    "days_left": 12,
+    "days_to_start": -53,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026920/139083.shtm",
     "source_count": 1,
     "source_names": [
@@ -146,8 +120,8 @@
     "description": "H+美术馆的开馆展览，推荐！",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 22,
-    "days_to_start": -178,
+    "days_left": 21,
+    "days_to_start": -179,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026723/138087.shtm",
     "source_count": 1,
     "source_names": [
@@ -172,8 +146,8 @@
     "description": "整合品牌展演、专题展览、互动体验、文化研学四大板块，推出六十余场特色活动，含金秋虎丘庙会、桂花市集、盆景兰艺展、天平山红枫季、上方山金秋菊展等，融赏花观景、非遗演艺、手作体验、科普研学于一体",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 23,
-    "days_to_start": -67,
+    "days_left": 22,
+    "days_to_start": -68,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026917/139018.shtm",
     "source_count": 1,
     "source_names": [
@@ -198,8 +172,8 @@
     "description": "水秀主表演区最长168米、最宽12米，水景喷高可达108米，特效及光影元素合计十五种，光影交织，万般变化，具有较强的冲击力和观赏性，可形成壮观的视觉效果。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 54,
-    "days_to_start": -191,
+    "days_left": 53,
+    "days_to_start": -192,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2025219/128766.shtm",
     "source_count": 1,
     "source_names": [
@@ -224,8 +198,8 @@
     "description": "吹着慵懒温柔的海风，看着夕阳染红的天空，当夜幕降临，随着喷泉表演的开始，水柱相继从喷管中涌出，跟着音乐节拍，绚丽色彩变化，起伏而跳跃，真的是视觉与听觉的双重享受！",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 54,
-    "days_to_start": -220,
+    "days_left": 53,
+    "days_to_start": -221,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2024424/123334.shtm",
     "source_count": 1,
     "source_names": [
@@ -250,8 +224,8 @@
     "description": "音乐喷泉的水秀主表演区最长168米、最宽12米，水景喷高可达108米。喷泉水秀特效及光影元素合计15种，光影交织，万般变化。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 54,
-    "days_to_start": -220,
+    "days_left": 53,
+    "days_to_start": -221,
     "source_url": "http://suzhou.bendibao.com/xiuxian/202547/129772.shtm",
     "source_count": 1,
     "source_names": [
@@ -276,8 +250,8 @@
     "description": "作为苏州地区首个集音乐喷泉、水幕电影、激光造型于一体的大型声光水艺秀，大渔湾昆曲音乐喷泉东西跨度355米、南北跨度150米、最高喷射高度达60米，不仅在技术上创造了多个“最”，还将昆山的独特文化符号昆曲巧妙地植入一幕幕绚",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 54,
-    "days_to_start": -310,
+    "days_left": 53,
+    "days_to_start": -311,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2024422/123243.shtm",
     "source_count": 1,
     "source_names": [
@@ -302,8 +276,8 @@
     "description": "牛首、虎首、猴首、猪首四尊圆明园兽首原件重磅亮相，同时集中展出商周青铜器、北朝石刻造像等海外回流珍贵文物，展现中西艺术与科技交融的璀璨成就。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 59,
-    "days_to_start": -7,
+    "days_left": 58,
+    "days_to_start": -8,
     "source_url": "http://suzhou.bendibao.com/xiuxian/20261019/139658.shtm",
     "source_count": 1,
     "source_names": [
@@ -328,8 +302,8 @@
     "description": "苏州博物馆与拙政园联票夜游，一墙之隔古今辉映，含苏博专业讲解、拙政问雅夜游及文创伴手礼，适合学生秋季研学",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 10,
-    "days_to_start": 6,
+    "days_left": 9,
+    "days_to_start": 5,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026116/139868.shtm",
     "source_count": 1,
     "source_names": [
@@ -354,8 +328,8 @@
     "description": "现场将开展舞台互动合影&签售互动哟~",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 8,
-    "days_to_start": 7,
+    "days_left": 7,
+    "days_to_start": 6,
     "source_url": "http://suzhou.bendibao.com/xiuxian/20261012/139524.shtm",
     "source_count": 1,
     "source_names": [
@@ -380,8 +354,8 @@
     "description": "白日的克制归于沉寂，我们奔赴深夜旷野，奔赴一场全然释放的出逃，这便是「夜奔」的内核。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 28,
-    "days_to_start": 28,
+    "days_left": 27,
+    "days_to_start": 27,
     "source_url": "http://suzhou.bendibao.com/xiuxian/202699/138781.shtm",
     "source_count": 1,
     "source_names": [
@@ -406,8 +380,8 @@
     "description": "跨年一起来听演唱会！新年快乐",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 55,
-    "days_to_start": 54,
+    "days_left": 54,
+    "days_to_start": 53,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026108/139445.shtm",
     "source_count": 1,
     "source_names": [
