@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T16:31:26+08:00",
+  "generated_at": "2026-11-08T20:31:41+08:00",
   "city_count": 75,
-  "total_published": 164,
+  "total_published": 165,
   "cities": [
     {
       "code": "sh",
@@ -114,6 +114,16 @@
       "unknown": 0
     },
     {
+      "code": "cq",
+      "name": "重庆",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 5,
+      "ongoing": 4,
+      "upcoming": 1,
+      "unknown": 0
+    },
+    {
       "code": "wh",
       "name": "武汉",
       "tier": 2,
@@ -121,16 +131,6 @@
       "published": 4,
       "ongoing": 4,
       "upcoming": 0,
-      "unknown": 0
-    },
-    {
-      "code": "cq",
-      "name": "重庆",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 4,
-      "ongoing": 3,
-      "upcoming": 1,
       "unknown": 0
     },
     {

@@ -78,6 +78,32 @@
     "last_verified": "2026-11-06"
   },
   {
+    "id": "e7ceb87a4279",
+    "title": "上美影经典动画回顾展—重庆站",
+    "category": "exhibition",
+    "sub_tags": [
+      "影展"
+    ],
+    "start_time": "2026-02-10",
+    "end_time": "2027-01-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "重庆来福士",
+    "address": "重庆市渝中区重庆市渝中区接圣街8号",
+    "price_info": null,
+    "description": "30+部经典动画，70+年中国动画艺术史",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 84,
+    "days_to_start": -271,
+    "source_url": "http://cq.bendibao.com/xiuxian/202625/161480.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·展览"
+    ],
+    "last_verified": "2026-11-08"
+  },
+  {
     "id": "b4bc63e92580",
     "title": "2026重庆草莓音乐节",
     "category": "exhibition",
