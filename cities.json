@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T20:31:41+08:00",
+  "generated_at": "2026-11-10T20:37:01+08:00",
   "city_count": 75,
-  "total_published": 165,
+  "total_published": 140,
   "cities": [
     {
       "code": "sh",
@@ -18,8 +18,8 @@
       "name": "北京",
       "tier": 1,
       "tier_label": "一线",
-      "published": 15,
-      "ongoing": 15,
+      "published": 13,
+      "ongoing": 13,
       "upcoming": 0,
       "unknown": 0
     },
@@ -28,8 +28,8 @@
       "name": "广州",
       "tier": 1,
       "tier_label": "一线",
-      "published": 6,
-      "ongoing": 2,
+      "published": 5,
+      "ongoing": 1,
       "upcoming": 4,
       "unknown": 0
     },
@@ -48,8 +48,8 @@
       "name": "昆明",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 28,
-      "ongoing": 19,
+      "published": 18,
+      "ongoing": 9,
       "upcoming": 9,
       "unknown": 0
     },
@@ -58,8 +58,8 @@
       "name": "南京",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 20,
-      "ongoing": 11,
+      "published": 16,
+      "ongoing": 7,
       "upcoming": 9,
       "unknown": 0
     },
@@ -68,8 +68,8 @@
       "name": "苏州",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 15,
-      "ongoing": 11,
+      "published": 14,
+      "ongoing": 10,
       "upcoming": 4,
       "unknown": 0
     },
@@ -78,8 +78,8 @@
       "name": "长沙",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 13,
-      "ongoing": 11,
+      "published": 11,
+      "ongoing": 9,
       "upcoming": 2,
       "unknown": 0
     },
@@ -88,8 +88,8 @@
       "name": "青岛",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 13,
-      "ongoing": 12,
+      "published": 10,
+      "ongoing": 9,
       "upcoming": 1,
       "unknown": 0
     },
@@ -108,19 +108,9 @@
       "name": "杭州",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 5,
-      "ongoing": 2,
+      "published": 4,
+      "ongoing": 1,
       "upcoming": 3,
-      "unknown": 0
-    },
-    {
-      "code": "cq",
-      "name": "重庆",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 5,
-      "ongoing": 4,
-      "upcoming": 1,
       "unknown": 0
     },
     {
@@ -131,6 +121,16 @@
       "published": 4,
       "ongoing": 4,
       "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "cq",
+      "name": "重庆",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 4,
+      "ongoing": 3,
+      "upcoming": 1,
       "unknown": 0
     },
     {

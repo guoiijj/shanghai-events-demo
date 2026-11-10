@@ -1,58 +1,5 @@
 [
   {
-    "id": "1277b1bfed59",
-    "title": "2026年运满满10KM城市联赛长沙站",
-    "category": "exhibition",
-    "sub_tags": [
-      "马拉松"
-    ],
-    "start_time": "2026-11-08",
-    "end_time": "2026-11-08",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "洋湖国家湿地公园",
-    "address": "湖南省长沙市岳麓区洋湖路680号",
-    "price_info": null,
-    "description": "2026运满满10KM城市联赛（长沙站）将于11月8日（周日）08:00在洋湖国家湿地公园开跑，设10KM竞技组和5KM欢乐跑两个项目",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://cs.bendibao.com/xiuxian/20261019/138722.shtm",
-    "source_count": 1,
-    "source_names": [
-      "长沙·周末活动"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
-    "id": "27e0c6eba07d",
-    "title": "第二十七届中国中部湖南农博会",
-    "category": "exhibition",
-    "sub_tags": [
-      "食博会",
-      "行业展"
-    ],
-    "start_time": "2026-11-06",
-    "end_time": "2026-11-09",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "长沙国际会展中心",
-    "address": "湖南省长沙市长沙县国展路118号",
-    "price_info": null,
-    "description": "规划展览面积约8万平方米、设6个展馆，覆盖粮油茶业品牌、果蔬生鲜、餐饮食材、国际省际交流、市州形象等板块，可一站式购齐全国特产及国外美食，马达加斯加担任主宾国泰国、马来西亚等国集中亮相",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -2,
-    "source_url": "http://cs.bendibao.com/xiuxian/2026115/139038.shtm",
-    "source_count": 2,
-    "source_names": [
-      "长沙·周末活动"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
     "id": "a2bdc96c45af",
     "title": "素蕴万千·中国白：福建德化陶瓷特展",
     "category": "exhibition",
@@ -69,8 +16,8 @@
     "description": "德化的白，“朴素而天下莫能与之争美”",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 35,
-    "days_to_start": -45,
+    "days_left": 33,
+    "days_to_start": -47,
     "source_url": "http://cs.bendibao.com/xiuxian/2026914/138094.shtm",
     "source_count": 1,
     "source_names": [
@@ -95,8 +42,8 @@
     "description": "有众多长沙特色美食，很热闹",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 53,
-    "days_to_start": -164,
+    "days_left": 51,
+    "days_to_start": -166,
     "source_url": "http://cs.bendibao.com/xiuxian/2022615/90318.shtm",
     "source_count": 1,
     "source_names": [
@@ -119,8 +66,8 @@
     "description": "长沙2026年体育赛事活动汇总",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 53,
-    "days_to_start": -311,
+    "days_left": 51,
+    "days_to_start": -313,
     "source_url": "http://cs.bendibao.com/xiuxian/202617/132119.shtm",
     "source_count": 1,
     "source_names": [
@@ -145,8 +92,8 @@
     "description": "美食种类齐全，好吃、好玩、好逛",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 53,
-    "days_to_start": -164,
+    "days_left": 51,
+    "days_to_start": -166,
     "source_url": "http://cs.bendibao.com/xiuxian/2022615/90320.shtm",
     "source_count": 1,
     "source_names": [
@@ -169,8 +116,8 @@
     "description": "网红派出所打卡，传递社会正能量",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 53,
-    "days_to_start": -164,
+    "days_left": 51,
+    "days_to_start": -166,
     "source_url": "http://cs.bendibao.com/xiuxian/202456/120379.shtm",
     "source_count": 1,
     "source_names": [
@@ -193,8 +140,8 @@
     "description": "欣赏湘剧、花鼓戏、长沙弹词",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 53,
-    "days_to_start": -311,
+    "days_left": 51,
+    "days_to_start": -313,
     "source_url": "http://cs.bendibao.com/xiuxian/2024411/119989.shtm",
     "source_count": 1,
     "source_names": [
@@ -219,8 +166,8 @@
     "description": "亮灯后氛围感拉满",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 53,
-    "days_to_start": -676,
+    "days_left": 51,
+    "days_to_start": -678,
     "source_url": "http://cs.bendibao.com/xiuxian/2024318/119506.shtm",
     "source_count": 1,
     "source_names": [
@@ -243,8 +190,8 @@
     "description": "免费向社会公众开放，为湖南省文物保护单位。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 53,
-    "days_to_start": -676,
+    "days_left": 51,
+    "days_to_start": -678,
     "source_url": "http://cs.bendibao.com/xiuxian/202512/124435.shtm",
     "source_count": 1,
     "source_names": [
@@ -267,8 +214,8 @@
     "description": "旧址内设有新民学会建党先声专题陈列",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 54,
-    "days_to_start": -676,
+    "days_left": 52,
+    "days_to_start": -678,
     "source_url": "http://cs.bendibao.com/xiuxian/202512/124434.shtm",
     "source_count": 1,
     "source_names": [
@@ -293,8 +240,8 @@
     "description": "长沙马拉松是由世界田径联合会和中国田径协会认证的高端品牌赛事，由湖南省体育局和长沙市人民政府联合主办，由长沙体育产业经营有限公司运营执行。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 7,
-    "days_to_start": 7,
+    "days_left": 5,
+    "days_to_start": 5,
     "source_url": "http://cs.bendibao.com/xiuxian/202684/137192.shtm",
     "source_count": 1,
     "source_names": [
@@ -319,8 +266,8 @@
     "description": "11月中下旬至12月中旬是长沙岳麓山赏红叶的最佳时节。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 22,
-    "days_to_start": 12,
+    "days_left": 20,
+    "days_to_start": 10,
     "source_url": "http://cs.bendibao.com/xiuxian/2015924/44766.shtm",
     "source_count": 1,
     "source_names": [

@@ -1,109 +1,5 @@
 [
   {
-    "id": "59eb9c34eb7d",
-    "title": "2026「高淳农商银行」高淳马拉松",
-    "category": "exhibition",
-    "sub_tags": [
-      "马拉松"
-    ],
-    "start_time": "2026-11-08",
-    "end_time": "2026-11-08",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "濑渚洲公园",
-    "address": "江苏省南京市高淳区丹阳湖南路9号",
-    "price_info": null,
-    "description": "2026高淳马拉松设马拉松和半程马拉松两个项目，参赛规模12000人，9月9日启动预报名，中签后自主选号，先到先得。",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://nj.bendibao.com/xiuxian/202698/182973.shtm",
-    "source_count": 1,
-    "source_names": [
-      "南京·周末活动"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
-    "id": "8385d1c4c2f4",
-    "title": "第九届高淳马拉松",
-    "category": "exhibition",
-    "sub_tags": [
-      "马拉松"
-    ],
-    "start_time": "2026-11-08",
-    "end_time": "2026-11-08",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "濑渚洲公园",
-    "address": "江苏省南京市高淳区丹阳湖南路9号",
-    "price_info": null,
-    "description": "世界田联标牌、中国田协A类认证赛事，1.2万人规模；本届赛道新增城区路段，串联高淳老街、保圣寺塔、固城湖大桥、固城湖水慢城等，一边城市人文一边湖光山色，完赛还有固城湖螃蟹福利。",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://nj.bendibao.com/xiuxian/20261028/183839.shtm",
-    "source_count": 1,
-    "source_names": [
-      "南京·周末活动"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
-    "id": "2d1dba2bdf91",
-    "title": "南京·碧蓝航线only大型同人主题展",
-    "category": "exhibition",
-    "sub_tags": [
-      "漫展"
-    ],
-    "start_time": "2026-11-08",
-    "end_time": "2026-11-08",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "南京空港国际博览中心",
-    "address": "江苏省南京市溧水区润淮大道99号",
-    "price_info": null,
-    "description": "碧蓝航线大型同人主题展，二次元集邮可冲",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183924.shtm",
-    "source_count": 1,
-    "source_names": [
-      "南京·周末活动"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
-    "id": "764a30661f9c",
-    "title": "第十八届南京度假房车展",
-    "category": "exhibition",
-    "sub_tags": [
-      "车展"
-    ],
-    "start_time": "2026-11-07",
-    "end_time": "2026-11-09",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "南京国际博览中心",
-    "address": "南京市建邺区江东中路300号",
-    "price_info": null,
-    "description": "多款旅居房车现场上车体验，提前扫码预登记可到现场领取零食大礼包，先到先得",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -1,
-    "source_url": "http://nj.bendibao.com/xiuxian/2026115/184019.shtm",
-    "source_count": 1,
-    "source_names": [
-      "南京·周末活动"
-    ],
-    "last_verified": "2026-11-07"
-  },
-  {
     "id": "313066efeb3f",
     "title": "2026宝船厂遗址公园庆丰节活动攻略",
     "category": "exhibition",
@@ -120,8 +16,8 @@
     "description": "活动期间景区免门票入园，古船坞旁开设丰收农副产品市集，可选购新鲜果蔬、杂粮干货、土味特产等，同时漫步明代宝船造船遗址，品读郑和下西洋历史，文博古韵与市集烟火兼具，适合散步拍照和家庭出游。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 3,
-    "days_to_start": -9,
+    "days_left": 1,
+    "days_to_start": -11,
     "source_url": "http://nj.bendibao.com/xiuxian/20261029/183870.shtm",
     "source_count": 1,
     "source_names": [
@@ -146,8 +42,8 @@
     "description": "打卡秋日菊海",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 14,
-    "days_to_start": -22,
+    "days_left": 12,
+    "days_to_start": -24,
     "source_url": "http://nj.bendibao.com/xiuxian/2026108/183418.shtm",
     "source_count": 1,
     "source_names": [
@@ -172,8 +68,8 @@
     "description": "一站一景、一站一特色，南京为2026江苏省户外运动城市联赛启幕首站赛事。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 22,
-    "days_to_start": -252,
+    "days_left": 20,
+    "days_to_start": -254,
     "source_url": "http://nj.bendibao.com/xiuxian/2026212/179128.shtm",
     "source_count": 1,
     "source_names": [
@@ -198,8 +94,8 @@
     "description": "玄武湖2026秋花秋实展，含向日葵花展、金秋菊展、盆景赏石书画摄影联展、国庆升旗仪式、热狗节、湖光音乐会、明后湖黄册库护卫巡游等，秋花秋实与湖光秋色相映成趣",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 22,
-    "days_to_start": -40,
+    "days_left": 20,
+    "days_to_start": -42,
     "source_url": "http://nj.bendibao.com/xiuxian/2026929/183386.shtm",
     "source_count": 1,
     "source_names": [
@@ -224,8 +120,8 @@
     "description": "国内知名的赏枫胜地。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -21,
+    "days_left": 38,
+    "days_to_start": -23,
     "source_url": "http://nj.bendibao.com/xiuxian/2025113/177044.shtm",
     "source_count": 1,
     "source_names": [
@@ -250,8 +146,8 @@
     "description": "江苏省13市篮球联赛",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 53,
-    "days_to_start": -68,
+    "days_left": 51,
+    "days_to_start": -70,
     "source_url": "http://nj.bendibao.com/xiuxian/2026130/178846.shtm",
     "source_count": 4,
     "source_names": [
@@ -276,8 +172,8 @@
     "description": "亲历校园风采，在最美春光里漫步百年学府。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 53,
-    "days_to_start": -311,
+    "days_left": 51,
+    "days_to_start": -313,
     "source_url": "http://nj.bendibao.com/xiuxian/2026327/179649.shtm",
     "source_count": 1,
     "source_names": [
@@ -300,8 +196,8 @@
     "description": "汇聚国内外百余家优质展商、10万+件精选珠宝，覆盖翡翠玉石、钻石彩宝、珍珠、K金镶嵌、设计珠宝等全品类，设免费检测服务，先鉴定再购买",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 8,
-    "days_to_start": 5,
+    "days_left": 6,
+    "days_to_start": 3,
     "source_url": "http://nj.bendibao.com/xiuxian/2026115/184017.shtm",
     "source_count": 1,
     "source_names": [
@@ -326,8 +222,8 @@
     "description": "20000㎡规模、600+品牌展商，六大茶类源头直供，可品鉴采购茶礼；同期有南京炒茶大赛、斗茶大赛、茶艺师大赛、非遗体验及产业论坛等30+场活动",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 8,
-    "days_to_start": 5,
+    "days_left": 6,
+    "days_to_start": 3,
     "source_url": "http://nj.bendibao.com/xiuxian/2026115/184026.shtm",
     "source_count": 1,
     "source_names": [
@@ -352,8 +248,8 @@
     "description": "西游群英荟见面会、实景巡游、互动抽奖，随票赠千人湖畔晚宴餐券，秋假专属0.01元儿童票含玻璃栈道体验",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 10,
-    "days_to_start": 6,
+    "days_left": 8,
+    "days_to_start": 4,
     "source_url": "http://nj.bendibao.com/xiuxian/20261026/183789.shtm",
     "source_count": 1,
     "source_names": [
@@ -378,8 +274,8 @@
     "description": "现场有套大鹅、静电重现、海底捞金、不服挑战等活动",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 6,
-    "days_to_start": 6,
+    "days_left": 4,
+    "days_to_start": 4,
     "source_url": "http://nj.bendibao.com/xiuxian/2026112/183925.shtm",
     "source_count": 1,
     "source_names": [
@@ -404,8 +300,8 @@
     "description": "南京首届任天堂only联动任天堂全明星大乱斗赛事",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 7,
-    "days_to_start": 6,
+    "days_left": 5,
+    "days_to_start": 4,
     "source_url": "http://nj.bendibao.com/xiuxian/2026112/183928.shtm",
     "source_count": 1,
     "source_names": [
@@ -430,8 +326,8 @@
     "description": "舞台节目、嘉宾节目、场内互动、场馆布置与物料，全部以《学园偶像大师》为主题展开！",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 13,
-    "days_to_start": 13,
+    "days_left": 11,
+    "days_to_start": 11,
     "source_url": "http://nj.bendibao.com/xiuxian/2026112/183929.shtm",
     "source_count": 1,
     "source_names": [
@@ -456,8 +352,8 @@
     "description": "现场有随机舞蹈、精彩桌游、游戏专区、舞台节目、摄影专区等",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 13,
-    "days_to_start": 13,
+    "days_left": 11,
+    "days_to_start": 11,
     "source_url": "http://nj.bendibao.com/xiuxian/2026112/183930.shtm",
     "source_count": 1,
     "source_names": [
@@ -480,8 +376,8 @@
     "description": "年末压轴珠宝大展，翡翠工厂直销、彩色宝石直供、和田玉鉴赏、珍珠源头甄选、金银首饰福利节、独立设计师与古董专场、松石琥珀水晶专区，现场可免费鉴定、免费首饰清洗，打卡消费领伴手礼",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 22,
-    "days_to_start": 19,
+    "days_left": 20,
+    "days_to_start": 17,
     "source_url": "http://nj.bendibao.com/xiuxian/2026115/184027.shtm",
     "source_count": 1,
     "source_names": [
@@ -506,8 +402,8 @@
     "description": "现场很多活动，10:00-17:00玩转停不下来！",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 20,
-    "days_to_start": 20,
+    "days_left": 18,
+    "days_to_start": 18,
     "source_url": "http://nj.bendibao.com/xiuxian/2026112/183934.shtm",
     "source_count": 1,
     "source_names": [
