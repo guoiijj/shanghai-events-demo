@@ -23,7 +23,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "69f1cc75596c",
@@ -49,7 +49,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "5e2fd02a6462",
@@ -75,7 +75,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "cfaac732f17d",
@@ -101,7 +101,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "05e42a44cf28",
@@ -127,7 +127,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "da73fc257335",
@@ -153,7 +153,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "279b7be16d30",
@@ -179,7 +179,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "618a88a590a6",
@@ -203,7 +203,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "cb351ffe9a51",
@@ -229,7 +229,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "5840117e1a01",
@@ -255,7 +255,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "ddcc813f1de8",
@@ -281,7 +281,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "8370c4956fbf",
@@ -307,7 +307,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "63893435868a",
@@ -333,7 +333,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "8780aebf419b",
@@ -359,7 +359,33 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
+  },
+  {
+    "id": "a50a7ef0851d",
+    "title": "江苏省农科院公众开放日",
+    "category": "other",
+    "sub_tags": [
+      "景区开放"
+    ],
+    "start_time": "2026-11-22",
+    "end_time": "2026-11-22",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "江苏省农业科学院",
+    "address": "南京市玄武区钟灵街50号",
+    "price_info": null,
+    "description": "一年一度的农科院公众开放日，可看“十四五”农科高精特新成果展示、逛特色展区、赶烟火市集品尝特色农产品、参与科普互动打卡，院内银杏秋景适合拍照",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 11,
+    "days_to_start": 11,
+    "source_url": "http://nj.bendibao.com/xiuxian/20261110/184079.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南京·免费活动"
+    ],
+    "last_verified": "2026-11-11"
   },
   {
     "id": "b442aca03fe0",
@@ -383,7 +409,7 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "da205dcd4e4f",
@@ -409,6 +435,6 @@
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   }
 ]

@@ -23,7 +23,33 @@
     "source_names": [
       "杭州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-11"
+  },
+  {
+    "id": "a20946a359f3",
+    "title": "《富春山居图·剩山图》特展",
+    "category": "exhibition",
+    "sub_tags": [
+      "文物展"
+    ],
+    "start_time": "2026-11-10",
+    "end_time": "2026-12-06",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "浙江省博物馆之江馆区",
+    "address": "浙江省杭州市西湖区碧波路之江文化中心",
+    "price_info": null,
+    "description": "元代黄公望《富春山居图·剩山图》真迹限时展出，观展还可参与打卡活动免费领取纪念明信片",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 25,
+    "days_to_start": -1,
+    "source_url": "http://hz.bendibao.com/xiuxian/20261111/173790.shtm",
+    "source_count": 1,
+    "source_names": [
+      "杭州·免费活动"
+    ],
+    "last_verified": "2026-11-11"
   },
   {
     "id": "ddeaaab8af11",
@@ -49,7 +75,33 @@
     "source_names": [
       "杭州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-11"
+  },
+  {
+    "id": "28d7de626478",
+    "title": "2026浙江农业博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "行业展"
+    ],
+    "start_time": "2026-11-13",
+    "end_time": "2026-11-16",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "杭州国际博览中心",
+    "address": "浙江省杭州市萧山区奔竞大道353号",
+    "price_info": null,
+    "description": "汇集1100余家企业、1.5万余种农产品，设十大千亿级产业集群展区，发放350万元消费补贴，有非遗互动、AI体验、打卡集章、品鉴体验等惠民活动",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 5,
+    "days_to_start": 2,
+    "source_url": "http://hz.bendibao.com/xiuxian/20261110/173751.shtm",
+    "source_count": 1,
+    "source_names": [
+      "杭州·免费活动"
+    ],
+    "last_verified": "2026-11-11"
   },
   {
     "id": "c283c1ffea8e",
@@ -75,7 +127,7 @@
     "source_names": [
       "杭州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "a112e8ff646a",
@@ -101,6 +153,6 @@
     "source_names": [
       "杭州·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-11"
   }
 ]

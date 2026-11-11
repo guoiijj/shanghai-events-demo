@@ -23,7 +23,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "41c0e7bf1118",
@@ -49,7 +49,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "9b2fa0a2f67d",
@@ -75,7 +75,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "09ce3f2a807f",
@@ -101,7 +101,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "fdd616aab0a9",
@@ -127,7 +127,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "7a672291231c",
@@ -153,7 +153,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "98e869bb11d5",
@@ -179,7 +179,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "59056ed203b8",
@@ -205,7 +205,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "bb67bfb08feb",
@@ -231,7 +231,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "ca96556df549",
@@ -257,7 +257,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "15ad3163f933",
@@ -283,7 +283,33 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
+  },
+  {
+    "id": "3c06d1dfb360",
+    "title": "中国体育文化（旅游）博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "文旅展"
+    ],
+    "start_time": "2026-11-13",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "苏州国际博览中心",
+    "address": "苏州工业园区苏州大道东688号",
+    "price_info": null,
+    "description": "两个博览会以“与体育同行，聚时代同心”为主题",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 4,
+    "days_to_start": 2,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2025815/132451.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·免费活动"
+    ],
+    "last_verified": "2026-11-11"
   },
   {
     "id": "148c1850f8c9",
@@ -309,7 +335,33 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
+  },
+  {
+    "id": "db870095b2a0",
+    "title": "苏州考古博物馆秋假活动",
+    "category": "exhibition",
+    "sub_tags": [
+      "文物展"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-18",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "苏州考古博物馆",
+    "address": "苏州市姑苏区越堤路321号",
+    "price_info": null,
+    "description": "秋假期间苏州考古博物馆推出新展探秘、田野实践、非遗手作、粘土捏塑等系列活动，含银丝嵌木佩、铜版画、越城遗址考古研学、瓦当造物、文物冰箱贴手作及青少年公益讲解等，可亲手体验考古与非遗技艺。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 7,
+    "days_to_start": 3,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2026119/139878.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·免费活动"
+    ],
+    "last_verified": "2026-11-11"
   },
   {
     "id": "710ea272984a",
@@ -335,7 +387,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   },
   {
     "id": "b195ea4f7229",
@@ -361,6 +413,6 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-11"
   }
 ]

@@ -1,15 +1,15 @@
 {
-  "generated_at": "2026-11-11T20:00:12+08:00",
+  "generated_at": "2026-11-11T23:59:49+08:00",
   "city_count": 75,
-  "total_published": 139,
+  "total_published": 157,
   "cities": [
     {
       "code": "sh",
       "name": "上海",
       "tier": 1,
       "tier_label": "一线",
-      "published": 34,
-      "ongoing": 21,
+      "published": 35,
+      "ongoing": 22,
       "upcoming": 8,
       "unknown": 5
     },
@@ -58,9 +58,9 @@
       "name": "南京",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 16,
+      "published": 17,
       "ongoing": 7,
-      "upcoming": 9,
+      "upcoming": 10,
       "unknown": 0
     },
     {
@@ -68,9 +68,9 @@
       "name": "苏州",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 14,
+      "published": 16,
       "ongoing": 10,
-      "upcoming": 4,
+      "upcoming": 6,
       "unknown": 0
     },
     {
@@ -78,9 +78,9 @@
       "name": "长沙",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 11,
+      "published": 12,
       "ongoing": 9,
-      "upcoming": 2,
+      "upcoming": 3,
       "unknown": 0
     },
     {
@@ -91,6 +91,16 @@
       "published": 10,
       "ongoing": 9,
       "upcoming": 1,
+      "unknown": 0
+    },
+    {
+      "code": "xa",
+      "name": "西安",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 8,
+      "ongoing": 3,
+      "upcoming": 5,
       "unknown": 0
     },
     {
@@ -108,9 +118,9 @@
       "name": "杭州",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 4,
-      "ongoing": 1,
-      "upcoming": 3,
+      "published": 6,
+      "ongoing": 2,
+      "upcoming": 4,
       "unknown": 0
     },
     {
@@ -138,8 +148,18 @@
       "name": "东莞",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 1,
+      "published": 2,
       "ongoing": 1,
+      "upcoming": 1,
+      "unknown": 0
+    },
+    {
+      "code": "zz",
+      "name": "郑州",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 2,
+      "ongoing": 2,
       "upcoming": 0,
       "unknown": 0
     },
@@ -166,26 +186,6 @@
     {
       "code": "nb",
       "name": "宁波",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 0,
-      "ongoing": 0,
-      "upcoming": 0,
-      "unknown": 0
-    },
-    {
-      "code": "xa",
-      "name": "西安",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 0,
-      "ongoing": 0,
-      "upcoming": 0,
-      "unknown": 0
-    },
-    {
-      "code": "zz",
-      "name": "郑州",
       "tier": 2,
       "tier_label": "新一线",
       "published": 0,
