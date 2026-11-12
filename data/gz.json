@@ -1,5 +1,31 @@
 [
   {
+    "id": "10fbd5081b88",
+    "title": "2026广州国际房车展",
+    "category": "exhibition",
+    "sub_tags": [
+      "车展"
+    ],
+    "start_time": "2026-11-13",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "广州空港博览中心",
+    "address": "广州市白云区迎宾大道1108号广州空港博览中心",
+    "price_info": null,
+    "description": "展会规模20000+m²的室内展馆，集结了100多家房车品牌，房车配件，露营装备。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 2,
+    "days_to_start": 0,
+    "source_url": "http://gz.bendibao.com/xiuxian/20261027/373611.shtm",
+    "source_count": 1,
+    "source_names": [
+      "广州·周末活动"
+    ],
+    "last_verified": "2026-11-11"
+  },
+  {
     "id": "a06992b23a08",
     "title": "第30届中国国际宠物水族展览会（广州）",
     "category": "exhibition",
@@ -16,8 +42,8 @@
     "description": "展品覆盖犬、猫、鸟、小宠、异宠、爬宠、水族等全品类用品与服务，链接数千国内外品牌，全景呈现宠物产业链的创新与风向。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 3,
-    "days_to_start": 0,
+    "days_left": 2,
+    "days_to_start": -1,
     "source_url": "http://gz.bendibao.com/xiuxian/2026119/373917.shtm",
     "source_count": 1,
     "source_names": [
@@ -42,35 +68,9 @@
     "description": "本届联赛设“广州龙王组”和“湾区龙腾组”两大组别，兼顾本土竞技传承与湾区交流推广。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 18,
-    "days_to_start": -134,
+    "days_left": 17,
+    "days_to_start": -135,
     "source_url": "http://gz.bendibao.com/xiuxian/2026526/368485.shtm",
-    "source_count": 1,
-    "source_names": [
-      "广州·周末活动"
-    ],
-    "last_verified": "2026-11-11"
-  },
-  {
-    "id": "10fbd5081b88",
-    "title": "2026广州国际房车展",
-    "category": "exhibition",
-    "sub_tags": [
-      "车展"
-    ],
-    "start_time": "2026-11-13",
-    "end_time": "2026-11-15",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "广州空港博览中心",
-    "address": "广州市白云区迎宾大道1108号广州空港博览中心",
-    "price_info": null,
-    "description": "展会规模20000+m²的室内展馆，集结了100多家房车品牌，房车配件，露营装备。",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 1,
-    "source_url": "http://gz.bendibao.com/xiuxian/20261027/373611.shtm",
     "source_count": 1,
     "source_names": [
       "广州·周末活动"
@@ -94,8 +94,8 @@
     "description": "本届交易会秉持“面向市场、面向大众、面向国际”的宗旨，致力打造集“内容生产、国际交流、城市联动、产业赋能”于一体的电影行业顶级博览与交易平台。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 10,
-    "days_to_start": 8,
+    "days_left": 9,
+    "days_to_start": 7,
     "source_url": "http://gz.bendibao.com/xiuxian/20261012/373021.shtm",
     "source_count": 1,
     "source_names": [
@@ -120,8 +120,8 @@
     "description": "展会延续“新科技・新生活”的主题，诚邀海内外整车企业、科技企业、零部件企业共赴羊城。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 24,
-    "days_to_start": 15,
+    "days_left": 23,
+    "days_to_start": 14,
     "source_url": "http://gz.bendibao.com/xiuxian/20261027/373612.shtm",
     "source_count": 1,
     "source_names": [
@@ -146,8 +146,8 @@
     "description": "本届灯光节设置灯光艺术、灯光装置、城市楼宇影像、城市幻光森林、建筑3D Mapping五大赛道",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 32,
-    "days_to_start": 22,
+    "days_left": 31,
+    "days_to_start": 21,
     "source_url": "http://gz.bendibao.com/xiuxian/2026114/373785.shtm",
     "source_count": 1,
     "source_names": [

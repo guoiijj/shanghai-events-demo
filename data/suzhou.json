@@ -1,5 +1,57 @@
 [
   {
+    "id": "3c06d1dfb360",
+    "title": "中国体育文化（旅游）博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "文旅展"
+    ],
+    "start_time": "2026-11-13",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "苏州国际博览中心",
+    "address": "苏州工业园区苏州大道东688号",
+    "price_info": null,
+    "description": "两个博览会以“与体育同行，聚时代同心”为主题",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 2,
+    "days_to_start": 0,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2025815/132451.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·免费活动"
+    ],
+    "last_verified": "2026-11-11"
+  },
+  {
+    "id": "15ad3163f933",
+    "title": "《拙政问雅・夜苏博》学生秋季专场",
+    "category": "exhibition",
+    "sub_tags": [
+      "灯光秀"
+    ],
+    "start_time": "2026-11-13",
+    "end_time": "2026-11-17",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "拙政园",
+    "address": "苏州市姑苏区东北街178号",
+    "price_info": null,
+    "description": "苏州博物馆与拙政园联票夜游，一墙之隔古今辉映，含苏博专业讲解、拙政问雅夜游及文创伴手礼，适合学生秋季研学",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 4,
+    "days_to_start": 0,
+    "source_url": "http://suzhou.bendibao.com/xiuxian/2026116/139868.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-11"
+  },
+  {
     "id": "5be67cf0de25",
     "title": "2026年苏州上方山金秋花展",
     "category": "exhibition",
@@ -16,8 +68,8 @@
     "description": "以菊花为主，展示超700种菊花、近2000盆独本菊与奇花异卉，还有悬崖菊花瀑、5万株百合、6000余平方米秋季花海及4.5米高小熊猫绿雕等田园野趣景观，适合拍照打卡、亲子出游。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 6,
-    "days_to_start": -19,
+    "days_left": 5,
+    "days_to_start": -20,
     "source_url": "http://suzhou.bendibao.com/xiuxian/20251020/133466.shtm",
     "source_count": 2,
     "source_names": [
@@ -42,8 +94,8 @@
     "description": "百万株向日葵正在沃土中蓄力生长，静待金秋惊艳绽放。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -42,
+    "days_left": 7,
+    "days_to_start": -43,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026922/139139.shtm",
     "source_count": 1,
     "source_names": [
@@ -68,8 +120,8 @@
     "description": "设华夏传统纹样、世界经典纹样、纹样再生三大主题，可沿彩陶、青铜、丝路卷草、明清织绣脉络读懂中华审美，也能欣赏两河流域、古埃及、古希腊、古罗马经典纹样；学生深度参与策展并结合AI创作纹样作品，展览期间设专场导览和纹样手工坊",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -57,
+    "days_left": 7,
+    "days_to_start": -58,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026920/139083.shtm",
     "source_count": 1,
     "source_names": [
@@ -94,8 +146,8 @@
     "description": "H+美术馆的开馆展览，推荐！",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 17,
-    "days_to_start": -183,
+    "days_left": 16,
+    "days_to_start": -184,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026723/138087.shtm",
     "source_count": 1,
     "source_names": [
@@ -120,8 +172,8 @@
     "description": "整合品牌展演、专题展览、互动体验、文化研学四大板块，推出六十余场特色活动，含金秋虎丘庙会、桂花市集、盆景兰艺展、天平山红枫季、上方山金秋菊展等，融赏花观景、非遗演艺、手作体验、科普研学于一体",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 18,
-    "days_to_start": -72,
+    "days_left": 17,
+    "days_to_start": -73,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026917/139018.shtm",
     "source_count": 1,
     "source_names": [
@@ -146,8 +198,8 @@
     "description": "水秀主表演区最长168米、最宽12米，水景喷高可达108米，特效及光影元素合计十五种，光影交织，万般变化，具有较强的冲击力和观赏性，可形成壮观的视觉效果。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 49,
-    "days_to_start": -196,
+    "days_left": 48,
+    "days_to_start": -197,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2025219/128766.shtm",
     "source_count": 1,
     "source_names": [
@@ -172,8 +224,8 @@
     "description": "吹着慵懒温柔的海风，看着夕阳染红的天空，当夜幕降临，随着喷泉表演的开始，水柱相继从喷管中涌出，跟着音乐节拍，绚丽色彩变化，起伏而跳跃，真的是视觉与听觉的双重享受！",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 49,
-    "days_to_start": -225,
+    "days_left": 48,
+    "days_to_start": -226,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2024424/123334.shtm",
     "source_count": 1,
     "source_names": [
@@ -198,8 +250,8 @@
     "description": "音乐喷泉的水秀主表演区最长168米、最宽12米，水景喷高可达108米。喷泉水秀特效及光影元素合计15种，光影交织，万般变化。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 49,
-    "days_to_start": -225,
+    "days_left": 48,
+    "days_to_start": -226,
     "source_url": "http://suzhou.bendibao.com/xiuxian/202547/129772.shtm",
     "source_count": 1,
     "source_names": [
@@ -224,8 +276,8 @@
     "description": "作为苏州地区首个集音乐喷泉、水幕电影、激光造型于一体的大型声光水艺秀，大渔湾昆曲音乐喷泉东西跨度355米、南北跨度150米、最高喷射高度达60米，不仅在技术上创造了多个“最”，还将昆山的独特文化符号昆曲巧妙地植入一幕幕绚",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 49,
-    "days_to_start": -315,
+    "days_left": 48,
+    "days_to_start": -316,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2024422/123243.shtm",
     "source_count": 1,
     "source_names": [
@@ -250,64 +302,12 @@
     "description": "牛首、虎首、猴首、猪首四尊圆明园兽首原件重磅亮相，同时集中展出商周青铜器、北朝石刻造像等海外回流珍贵文物，展现中西艺术与科技交融的璀璨成就。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 54,
-    "days_to_start": -12,
+    "days_left": 53,
+    "days_to_start": -13,
     "source_url": "http://suzhou.bendibao.com/xiuxian/20261019/139658.shtm",
     "source_count": 1,
     "source_names": [
       "苏州·周末活动"
-    ],
-    "last_verified": "2026-11-11"
-  },
-  {
-    "id": "15ad3163f933",
-    "title": "《拙政问雅・夜苏博》学生秋季专场",
-    "category": "exhibition",
-    "sub_tags": [
-      "灯光秀"
-    ],
-    "start_time": "2026-11-13",
-    "end_time": "2026-11-17",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "拙政园",
-    "address": "苏州市姑苏区东北街178号",
-    "price_info": null,
-    "description": "苏州博物馆与拙政园联票夜游，一墙之隔古今辉映，含苏博专业讲解、拙政问雅夜游及文创伴手礼，适合学生秋季研学",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 5,
-    "days_to_start": 1,
-    "source_url": "http://suzhou.bendibao.com/xiuxian/2026116/139868.shtm",
-    "source_count": 1,
-    "source_names": [
-      "苏州·周末活动"
-    ],
-    "last_verified": "2026-11-11"
-  },
-  {
-    "id": "3c06d1dfb360",
-    "title": "中国体育文化（旅游）博览会",
-    "category": "exhibition",
-    "sub_tags": [
-      "文旅展"
-    ],
-    "start_time": "2026-11-13",
-    "end_time": "2026-11-15",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "苏州国际博览中心",
-    "address": "苏州工业园区苏州大道东688号",
-    "price_info": null,
-    "description": "两个博览会以“与体育同行，聚时代同心”为主题",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 1,
-    "source_url": "http://suzhou.bendibao.com/xiuxian/2025815/132451.shtm",
-    "source_count": 1,
-    "source_names": [
-      "苏州·免费活动"
     ],
     "last_verified": "2026-11-11"
   },
@@ -328,8 +328,8 @@
     "description": "现场将开展舞台互动合影&签售互动哟~",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 2,
+    "days_left": 2,
+    "days_to_start": 1,
     "source_url": "http://suzhou.bendibao.com/xiuxian/20261012/139524.shtm",
     "source_count": 1,
     "source_names": [
@@ -354,8 +354,8 @@
     "description": "秋假期间苏州考古博物馆推出新展探秘、田野实践、非遗手作、粘土捏塑等系列活动，含银丝嵌木佩、铜版画、越城遗址考古研学、瓦当造物、文物冰箱贴手作及青少年公益讲解等，可亲手体验考古与非遗技艺。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 6,
-    "days_to_start": 2,
+    "days_left": 5,
+    "days_to_start": 1,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026119/139878.shtm",
     "source_count": 1,
     "source_names": [
@@ -380,8 +380,8 @@
     "description": "白日的克制归于沉寂，我们奔赴深夜旷野，奔赴一场全然释放的出逃，这便是「夜奔」的内核。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 23,
-    "days_to_start": 23,
+    "days_left": 22,
+    "days_to_start": 22,
     "source_url": "http://suzhou.bendibao.com/xiuxian/202699/138781.shtm",
     "source_count": 1,
     "source_names": [
@@ -406,8 +406,8 @@
     "description": "跨年一起来听演唱会！新年快乐",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 50,
-    "days_to_start": 49,
+    "days_left": 49,
+    "days_to_start": 48,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026108/139445.shtm",
     "source_count": 1,
     "source_names": [

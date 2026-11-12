@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-12T20:30:40+08:00",
+  "generated_at": "2026-11-13T05:00:02+08:00",
   "city_count": 75,
   "total_published": 155,
   "cities": [
@@ -9,8 +9,8 @@
       "tier": 1,
       "tier_label": "一线",
       "published": 35,
-      "ongoing": 22,
-      "upcoming": 8,
+      "ongoing": 23,
+      "upcoming": 7,
       "unknown": 5
     },
     {
@@ -29,8 +29,8 @@
       "tier": 1,
       "tier_label": "一线",
       "published": 6,
-      "ongoing": 2,
-      "upcoming": 4,
+      "ongoing": 3,
+      "upcoming": 3,
       "unknown": 0
     },
     {
@@ -49,8 +49,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 18,
-      "ongoing": 9,
-      "upcoming": 9,
+      "ongoing": 11,
+      "upcoming": 7,
       "unknown": 0
     },
     {
@@ -59,8 +59,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 16,
-      "ongoing": 6,
-      "upcoming": 10,
+      "ongoing": 8,
+      "upcoming": 8,
       "unknown": 0
     },
     {
@@ -69,8 +69,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 16,
-      "ongoing": 10,
-      "upcoming": 6,
+      "ongoing": 12,
+      "upcoming": 4,
       "unknown": 0
     },
     {
@@ -119,8 +119,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 6,
-      "ongoing": 3,
-      "upcoming": 3,
+      "ongoing": 4,
+      "upcoming": 2,
       "unknown": 0
     },
     {

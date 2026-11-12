@@ -16,12 +16,38 @@
     "description": "杭州深秋顶流庙会回归，运河沿线八大街区同步开嗨，巨型人偶巡游、宋韵剧本游、非遗手作、美食市集、夜景打卡，岸上赶集水上乘船，遛娃逛吃汉服出片皆宜",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 3,
-    "days_to_start": 0,
+    "days_left": 2,
+    "days_to_start": -1,
     "source_url": "http://hz.bendibao.com/xiuxian/2026115/173685.shtm",
     "source_count": 1,
     "source_names": [
       "杭州·周末活动"
+    ],
+    "last_verified": "2026-11-11"
+  },
+  {
+    "id": "28d7de626478",
+    "title": "2026浙江农业博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "行业展"
+    ],
+    "start_time": "2026-11-13",
+    "end_time": "2026-11-16",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "杭州国际博览中心",
+    "address": "浙江省杭州市萧山区奔竞大道353号",
+    "price_info": null,
+    "description": "汇集1100余家企业、1.5万余种农产品，设十大千亿级产业集群展区，发放350万元消费补贴，有非遗互动、AI体验、打卡集章、品鉴体验等惠民活动",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 3,
+    "days_to_start": 0,
+    "source_url": "http://hz.bendibao.com/xiuxian/20261110/173751.shtm",
+    "source_count": 1,
+    "source_names": [
+      "杭州·免费活动"
     ],
     "last_verified": "2026-11-11"
   },
@@ -42,8 +68,8 @@
     "description": "1500余盆精品菊花、两百米品种菊长廊、14组菊花小品、12座生态阳台与100组微花园，还有萌趣动物造型、西泠印社现场挥毫点绘花蕊、NPC闯关赢贴纸、金石传拓、菊文化讲座、AI眼镜科普体验及便民市集，融古韵、童趣与科技于",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 18,
-    "days_to_start": -9,
+    "days_left": 17,
+    "days_to_start": -10,
     "source_url": "http://hz.bendibao.com/xiuxian/2026112/173622.shtm",
     "source_count": 1,
     "source_names": [
@@ -68,35 +94,9 @@
     "description": "元代黄公望《富春山居图·剩山图》真迹限时展出，观展还可参与打卡活动免费领取纪念明信片",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 24,
-    "days_to_start": -2,
+    "days_left": 23,
+    "days_to_start": -3,
     "source_url": "http://hz.bendibao.com/xiuxian/20261111/173790.shtm",
-    "source_count": 1,
-    "source_names": [
-      "杭州·免费活动"
-    ],
-    "last_verified": "2026-11-11"
-  },
-  {
-    "id": "28d7de626478",
-    "title": "2026浙江农业博览会",
-    "category": "exhibition",
-    "sub_tags": [
-      "行业展"
-    ],
-    "start_time": "2026-11-13",
-    "end_time": "2026-11-16",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "杭州国际博览中心",
-    "address": "浙江省杭州市萧山区奔竞大道353号",
-    "price_info": null,
-    "description": "汇集1100余家企业、1.5万余种农产品，设十大千亿级产业集群展区，发放350万元消费补贴，有非遗互动、AI体验、打卡集章、品鉴体验等惠民活动",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 4,
-    "days_to_start": 1,
-    "source_url": "http://hz.bendibao.com/xiuxian/20261110/173751.shtm",
     "source_count": 1,
     "source_names": [
       "杭州·免费活动"
@@ -120,8 +120,8 @@
     "description": "2026建德马拉松竞赛规程已公布，赛事11月15日鸣枪起跑，9月2日10时开启网上报名，报名费每人170元",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 3,
+    "days_left": 2,
+    "days_to_start": 2,
     "source_url": "http://hz.bendibao.com/xiuxian/202691/172657.shtm",
     "source_count": 1,
     "source_names": [
@@ -146,8 +146,8 @@
     "description": "2026千岛湖马拉松将于11月29日鸣枪开跑！山水之约，邀您一起“哇赛”",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 17,
-    "days_to_start": 17,
+    "days_left": 16,
+    "days_to_start": 16,
     "source_url": "http://hz.bendibao.com/xiuxian/2026826/172522.shtm",
     "source_count": 1,
     "source_names": [
