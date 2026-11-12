@@ -16,8 +16,8 @@
     "description": "看晚会、听讲座、逛市集…",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 50,
-    "days_to_start": -314,
+    "days_left": 49,
+    "days_to_start": -315,
     "source_url": "http://dg.bendibao.com/xiuxian/2025626/177529.shtm",
     "source_count": 1,
     "source_names": [
@@ -42,8 +42,8 @@
     "description": "百万购车多重补贴、免费试漂移卡丁车、张雪机车展示",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 18,
-    "days_to_start": 16,
+    "days_left": 17,
+    "days_to_start": 15,
     "source_url": "http://dg.bendibao.com/xiuxian/20261110/183751.shtm",
     "source_count": 1,
     "source_names": [

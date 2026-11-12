@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-11T23:59:49+08:00",
+  "generated_at": "2026-11-12T14:57:37+08:00",
   "city_count": 75,
-  "total_published": 157,
+  "total_published": 155,
   "cities": [
     {
       "code": "sh",
@@ -18,8 +18,8 @@
       "name": "北京",
       "tier": 1,
       "tier_label": "一线",
-      "published": 12,
-      "ongoing": 12,
+      "published": 11,
+      "ongoing": 11,
       "upcoming": 0,
       "unknown": 0
     },
@@ -29,8 +29,8 @@
       "tier": 1,
       "tier_label": "一线",
       "published": 6,
-      "ongoing": 1,
-      "upcoming": 5,
+      "ongoing": 2,
+      "upcoming": 4,
       "unknown": 0
     },
     {
@@ -58,8 +58,8 @@
       "name": "南京",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 17,
-      "ongoing": 7,
+      "published": 16,
+      "ongoing": 6,
       "upcoming": 10,
       "unknown": 0
     },
@@ -119,8 +119,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 6,
-      "ongoing": 2,
-      "upcoming": 4,
+      "ongoing": 3,
+      "upcoming": 3,
       "unknown": 0
     },
     {
