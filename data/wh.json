@@ -1,5 +1,32 @@
 [
   {
+    "id": "91d373fc0600",
+    "title": "文华学院第十二届红枫文化节",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏花节",
+      "文化节"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-14",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "文华学院",
+    "address": "东湖新技术开发区文华园路8号",
+    "price_info": null,
+    "description": "文华学院一万多棵红枫层林尽染，红枫文化节以“红枫印初心·逐梦新征程”为主题，设开幕式、校园健康跑、艺术作品展、科普集市游园会、民俗文化节等系列活动，可赏红枫、逛市集、看展览。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://wh.bendibao.com/xiuxian/20251111/192056.shtm",
+    "source_count": 2,
+    "source_names": [
+      "武汉·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
     "id": "c75b33374e09",
     "title": "2026武汉市第43届金秋菊展",
     "category": "exhibition",
@@ -16,14 +43,14 @@
     "description": "以“湿地涵秋 菊耀江城”为主题，汉口江滩、中山公园、沙湖公园、武汉动物园四大主题展区及各区集中展点全城覆盖；汉口江滩展区有京汉火车站绿雕、小江豚、天鹅等动物造型装置和五彩菊花，还可顺路打卡三阳广场波斯菊与江边芦荻花。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 17,
-    "days_to_start": -14,
+    "days_left": 16,
+    "days_to_start": -15,
     "source_url": "http://wh.bendibao.com/xiuxian/20261020/201550.shtm",
-    "source_count": 2,
+    "source_count": 4,
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-14"
   },
   {
     "id": "ccc2adea2ccd",
@@ -42,14 +69,14 @@
     "description": "以“山水武昌·古城新妆”为主题，串联斗级营、蛇山山麓、汉阳门花园三大展区，可赏大型花艺装置、与黄鹤楼同框打卡，并逛菊韵主题市集、体验非遗文创与美食。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 17,
-    "days_to_start": -9,
+    "days_left": 16,
+    "days_to_start": -10,
     "source_url": "http://wh.bendibao.com/xiuxian/2026114/201695.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-14"
   },
   {
     "id": "cba1f975506d",
@@ -68,14 +95,40 @@
     "description": "70年后菊展重回中山公园，约1.2万盆菊花融入老汉口复古街巷、有轨电车、张公亭等场景，可赏花拍照、乘小白船游湖，还有游乐惠民次卡、雅集音乐会、市集巡游等配套活动。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 18,
-    "days_to_start": -14,
+    "days_left": 17,
+    "days_to_start": -15,
     "source_url": "http://wh.bendibao.com/xiuxian/20261029/201640.shtm",
+    "source_count": 2,
+    "source_names": [
+      "武汉·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "e08830e17f52",
+    "title": "2026武汉滨江天街极光雪境",
+    "category": "exhibition",
+    "sub_tags": [
+      "点灯仪式"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2027-01-03",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "武汉滨江天街",
+    "address": "武汉市武昌区和平大道659号",
+    "price_info": null,
+    "description": "17米星穹之树双生圣诞树、13000m²雪境公园、极光大道雪森阶梯，芬兰罗瓦涅米圣诞老人亲临互动，12月周末极光落雪与雪夜市集，打卡可免费领千份圣诞礼物",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 50,
+    "days_to_start": 0,
+    "source_url": "https://wh.bendibao.com/xiuxian/20261113/201799.shtm",
     "source_count": 1,
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-14"
   },
   {
     "id": "2a17fc02e15b",
@@ -95,13 +148,115 @@
     "description": "主题“偶×遇 Walk & Talk”，设八大核心板块及两大特别单元，汇聚22个国家370余位艺术家500余件（组）作品，涵盖绘画、雕塑、装置、影像等，采用“1+1+N”双馆主展、全城辐射模式，联动武汉三镇文旅街区与商业",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 198,
-    "days_to_start": -43,
+    "days_left": 197,
+    "days_to_start": -44,
     "source_url": "http://wh.bendibao.com/xiuxian/2026920/200752.shtm",
-    "source_count": 2,
+    "source_count": 4,
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-07"
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "37503edadabb",
+    "title": "2026武汉武昌万象城织织镇圣诞树启幕之夜",
+    "category": "exhibition",
+    "sub_tags": [
+      "点灯仪式"
+    ],
+    "start_time": "2026-11-15",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "武昌万象城",
+    "address": "武汉市武昌区和平大道619号",
+    "price_info": null,
+    "description": "16米织织镇圣诞树亮灯仪式，搭配3D mapping光影互动、织织镇落雪秀与湖北省管弦乐团演奏，现场还有500杯另茶雪域咸奶茶免费派送，1000㎡圣诞童话织织小镇可逛。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 1,
+    "days_to_start": 1,
+    "source_url": "https://wh.bendibao.com/xiuxian/20261113/201802.shtm",
+    "source_count": 1,
+    "source_names": [
+      "武汉·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "061c6008bc7f",
+    "title": "2026年武汉商品交易会（汉交会）",
+    "category": "exhibition",
+    "sub_tags": [
+      "经贸展"
+    ],
+    "start_time": "2026-11-19",
+    "end_time": "2026-11-22",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "汉口北国际贸易城",
+    "address": "湖北省武汉市黄陂区汉口北大道88号",
+    "price_info": null,
+    "description": "19万平方米展区，22个主题馆汇集全球好物与荆楚优品，可免费逛展；有机器人互动、非遗手作、美食品鉴、试吃试饮、折扣满减等体验",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 8,
+    "days_to_start": 5,
+    "source_url": "https://wh.bendibao.com/xiuxian/20261113/201769.shtm",
+    "source_count": 1,
+    "source_names": [
+      "武汉·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "bf4d4600b948",
+    "title": "2026湖北农业博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "行业展"
+    ],
+    "start_time": "2026-11-20",
+    "end_time": "2026-11-23",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "武汉国际博览中心",
+    "address": "武汉市汉阳区鹦鹉大道619号",
+    "price_info": null,
+    "description": "6万㎡农业大展，设5大板块10个特色展区，汇聚2000+参展企业，可看农业硬核科技、国际及港澳台好物、品牌农产品，还有乡村场景体验、民俗表演和近千种美食，现场发放免费美食品鉴券及消费券",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 9,
+    "days_to_start": 6,
+    "source_url": "https://wh.bendibao.com/xiuxian/20261111/201750.shtm",
+    "source_count": 1,
+    "source_names": [
+      "武汉·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "079eff2d3e46",
+    "title": "2026武汉恒隆广场星然相见·圣诞小镇活动",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2026-11-20",
+    "end_time": "2027-01-01",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "武汉恒隆广场",
+    "address": "武汉市硚口区京汉大道668号",
+    "price_info": null,
+    "description": "武汉恒隆广场打造圣诞小镇，设5号门外广场与东区L1主中庭打卡点，有浪漫飘雪、星光圣诞树、许愿池、节日音乐派对与舞蹈秀，还有精品巧克力市集及消费返点礼遇。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 48,
+    "days_to_start": 6,
+    "source_url": "https://wh.bendibao.com/xiuxian/20261113/201800.shtm",
+    "source_count": 1,
+    "source_names": [
+      "武汉·周末活动"
+    ],
+    "last_verified": "2026-11-14"
   }
 ]

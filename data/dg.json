@@ -1,5 +1,57 @@
 [
   {
+    "id": "fded5d3d871a",
+    "title": "东莞科学馆周末活动",
+    "category": "exhibition",
+    "sub_tags": [
+      "科幻展"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "东莞科学馆",
+    "address": "东莞市莞城街道新芬路38号",
+    "price_info": null,
+    "description": "琥珀实验、望远镜拼装、科普电影观看",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": 0,
+    "source_url": "https://dg.bendibao.com/xiuxian/20261113/183791.shtm",
+    "source_count": 1,
+    "source_names": [
+      "东莞·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "bc086de5e6f6",
+    "title": "东莞科技馆科学奇妙之旅",
+    "category": "exhibition",
+    "sub_tags": [
+      "科幻展"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "东莞科技馆",
+    "address": "东莞市元美中路2号(青少年活动中心旁)",
+    "price_info": null,
+    "description": "科普剧、科学秀、展品秀、“展品中的科学”、还原式学习与创意航模等活动",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": 0,
+    "source_url": "https://dg.bendibao.com/xiuxian/20261113/183792.shtm",
+    "source_count": 1,
+    "source_names": [
+      "东莞·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
     "id": "33faf10f6619",
     "title": "东莞市文化馆活动汇总",
     "category": "exhibition",
@@ -16,14 +68,66 @@
     "description": "看晚会、听讲座、逛市集…",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 48,
-    "days_to_start": -316,
+    "days_left": 47,
+    "days_to_start": -317,
     "source_url": "http://dg.bendibao.com/xiuxian/2025626/177529.shtm",
+    "source_count": 2,
+    "source_names": [
+      "东莞·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "62989790f41d",
+    "title": "“筑梦为光 ‘艺’彩绽放” 南城“艺起学”文化惠民公益培训班 汇报演出",
+    "category": "exhibition",
+    "sub_tags": [
+      "音乐剧"
+    ],
+    "start_time": "2026-11-15",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "东莞文化馆南城分馆",
+    "address": "东莞市东骏路22号宏图科技中心",
+    "price_info": null,
+    "description": "学员们以灵动舞姿、悠扬乐声、昂扬姿态，献上一场温情满满的文艺汇报演出。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 1,
+    "days_to_start": 1,
+    "source_url": "https://dg.bendibao.com/xiuxian/20261113/183790.shtm",
     "source_count": 1,
     "source_names": [
       "东莞·周末活动"
     ],
-    "last_verified": "2026-11-11"
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "93d5b9682bc0",
+    "title": "谢岗镇第五届银瓶登山文化嘉年华森氧欢乐跑",
+    "category": "exhibition",
+    "sub_tags": [
+      "徒步"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "银瓶山森林公园-谢岗景区",
+    "address": "东莞市谢岗镇南面村",
+    "price_info": null,
+    "description": "欣赏山野风光、还有机会赢取电动牙刷、保温杯等精美礼品。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 7,
+    "days_to_start": 7,
+    "source_url": "https://dg.bendibao.com/xiuxian/20261112/183784.shtm",
+    "source_count": 1,
+    "source_names": [
+      "东莞·周末活动"
+    ],
+    "last_verified": "2026-11-14"
   },
   {
     "id": "d58ca5db32d5",
@@ -42,13 +146,14 @@
     "description": "百万购车多重补贴、免费试漂移卡丁车、张雪机车展示",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 16,
-    "days_to_start": 14,
+    "days_left": 15,
+    "days_to_start": 13,
     "source_url": "http://dg.bendibao.com/xiuxian/20261110/183751.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
-      "东莞·免费活动"
+      "东莞·免费活动",
+      "东莞·周末活动"
     ],
-    "last_verified": "2026-11-11"
+    "last_verified": "2026-11-14"
   }
 ]

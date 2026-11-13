@@ -16,14 +16,14 @@
     "description": "光雾山旅游区三大景区红叶陆续进入最佳观赏期，可赏红叶、彩林、溪流瀑布，适合登山徒步与摄影出片",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 2,
-    "days_to_start": -29,
+    "days_left": 1,
+    "days_to_start": -30,
     "source_url": "http://cd.bendibao.com/xiuxian/20261019/215270.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-14"
   },
   {
     "id": "c60e48e3d09d",
@@ -42,14 +42,14 @@
     "description": "3大人气IP联动（无畏契约手游、鹅鸭杀、纸嫁衣），9大主题惊奇屋、7大影视级惊奇域、3大沉浸式惊奇剧、2场日夜间狂欢大巡游，400+NPC飙戏，高颜值惊奇少年团与「主角加速中」特别玩法。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 2,
-    "days_to_start": -34,
+    "days_left": 1,
+    "days_to_start": -35,
     "source_url": "http://cd.bendibao.com/xiuxian/20261027/215492.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-14"
   },
   {
     "id": "4a31eb30d755",
@@ -68,14 +68,14 @@
     "description": "全市40家合作影院连续7周开展500场免费公益电影专场，可提前预约免费观影，近期放映《老江湖》",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 7,
-    "days_to_start": -34,
+    "days_left": 6,
+    "days_to_start": -35,
     "source_url": "http://cd.bendibao.com/xiuxian/20261010/214907.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-14"
   },
   {
     "id": "311b01f9b601",
@@ -94,14 +94,14 @@
     "description": "英国维多利亚与艾尔伯特博物馆珍藏威基伍德陶瓷首次来蓉，联合四川博物院、成都博物馆展出202件珍品，呈现从中国瓷西传到英国工业瓷业创新的跨世纪文明对话",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 44,
-    "days_to_start": -44,
+    "days_left": 43,
+    "days_to_start": -45,
     "source_url": "http://cd.bendibao.com/xiuxian/2026916/213894.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-08"
+    "last_verified": "2026-11-14"
   },
   {
     "id": "8850f60d7f8f",
@@ -120,14 +120,66 @@
     "description": "全年进行，灯光璀璨熠熠生辉",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 48,
-    "days_to_start": -316,
+    "days_left": 47,
+    "days_to_start": -317,
     "source_url": "http://cd.bendibao.com/xiuxian/2024412/182004.shtm",
+    "source_count": 2,
+    "source_names": [
+      "成都·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "abf1569ca4c9",
+    "title": "和平精英2026PEL巅峰挑战赛总决赛",
+    "category": "exhibition",
+    "sub_tags": [
+      "电竞"
+    ],
+    "start_time": "2026-11-20",
+    "end_time": "2026-11-22",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "成都量子介VSPO电竞中心",
+    "address": "四川省成都市成华区二仙桥北路36号",
+    "price_info": null,
+    "description": "线下PEL观赛，现场有PEL周边免费领取、暖心空投小吃派发、游园会集章赢官方周边、多家俱乐部展位礼包，还有派对区自由体验和免费美甲编发预约",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 8,
+    "days_to_start": 6,
+    "source_url": "https://cd.bendibao.com/xiuxian/20261112/215833.shtm",
     "source_count": 1,
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "7d2fc7b3318b",
+    "title": "2026成都混团世界杯",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-29",
+    "end_time": "2026-12-06",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "成都高新体育中心",
+    "address": "成都市高新区吉龙路313号",
+    "price_info": null,
+    "description": "采用15局8胜制，涵盖男单、女单、男双、女双及混双五个单项，小组赛与排名赛多场次对决",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 22,
+    "days_to_start": 15,
+    "source_url": "https://cd.bendibao.com/xiuxian/2026119/215712.shtm",
+    "source_count": 1,
+    "source_names": [
+      "成都·周末活动"
+    ],
+    "last_verified": "2026-11-14"
   },
   {
     "id": "e6262f27d4f9",
@@ -144,13 +196,13 @@
     "description": "《灵笼》首个官方年度盛典，主创团队深度参与，经典名场面还原，《夜曲2X18》四手联弹、马克冉冰婚礼等独家内容首度呈现，20+首经典曲目全新编曲，融合情景舞剧、杂技、武术等25+节目，AR×全息科技打造沉浸式舞台，随票赠送",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 22,
-    "days_to_start": 22,
+    "days_left": 21,
+    "days_to_start": 21,
     "source_url": "http://cd.bendibao.com/xiuxian/20261028/215533.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-14"
   }
 ]

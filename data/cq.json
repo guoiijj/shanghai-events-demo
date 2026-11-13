@@ -1,5 +1,135 @@
 [
   {
+    "id": "34988fb377db",
+    "title": "大渡口馨田战队VS秀山毛尖队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-14",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "重庆市旅游学校体育场",
+    "address": "重庆市大渡口区春晖路70号",
+    "price_info": null,
+    "description": "渝超小组赛大渡口主场收官战，大渡口馨田战队对阵秀山毛尖队",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/2026119/168887.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "cd4146ef844e",
+    "title": "渝中红蜻蜓队VS巴南明睿摩托队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-14",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "大田湾体育馆",
+    "address": "重庆市渝中区大田湾",
+    "price_info": null,
+    "description": "渝中红蜻蜓队迎战巴南明睿摩托队，胜则四战全胜晋级，晋级悬念拉满",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/2026119/168888.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "aaeafbf207b3",
+    "title": "开州壹圆剧场队VS云阳恐龙队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-14",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "重庆市开州区体育场",
+    "address": "重庆市开州区南山西路与长青街交叉口东北",
+    "price_info": null,
+    "description": "渝超联赛小组赛收官战，开州壹圆剧场队主场迎战云阳恐龙队",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/2026119/168890.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "046300cd7a95",
+    "title": "涪陵一德粮油队VS巫溪红池坝队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-14",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "涪陵区奥体中心体育场",
+    "address": "重庆市涪陵区新城区奥体路1号",
+    "price_info": null,
+    "description": "涪陵一德粮油队对阵巫溪红池坝队",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/2026119/168891.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "4980a94b8185",
+    "title": "彭水蚩尤战神队VS两江临空队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2026-11-14",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "彭水县靛水新城体育中心",
+    "address": "重庆市彭水苗族土家族自治县彭务路",
+    "price_info": null,
+    "description": "彭水蚩尤战神队对阵两江临空队",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/2026119/168889.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
     "id": "edabf3c31f52",
     "title": "第47届鹅岭公园菊展",
     "category": "exhibition",
@@ -16,14 +146,40 @@
     "description": "4万余盆菊花、280多个品种集中亮相",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 2,
-    "days_to_start": -21,
+    "days_left": 1,
+    "days_to_start": -22,
     "source_url": "http://cq.bendibao.com/xiuxian/20261026/168607.shtm",
+    "source_count": 2,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "d744caf0a8b5",
+    "title": "第十七届重庆汽车消费节",
+    "category": "exhibition",
+    "sub_tags": [
+      "车展"
+    ],
+    "start_time": "2026-11-12",
+    "end_time": "2026-11-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "重庆国际博览中心",
+    "address": "重庆市渝北区悦来大道66号",
+    "price_info": null,
+    "description": "80000+㎡超大展馆，汇聚80+主流品牌和1000+新车、畅销车，现场可看车、玩车、试车；购车享国补+市补+厂家底价，还可抽5000元现金大奖，30000㎡室外活动区有房车生活节、汽车改装聚会、飘移公开赛等主题活动。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": -2,
+    "source_url": "https://cq.bendibao.com/xiuxian/2026119/168921.shtm",
     "source_count": 1,
     "source_names": [
       "重庆·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-14"
   },
   {
     "id": "e7ceb87a4279",
@@ -42,8 +198,8 @@
     "description": "30+部经典动画，70+年中国动画艺术史",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 79,
-    "days_to_start": -276,
+    "days_left": 78,
+    "days_to_start": -277,
     "source_url": "http://cq.bendibao.com/xiuxian/202625/161480.shtm",
     "source_count": 1,
     "source_names": [
@@ -68,13 +224,37 @@
     "description": "时隔6年草莓音乐节再抵重庆，两天双舞台，万能青年旅店、杨千嬅、梁博、回春丹等众多音乐人轮番开唱，还有MVM×费那奇动画周主题动画展映。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 16,
-    "days_to_start": 15,
+    "days_left": 15,
+    "days_to_start": 14,
     "source_url": "http://cq.bendibao.com/xiuxian/20261027/168637.shtm",
+    "source_count": 2,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-14"
+  },
+  {
+    "id": "ea247c90eef8",
+    "title": "2026国际滑联世界花样滑冰大奖赛总决赛",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2026-12-10",
+    "end_time": "2026-12-12",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "华熙LIVE·鱼洞·体育场",
+    "address": "重庆市巴南区平江东路华熙live鱼洞文体中心",
+    "price_info": null,
+    "description": "国际滑联A类顶级旗舰赛事，青年组与成年组总决赛首次落户重庆巴南，全球顶尖花滑选手齐聚山城冰面竞技",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 28,
+    "days_to_start": 26,
+    "source_url": "https://cq.bendibao.com/xiuxian/20261110/168934.shtm",
     "source_count": 1,
     "source_names": [
       "重庆·周末活动"
     ],
-    "last_verified": "2026-11-06"
+    "last_verified": "2026-11-14"
   }
 ]
