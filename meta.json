@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-14T05:00:03+08:00",
+  "generated_at": "2026-11-14T08:30:56+08:00",
   "counts": {
     "published": 35,
     "ongoing": 23,
@@ -15,11 +15,11 @@
   },
   "city": "sh",
   "run": {
-    "mode": "night",
-    "new": 23,
-    "merged": 139,
-    "blocked": 12,
-    "fail": 1,
-    "done": 18
+    "mode": "sweep",
+    "cities": 15,
+    "channels": 1,
+    "new": 0,
+    "blocked": 1,
+    "seconds": 52
   }
 }
