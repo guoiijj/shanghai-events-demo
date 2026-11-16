@@ -1,36 +1,36 @@
 {
-  "generated_at": "2026-11-14T20:30:42+08:00",
+  "generated_at": "2026-11-16T09:47:56+08:00",
   "city_count": 75,
-  "total_published": 176,
+  "total_published": 135,
   "cities": [
     {
       "code": "sh",
       "name": "上海",
       "tier": 1,
       "tier_label": "一线",
-      "published": 35,
-      "ongoing": 23,
-      "upcoming": 7,
+      "published": 30,
+      "ongoing": 21,
+      "upcoming": 4,
       "unknown": 5
-    },
-    {
-      "code": "bj",
-      "name": "北京",
-      "tier": 1,
-      "tier_label": "一线",
-      "published": 11,
-      "ongoing": 11,
-      "upcoming": 0,
-      "unknown": 0
     },
     {
       "code": "gz",
       "name": "广州",
       "tier": 1,
       "tier_label": "一线",
-      "published": 8,
-      "ongoing": 4,
+      "published": 6,
+      "ongoing": 2,
       "upcoming": 4,
+      "unknown": 0
+    },
+    {
+      "code": "bj",
+      "name": "北京",
+      "tier": 1,
+      "tier_label": "一线",
+      "published": 4,
+      "ongoing": 4,
+      "upcoming": 0,
       "unknown": 0
     },
     {
@@ -44,22 +44,12 @@
       "unknown": 0
     },
     {
-      "code": "km",
-      "name": "昆明",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 17,
-      "ongoing": 10,
-      "upcoming": 7,
-      "unknown": 0
-    },
-    {
       "code": "nj",
       "name": "南京",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 16,
-      "ongoing": 11,
+      "published": 14,
+      "ongoing": 9,
       "upcoming": 5,
       "unknown": 0
     },
@@ -68,9 +58,19 @@
       "name": "苏州",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 16,
-      "ongoing": 14,
+      "published": 14,
+      "ongoing": 12,
       "upcoming": 2,
+      "unknown": 0
+    },
+    {
+      "code": "km",
+      "name": "昆明",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 13,
+      "ongoing": 6,
+      "upcoming": 7,
       "unknown": 0
     },
     {
@@ -78,28 +78,8 @@
       "name": "长沙",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 12,
+      "published": 11,
       "ongoing": 9,
-      "upcoming": 3,
-      "unknown": 0
-    },
-    {
-      "code": "wh",
-      "name": "武汉",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 10,
-      "ongoing": 6,
-      "upcoming": 4,
-      "unknown": 0
-    },
-    {
-      "code": "cq",
-      "name": "重庆",
-      "tier": 2,
-      "tier_label": "新一线",
-      "published": 10,
-      "ongoing": 8,
       "upcoming": 2,
       "unknown": 0
     },
@@ -108,14 +88,14 @@
       "name": "青岛",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 10,
-      "ongoing": 9,
+      "published": 9,
+      "ongoing": 8,
       "upcoming": 1,
       "unknown": 0
     },
     {
-      "code": "cd",
-      "name": "成都",
+      "code": "wh",
+      "name": "武汉",
       "tier": 2,
       "tier_label": "新一线",
       "published": 8,
@@ -134,13 +114,23 @@
       "unknown": 0
     },
     {
+      "code": "cd",
+      "name": "成都",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 6,
+      "ongoing": 3,
+      "upcoming": 3,
+      "unknown": 0
+    },
+    {
       "code": "hz",
       "name": "杭州",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 7,
-      "ongoing": 5,
-      "upcoming": 2,
+      "published": 4,
+      "ongoing": 3,
+      "upcoming": 1,
       "unknown": 0
     },
     {
@@ -148,9 +138,19 @@
       "name": "东莞",
       "tier": 2,
       "tier_label": "新一线",
-      "published": 6,
-      "ongoing": 3,
-      "upcoming": 3,
+      "published": 3,
+      "ongoing": 1,
+      "upcoming": 2,
+      "unknown": 0
+    },
+    {
+      "code": "cq",
+      "name": "重庆",
+      "tier": 2,
+      "tier_label": "新一线",
+      "published": 3,
+      "ongoing": 1,
+      "upcoming": 2,
       "unknown": 0
     },
     {
