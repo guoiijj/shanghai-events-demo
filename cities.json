@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-16T16:30:25+08:00",
+  "generated_at": "2026-11-16T20:30:57+08:00",
   "city_count": 75,
-  "total_published": 135,
+  "total_published": 136,
   "cities": [
     {
       "code": "sh",
@@ -28,8 +28,8 @@
       "name": "北京",
       "tier": 1,
       "tier_label": "一线",
-      "published": 4,
-      "ongoing": 4,
+      "published": 5,
+      "ongoing": 5,
       "upcoming": 0,
       "unknown": 0
     },
