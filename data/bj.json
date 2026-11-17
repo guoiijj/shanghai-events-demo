@@ -16,8 +16,8 @@
     "description": "云蒙山景区地处密云水库西侧，由云蒙山青空岭景区和云蒙山黑龙潭景区组成。景区森林覆盖率达90%，有天然氧吧之称。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 4,
-    "days_to_start": -32,
+    "days_left": 3,
+    "days_to_start": -33,
     "source_url": "http://bj.bendibao.com/xiuxian/20241010/366251.shtm",
     "source_count": 1,
     "source_names": [
@@ -42,8 +42,8 @@
     "description": "紫竹院公园“竹影凝秋·金菊焕章”2026年秋季菊展将于10月24日正式开幕园内3000余平米布景2.7万余株秋季花卉与青翠竹影交相辉映为广大市民游客呈现一场沉浸式赏菊盛宴",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 6,
-    "days_to_start": -23,
+    "days_left": 5,
+    "days_to_start": -24,
     "source_url": "http://bj.bendibao.com/xiuxian/20251029/378446.shtm",
     "source_count": 2,
     "source_names": [
@@ -68,15 +68,15 @@
     "description": "展览汇聚海南、江苏、上海等多地行业力量与参展精品，打破传统展厅边界，统筹室内展厅与室外近 2000 平方米园林空间，将木石雅韵嵌入真实园景，打造移步异景的沉浸式观展体验。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 55,
-    "days_to_start": -98,
+    "days_left": 54,
+    "days_to_start": -99,
     "source_url": "http://bj.bendibao.com/xiuxian/2026824/385607.shtm",
     "source_count": 2,
     "source_names": [
       "北京·展览",
       "北京·周末活动"
     ],
-    "last_verified": "2026-11-16"
+    "last_verified": "2026-11-17"
   },
   {
     "id": "82683bccaf8f",
@@ -95,15 +95,15 @@
     "description": "此次展览由中俄艺术机构共同策划，集75件勾勒大师一生的重要作品；充分彰显费欣艺术风格之丰盈，创作媒介之全面；是全球近十年规模最宏大，学理体系最完备的尼古拉·费欣个案研究型作品展。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 90,
-    "days_to_start": -48,
+    "days_left": 89,
+    "days_to_start": -49,
     "source_url": "http://bj.bendibao.com/xiuxian/2026824/385609.shtm",
     "source_count": 2,
     "source_names": [
       "北京·展览",
       "北京·周末活动"
     ],
-    "last_verified": "2026-11-16"
+    "last_verified": "2026-11-17"
   },
   {
     "id": "e1b3b310ecee",
@@ -120,14 +120,14 @@
     "description": "三大沉浸场景 刷新你的感官极限",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 936,
-    "days_to_start": -160,
+    "days_left": 935,
+    "days_to_start": -161,
     "source_url": "http://bj.bendibao.com/xiuxian/202669/383606.shtm",
     "source_count": 2,
     "source_names": [
       "北京·展览",
       "北京·周末活动"
     ],
-    "last_verified": "2026-11-16"
+    "last_verified": "2026-11-17"
   }
 ]

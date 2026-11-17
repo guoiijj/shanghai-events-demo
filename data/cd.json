@@ -16,8 +16,8 @@
     "description": "全市40家合作影院连续7周开展500场免费公益电影专场，可提前预约免费观影，近期放映《老江湖》",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 4,
-    "days_to_start": -37,
+    "days_left": 3,
+    "days_to_start": -38,
     "source_url": "http://cd.bendibao.com/xiuxian/20261010/214907.shtm",
     "source_count": 2,
     "source_names": [
@@ -42,14 +42,14 @@
     "description": "英国维多利亚与艾尔伯特博物馆珍藏威基伍德陶瓷首次来蓉，联合四川博物院、成都博物馆展出202件珍品，呈现从中国瓷西传到英国工业瓷业创新的跨世纪文明对话",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 41,
-    "days_to_start": -47,
+    "days_left": 40,
+    "days_to_start": -48,
     "source_url": "http://cd.bendibao.com/xiuxian/2026916/213894.shtm",
     "source_count": 2,
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-17"
   },
   {
     "id": "8850f60d7f8f",
@@ -68,8 +68,8 @@
     "description": "全年进行，灯光璀璨熠熠生辉",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 45,
-    "days_to_start": -319,
+    "days_left": 44,
+    "days_to_start": -320,
     "source_url": "http://cd.bendibao.com/xiuxian/2024412/182004.shtm",
     "source_count": 2,
     "source_names": [
@@ -94,8 +94,8 @@
     "description": "线下PEL观赛，现场有PEL周边免费领取、暖心空投小吃派发、游园会集章赢官方周边、多家俱乐部展位礼包，还有派对区自由体验和免费美甲编发预约",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 6,
-    "days_to_start": 4,
+    "days_left": 5,
+    "days_to_start": 3,
     "source_url": "https://cd.bendibao.com/xiuxian/20261112/215833.shtm",
     "source_count": 1,
     "source_names": [
@@ -120,8 +120,8 @@
     "description": "采用15局8胜制，涵盖男单、女单、男双、女双及混双五个单项，小组赛与排名赛多场次对决",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 20,
-    "days_to_start": 13,
+    "days_left": 19,
+    "days_to_start": 12,
     "source_url": "https://cd.bendibao.com/xiuxian/2026119/215712.shtm",
     "source_count": 1,
     "source_names": [
@@ -144,8 +144,8 @@
     "description": "《灵笼》首个官方年度盛典，主创团队深度参与，经典名场面还原，《夜曲2X18》四手联弹、马克冉冰婚礼等独家内容首度呈现，20+首经典曲目全新编曲，融合情景舞剧、杂技、武术等25+节目，AR×全息科技打造沉浸式舞台，随票赠送",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 19,
-    "days_to_start": 19,
+    "days_left": 18,
+    "days_to_start": 18,
     "source_url": "http://cd.bendibao.com/xiuxian/20261028/215533.shtm",
     "source_count": 2,
     "source_names": [

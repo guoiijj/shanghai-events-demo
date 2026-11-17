@@ -16,8 +16,8 @@
     "description": "看晚会、听讲座、逛市集…",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 45,
-    "days_to_start": -319,
+    "days_left": 44,
+    "days_to_start": -320,
     "source_url": "http://dg.bendibao.com/xiuxian/2025626/177529.shtm",
     "source_count": 2,
     "source_names": [
@@ -42,8 +42,8 @@
     "description": "欣赏山野风光、还有机会赢取电动牙刷、保温杯等精美礼品。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 5,
-    "days_to_start": 5,
+    "days_left": 4,
+    "days_to_start": 4,
     "source_url": "https://dg.bendibao.com/xiuxian/20261112/183784.shtm",
     "source_count": 1,
     "source_names": [
@@ -68,8 +68,8 @@
     "description": "百万购车多重补贴、免费试漂移卡丁车、张雪机车展示",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 13,
-    "days_to_start": 11,
+    "days_left": 12,
+    "days_to_start": 10,
     "source_url": "http://dg.bendibao.com/xiuxian/20261110/183751.shtm",
     "source_count": 2,
     "source_names": [

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T20:30:57+08:00",
+  "generated_at": "2026-11-17T10:24:48+08:00",
   "counts": {
     "published": 30,
     "ongoing": 21,
@@ -7,8 +7,8 @@
     "unknown": 5,
     "total_db": 263,
     "all_cities": {
-      "published": 136,
-      "ongoing": 90,
+      "published": 132,
+      "ongoing": 86,
       "upcoming": 41,
       "unknown": 5
     }
@@ -18,8 +18,8 @@
     "mode": "sweep",
     "cities": 15,
     "channels": 1,
-    "new": 1,
+    "new": 0,
     "blocked": 1,
-    "seconds": 54
+    "seconds": 39
   }
 }
