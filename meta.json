@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-19T11:35:38+08:00",
+  "generated_at": "2026-11-19T12:31:42+08:00",
   "counts": {
     "published": 26,
     "ongoing": 18,
     "upcoming": 3,
     "unknown": 5,
-    "total_db": 271,
+    "total_db": 269,
     "all_cities": {
       "published": 132,
       "ongoing": 81,
@@ -15,11 +15,11 @@
   },
   "city": "sh",
   "run": {
-    "mode": "night",
-    "new": 8,
-    "merged": 50,
-    "blocked": 5,
-    "fail": 1,
-    "done": 9
+    "mode": "sweep",
+    "cities": 15,
+    "channels": 1,
+    "new": 0,
+    "blocked": 1,
+    "seconds": 98
   }
 }
