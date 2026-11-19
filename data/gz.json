@@ -104,6 +104,32 @@
     "last_verified": "2026-11-18"
   },
   {
+    "id": "2043467b872f",
+    "title": "2026年广州黄埔华南宠物嘉年华",
+    "category": "market",
+    "sub_tags": [
+      "综合市集"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-22",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "长岭现代农业公园",
+    "address": "广州市黄埔区长岭街道元贝路4号",
+    "price_info": null,
+    "description": "全场划分为三大亮点板块，把萌宠赛事、互动展演、市集好物等搬进自然里，遛宠、打卡、放空一站式安排，在草坪上尽情享受和毛孩子相伴的自在时光。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 3,
+    "days_to_start": 2,
+    "source_url": "http://gz.bendibao.com/xiuxian/20261119/374199.shtm",
+    "source_count": 1,
+    "source_names": [
+      "广州·市集"
+    ],
+    "last_verified": "2026-11-19"
+  },
+  {
     "id": "bea96754d6c2",
     "title": "2026年第二十四届广州国际汽车展览会",
     "category": "exhibition",
