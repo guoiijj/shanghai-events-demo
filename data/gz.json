@@ -16,14 +16,14 @@
     "description": "本届联赛设“广州龙王组”和“湾区龙腾组”两大组别，兼顾本土竞技传承与湾区交流推广。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 13,
-    "days_to_start": -139,
+    "days_left": 11,
+    "days_to_start": -141,
     "source_url": "http://gz.bendibao.com/xiuxian/2026526/368485.shtm",
     "source_count": 2,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-16"
+    "last_verified": "2026-11-18"
   },
   {
     "id": "52ba8867a63c",
@@ -42,14 +42,66 @@
     "description": "本届交易会秉持“面向市场、面向大众、面向国际”的宗旨，致力打造集“内容生产、国际交流、城市联动、产业赋能”于一体的电影行业顶级博览与交易平台。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 5,
-    "days_to_start": 3,
+    "days_left": 3,
+    "days_to_start": 1,
     "source_url": "http://gz.bendibao.com/xiuxian/20261012/373021.shtm",
     "source_count": 2,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-16"
+    "last_verified": "2026-11-18"
+  },
+  {
+    "id": "9f95e6c732c7",
+    "title": "第33届广州园林博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏花节"
+    ],
+    "start_time": "2026-11-20",
+    "end_time": "2026-12-09",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "广州市黄埔区融德里",
+    "address": "广东省广州市黄埔区校前路唐氏宗祠旁",
+    "price_info": null,
+    "description": "今年园博会首次将核心主场设在融德里城市更新片区及历史文化街区周边，园区融合岭南园艺美学、绿色花卉产业、科创宜居场景，创新打造“景、文、商、旅、科”一体融合的全新园博范式。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 20,
+    "days_to_start": 1,
+    "source_url": "http://gz.bendibao.com/xiuxian/20261116/374104.shtm",
+    "source_count": 1,
+    "source_names": [
+      "广州·免费活动"
+    ],
+    "last_verified": "2026-11-18"
+  },
+  {
+    "id": "d1cdcd70bbb6",
+    "title": "广州第67届羊城菊会",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏花节"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-12-12",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "广州文化公园",
+    "address": "西堤二马路37号(近西堤邮局)",
+    "price_info": null,
+    "description": "广州历史最悠久、规模最大的专业菊花展，将于11月21日开幕，免费向游客开放。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 23,
+    "days_to_start": 2,
+    "source_url": "http://gz.bendibao.com/xiuxian/20261116/374099.shtm",
+    "source_count": 1,
+    "source_names": [
+      "广州·免费活动"
+    ],
+    "last_verified": "2026-11-18"
   },
   {
     "id": "bea96754d6c2",
@@ -68,14 +120,14 @@
     "description": "展会延续“新科技・新生活”的主题，诚邀海内外整车企业、科技企业、零部件企业共赴羊城。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 19,
-    "days_to_start": 10,
+    "days_left": 17,
+    "days_to_start": 8,
     "source_url": "http://gz.bendibao.com/xiuxian/20261027/373612.shtm",
     "source_count": 2,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-16"
+    "last_verified": "2026-11-18"
   },
   {
     "id": "8c6b9b3bbe5c",
@@ -94,14 +146,14 @@
     "description": "本届灯光节设置灯光艺术、灯光装置、城市楼宇影像、城市幻光森林、建筑3D Mapping五大赛道",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 27,
-    "days_to_start": 17,
+    "days_left": 25,
+    "days_to_start": 15,
     "source_url": "http://gz.bendibao.com/xiuxian/2026114/373785.shtm",
     "source_count": 2,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-16"
+    "last_verified": "2026-11-18"
   },
   {
     "id": "aad5b7a6348a",
@@ -120,13 +172,13 @@
     "description": "丰富票种随心选择，花式玩转漫展不烧心！元旦Happy行程，虫娘全包啦！",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 47,
-    "days_to_start": 45,
+    "days_left": 45,
+    "days_to_start": 43,
     "source_url": "https://gz.bendibao.com/xiuxian/20261112/374029.shtm",
     "source_count": 2,
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-16"
+    "last_verified": "2026-11-18"
   }
 ]
