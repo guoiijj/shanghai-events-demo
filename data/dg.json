@@ -1,31 +1,5 @@
 [
   {
-    "id": "33faf10f6619",
-    "title": "东莞市文化馆活动汇总",
-    "category": "exhibition",
-    "sub_tags": [
-      "兴趣培训"
-    ],
-    "start_time": "2026-01-01",
-    "end_time": "2026-12-31",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "东莞文化馆",
-    "address": "东莞市万江街道鸿福西路6号",
-    "price_info": null,
-    "description": "看晚会、听讲座、逛市集…",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 41,
-    "days_to_start": -323,
-    "source_url": "http://dg.bendibao.com/xiuxian/2025626/177529.shtm",
-    "source_count": 2,
-    "source_names": [
-      "东莞·周末活动"
-    ],
-    "last_verified": "2026-11-18"
-  },
-  {
     "id": "93d5b9682bc0",
     "title": "谢岗镇第五届银瓶登山文化嘉年华森氧欢乐跑",
     "category": "exhibition",
@@ -41,9 +15,9 @@
     "price_info": null,
     "description": "欣赏山野风光、还有机会赢取电动牙刷、保温杯等精美礼品。",
     "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 1,
-    "days_to_start": 1,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
     "source_url": "https://dg.bendibao.com/xiuxian/20261112/183784.shtm",
     "source_count": 2,
     "source_names": [
@@ -68,13 +42,39 @@
     "price_info": null,
     "description": "本届展会以“聚力大湾区 共促新发展”为主题，打造华南区域印刷包装行业优质的商贸洽谈平台。",
     "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 1,
+    "status": "ongoing",
+    "days_left": 2,
+    "days_to_start": 0,
     "source_url": "http://dg.bendibao.com/xiuxian/20261116/183795.shtm",
     "source_count": 1,
     "source_names": [
       "东莞·免费活动"
+    ],
+    "last_verified": "2026-11-18"
+  },
+  {
+    "id": "33faf10f6619",
+    "title": "东莞市文化馆活动汇总",
+    "category": "exhibition",
+    "sub_tags": [
+      "兴趣培训"
+    ],
+    "start_time": "2026-01-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "东莞文化馆",
+    "address": "东莞市万江街道鸿福西路6号",
+    "price_info": null,
+    "description": "看晚会、听讲座、逛市集…",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 40,
+    "days_to_start": -324,
+    "source_url": "http://dg.bendibao.com/xiuxian/2025626/177529.shtm",
+    "source_count": 2,
+    "source_names": [
+      "东莞·周末活动"
     ],
     "last_verified": "2026-11-18"
   },
@@ -95,8 +95,8 @@
     "description": "百万购车多重补贴、免费试漂移卡丁车、张雪机车展示",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 9,
-    "days_to_start": 7,
+    "days_left": 8,
+    "days_to_start": 6,
     "source_url": "http://dg.bendibao.com/xiuxian/20261110/183751.shtm",
     "source_count": 2,
     "source_names": [
@@ -122,8 +122,8 @@
     "description": "常设科普展厅（负一层至三层）免票，11月27日-29日免费开放进入",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 9,
-    "days_to_start": 7,
+    "days_left": 8,
+    "days_to_start": 6,
     "source_url": "http://dg.bendibao.com/xiuxian/20261117/183802.shtm",
     "source_count": 1,
     "source_names": [
@@ -148,8 +148,8 @@
     "description": "亲子家庭“齐上阵”，一起沉浸式感受松山湖科学城美丽风光。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 8,
-    "days_to_start": 8,
+    "days_left": 7,
+    "days_to_start": 7,
     "source_url": "http://dg.bendibao.com/xiuxian/20261117/183808.shtm",
     "source_count": 1,
     "source_names": [
@@ -174,8 +174,8 @@
     "description": "竞赛组在绕圈中比拼速度与耐力，骑游组在骑行上感受城市风光与活力。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 15,
-    "days_to_start": 15,
+    "days_left": 14,
+    "days_to_start": 14,
     "source_url": "http://dg.bendibao.com/xiuxian/20261117/183810.shtm",
     "source_count": 2,
     "source_names": [
