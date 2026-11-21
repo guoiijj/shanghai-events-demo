@@ -1,1 +1,80 @@
-[]
+[
+  {
+    "id": "643d084a277f",
+    "title": "2026无锡花星球稻草枫树节",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏叶节"
+    ],
+    "start_time": "2026-11-13",
+    "end_time": "2026-12-06",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "九龙湾花星球",
+    "address": "无锡市滨湖区胡埭镇钱胡路1025号",
+    "price_info": null,
+    "description": "红枫、菊海、巨型稻草卷同框上线，园林园艺与非遗手作、花艺美学融合，适合拍照遛娃、放空散心；秋假期间16周岁及以下学生免费入园，随行家长2人内半价30元。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 15,
+    "days_to_start": -8,
+    "source_url": "https://wx.bendibao.com/xiuxian/20261113/85319.shtm",
+    "source_count": 1,
+    "source_names": [
+      "无锡·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "d3d4fdc04a0c",
+    "title": "2026布衣乐队《云起时》巡演-无锡站",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-12-02",
+    "end_time": "2026-12-02",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "活塞LIVEHOUSE(惠山古镇店)",
+    "address": "江苏省无锡市梁溪区清名桥街道活塞LIVEHOUSE",
+    "price_info": null,
+    "description": "布衣乐队成立31年、大规模巡演13年，《云起时》巡演无锡站，减少PGM回归三大件质朴现场，演出后有签售合影时间",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 11,
+    "days_to_start": 11,
+    "source_url": "https://wx.bendibao.com/xiuxian/2026824/84503.shtm",
+    "source_count": 2,
+    "source_names": [
+      "无锡·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "db9bc90df3b0",
+    "title": "【第25小时】跨年演唱会-千禧年起历年金曲串烧&2027跨年倒计时无锡站",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-12-31",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "MAOLivehouse无锡",
+    "address": "无锡市新吴区净慧西道52号太湖音悦城MAO Livehouse无锡",
+    "price_info": null,
+    "description": "千禧年起历年金曲串烧，跨年倒计时现场，两场可选",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 40,
+    "days_to_start": 40,
+    "source_url": "https://wx.bendibao.com/xiuxian/20261120/85389.shtm",
+    "source_count": 1,
+    "source_names": [
+      "无锡·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  }
+]

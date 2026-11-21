@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "a528d2070320",
+    "title": "“沙州寻踪——敦煌文物特展”",
+    "category": "exhibition",
+    "sub_tags": [
+      "文物展"
+    ],
+    "start_time": "2026-09-25",
+    "end_time": "2026-12-13",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "厦门市博物馆",
+    "address": "厦门市思明区体育路95号",
+    "price_info": null,
+    "description": "你以为敦煌只有莫高窟的壁画？这一次，厦博邀您循典籍与实物，追寻沙州多元交融的文明印记",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 22,
+    "days_to_start": -57,
+    "source_url": "https://xm.bendibao.com/xiuxian/2026916/97371.shtm",
+    "source_count": 1,
+    "source_names": [
+      "厦门·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  }
+]

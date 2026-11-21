@@ -1,1 +1,78 @@
-[]
+[
+  {
+    "id": "7270cd702e68",
+    "title": "石家庄首届灯会汉堡嘉年华",
+    "category": "market",
+    "sub_tags": [
+      "美食市集"
+    ],
+    "start_time": "2026-11-18",
+    "end_time": "2026-11-22",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "湾里庙步行街",
+    "address": "河北省石家庄市新华区民族路商业步行街与南大街交叉路口西侧",
+    "price_info": null,
+    "description": "流光花灯与汉堡美食碰撞，多家人气汉堡品牌齐聚街区，可一边赏灯海一边品尝创意风味汉堡与特色小食，沉浸式感受潮流夜经济。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": -3,
+    "source_url": "https://sjz.bendibao.com/xiuxian/20261110/83753.shtm",
+    "source_count": 1,
+    "source_names": [
+      "石家庄·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "9035fbcbe3cc",
+    "title": "石家庄赞皇县景区中老年人优惠活动",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2024-07-06",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "嶂石岩景区、棋盘山景区、石柱山景区、天台湖垂钓基地、特色营地",
+    "address": "石家庄",
+    "price_info": null,
+    "description": "中老年人有优惠，强身健体，休闲娱乐",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 40,
+    "days_to_start": -868,
+    "source_url": "https://sjz.bendibao.com/xiuxian/2024712/77650.shtm",
+    "source_count": 1,
+    "source_names": [
+      "石家庄·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "804507d3e05c",
+    "title": "石家庄第四届湾里庙灯会",
+    "category": "exhibition",
+    "sub_tags": [
+      "灯会"
+    ],
+    "start_time": "2026-11-14",
+    "end_time": "2027-03-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "湾里庙步行街",
+    "address": "河北省石家庄市新华区民族路商业步行街与南大街交叉路口西侧",
+    "price_info": null,
+    "description": "国风+潮玩定位，融入苍岩山传说、生肖IP“战斗羊”、赵县雪花梨等石家庄本地元素，设三羊开泰门头、苍岩女神、水果派对、云羊威将、童梦巡游等灯组，由自贡彩灯团队打造，展期从11月14日持续至明年3月，横跨跨年、春节等节点。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 130,
+    "days_to_start": -7,
+    "source_url": "https://sjz.bendibao.com/xiuxian/20261110/83754.shtm",
+    "source_count": 1,
+    "source_names": [
+      "石家庄·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  }
+]

@@ -17,11 +17,12 @@
     "days_left": 1,
     "days_to_start": -4,
     "source_url": "http://cs.bendibao.com/xiuxian/20261116/139223.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
-      "长沙·免费活动"
+      "长沙·免费活动",
+      "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "c403c2dc8589",
@@ -47,7 +48,7 @@
     "source_names": [
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "a2bdc96c45af",
@@ -73,7 +74,7 @@
     "source_names": [
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "6e70abe06852",
@@ -99,7 +100,7 @@
     "source_names": [
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "147db55f6938",
@@ -123,7 +124,7 @@
     "source_names": [
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "2bcc1526c479",
@@ -149,7 +150,7 @@
     "source_names": [
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "4700db8e3ef6",
@@ -173,7 +174,7 @@
     "source_names": [
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "3de016032b4c",
@@ -197,7 +198,7 @@
     "source_names": [
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "d815fb07a152",
@@ -223,7 +224,7 @@
     "source_names": [
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "4837adc8c7e1",
@@ -247,7 +248,7 @@
     "source_names": [
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "cacae8f6e359",
@@ -271,7 +272,7 @@
     "source_names": [
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "5da4476a4b25",
@@ -298,7 +299,7 @@
       "长沙·免费活动",
       "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "faacde0cfcf7",
@@ -318,10 +319,11 @@
     "days_left": 7,
     "days_to_start": 7,
     "source_url": "http://cs.bendibao.com/xiuxian/20261116/139222.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
-      "长沙·免费活动"
+      "长沙·免费活动",
+      "长沙·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   }
 ]

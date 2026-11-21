@@ -1,1 +1,28 @@
-[]
+[
+  {
+    "id": "ba9c13df8eae",
+    "title": "沈阳蒲河大集",
+    "category": "exhibition",
+    "sub_tags": [
+      "赶集"
+    ],
+    "start_time": "2026-01-01",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "蒲河大集",
+    "address": "沈阳市沈北新区沈闫线与蒲河路交汇口",
+    "price_info": null,
+    "description": "规模大、品种全、人数多、历史久",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 40,
+    "days_to_start": -324,
+    "source_url": "https://sy.bendibao.com/xiuxian/202625/85181.shtm",
+    "source_count": 1,
+    "source_names": [
+      "沈阳·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  }
+]

@@ -23,7 +23,7 @@
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "2043467b872f",
@@ -45,11 +45,12 @@
     "days_left": 1,
     "days_to_start": 0,
     "source_url": "http://gz.bendibao.com/xiuxian/20261119/374199.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
-      "广州·市集"
+      "广州·市集",
+      "广州·周末活动"
     ],
-    "last_verified": "2026-11-19"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "5072521f05ce",
@@ -75,7 +76,7 @@
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "9f95e6c732c7",
@@ -97,11 +98,12 @@
     "days_left": 18,
     "days_to_start": -1,
     "source_url": "http://gz.bendibao.com/xiuxian/20261116/374104.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
-      "广州·免费活动"
+      "广州·免费活动",
+      "广州·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "d1cdcd70bbb6",
@@ -123,11 +125,12 @@
     "days_left": 21,
     "days_to_start": 0,
     "source_url": "http://gz.bendibao.com/xiuxian/20261116/374099.shtm",
-    "source_count": 1,
+    "source_count": 2,
     "source_names": [
-      "广州·免费活动"
+      "广州·免费活动",
+      "广州·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "bea96754d6c2",
@@ -153,7 +156,7 @@
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "8c6b9b3bbe5c",
@@ -179,7 +182,7 @@
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "aad5b7a6348a",
@@ -205,6 +208,6 @@
     "source_names": [
       "广州·周末活动"
     ],
-    "last_verified": "2026-11-18"
+    "last_verified": "2026-11-21"
   }
 ]

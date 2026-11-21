@@ -1,5 +1,161 @@
 [
   {
+    "id": "1cfccdfe798d",
+    "title": "璧山宜简狼队VS綦江老四川队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "璧山区体育中心",
+    "address": "重庆市璧山区金剑路430号",
+    "price_info": null,
+    "description": "渝超联赛小组赛最后一战，璧山主场迎战綦江老四川队",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/20261117/169075.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "6776b7ae9e78",
+    "title": "酉阳桃花源队VS石柱红队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "重庆市酉阳第二中学校",
+    "address": "重庆市酉阳土家族苗族自治县桃花源大道北路20号",
+    "price_info": null,
+    "description": "渝超联赛酉阳赛区主场赛事，酉阳桃花源队对阵石柱红队",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/20261117/169071.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "9177750aa344",
+    "title": "万州飞马队VS丰都南天湖队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "万州体育场",
+    "address": "重庆市万州区滨江路近牌楼",
+    "price_info": null,
+    "description": "渝超联赛万州赛区主场赛事，万州飞马队对阵丰都南天湖队",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/20261117/169072.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "77bb50bc26be",
+    "title": "南岸队VS北碚缙云队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "江南体育中心体育场（南岸区青少年活动中心）",
+    "address": "重庆市南岸区烟雨路三期13栋",
+    "price_info": null,
+    "description": "渝超联赛南岸队主场对阵北碚缙云队",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/20261117/169073.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "e2dd74f93bbc",
+    "title": "2026重庆城市足球超级联赛（F组）荣昌陶队VS江津云宸新能源队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "荣昌区体育场",
+    "address": "重庆市荣昌区广场北路7号",
+    "price_info": null,
+    "description": "2026重庆城市足球超级联赛F组赛事，荣昌陶队主场对阵江津云宸新能源队",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/20261117/169074.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "3cc426122b7c",
+    "title": "巫山红叶队VS梁平运虹队",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "巫山中学体育场",
+    "address": "重庆市巫山县七校合一工业园区",
+    "price_info": null,
+    "description": "2026渝超联赛巫山赛区主场赛事，巫山红叶队对阵梁平运虹队",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://cq.bendibao.com/xiuxian/20261118/169079.shtm",
+    "source_count": 1,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
     "id": "e7ceb87a4279",
     "title": "上美影经典动画回顾展—重庆站",
     "category": "exhibition",
@@ -49,13 +205,15 @@
     "source_names": [
       "重庆·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "ea247c90eef8",
     "title": "2026国际滑联世界花样滑冰大奖赛总决赛",
     "category": "exhibition",
-    "sub_tags": [],
+    "sub_tags": [
+      "田径比赛"
+    ],
     "start_time": "2026-12-10",
     "end_time": "2026-12-12",
     "time_detail": null,
@@ -73,6 +231,6 @@
     "source_names": [
       "重庆·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   }
 ]

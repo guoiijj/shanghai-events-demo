@@ -1,1 +1,184 @@
-[]
+[
+  {
+    "id": "79cbd2ecaf17",
+    "title": "【太原】粥粥和小伙2026放轻松巡演",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "THE BOO",
+    "address": "太原市南中环街与长治路交叉口西南角",
+    "price_info": null,
+    "description": "这一次他们以《放轻松》为主题用音乐留下一个美好难忘的夜晚",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://ty.bendibao.com/xiuxian/2026723/81806.shtm",
+    "source_count": 1,
+    "source_names": [
+      "太原·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "952709992df9",
+    "title": "「山西首展」中国国家地理·探索 极致发现科学艺术影像展",
+    "category": "exhibition",
+    "sub_tags": [
+      "影展"
+    ],
+    "start_time": "2026-04-25",
+    "end_time": "2027-04-18",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "太原市如意城",
+    "address": "山西省太原市小店区许坦东街17号如意城二期三号楼三层（近如意城二期西门，地铁许坦东街A口）",
+    "price_info": null,
+    "description": "中国国家地理·探索特别遴选来自100余位顶尖摄影师与科学家，共计150余幅，极富科学价值与艺术表现力的作品并辅以珍贵的科学考察资料举办了一场视听盛宴“极致发现科学艺术影像展”",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 148,
+    "days_to_start": -210,
+    "source_url": "https://ty.bendibao.com/xiuxian/2026422/80712.shtm",
+    "source_count": 1,
+    "source_names": [
+      "太原·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "5487a1271234",
+    "title": "【太原】杭盖乐队2026巡演",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-11-26",
+    "end_time": "2026-11-26",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "THE BOO",
+    "address": "太原市南中环街与长治路交叉口西南角",
+    "price_info": null,
+    "description": "现场将呈现马头琴的苍劲低回与呼麦的穿透力，结合吉他、唢呐等乐器，将草原牧歌与摇滚、民谣相融合，呈现原声与现场音浪的完美碰撞。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 5,
+    "days_to_start": 5,
+    "source_url": "https://ty.bendibao.com/xiuxian/20261022/83459.shtm",
+    "source_count": 1,
+    "source_names": [
+      "太原·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "e2c335ca0f12",
+    "title": "【太原】HIGH5 「Eff(5)ct（回响之境）」 巡演",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-28",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "THE BOO",
+    "address": "太原市南中环街与长治路交叉口西南角",
+    "price_info": null,
+    "description": "现场打造“回响之境”限时专属空间，通过声音、情绪与即时互动的交织，营造沉浸式视听体验。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 7,
+    "days_to_start": 7,
+    "source_url": "https://ty.bendibao.com/xiuxian/20261022/83461.shtm",
+    "source_count": 1,
+    "source_names": [
+      "太原·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "04821252d3bb",
+    "title": "【太原】Zkaaai-2026巡演",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-28",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "ModernSky LAB太原",
+    "address": "太原市迎泽区柳巷街道钟楼街二期二市场巷S136号",
+    "price_info": null,
+    "description": "她是用声音施展魔法的少女，是舞台上的高能量发光体。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 7,
+    "days_to_start": 7,
+    "source_url": "https://ty.bendibao.com/xiuxian/2026910/82693.shtm",
+    "source_count": 1,
+    "source_names": [
+      "太原·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "a4b9f5f39040",
+    "title": "【太原】野肆乐队2026「灵魂手写书」巡演",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-11-29",
+    "end_time": "2026-11-29",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "THE BOO",
+    "address": "太原市南中环街与长治路交叉口西南角",
+    "price_info": null,
+    "description": "这场巡演最大的亮点，是把新专辑《灵魂手写书》完整搬进 Livehouse，更像一场沉浸式的“十段篇章”叙事。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 8,
+    "days_to_start": 8,
+    "source_url": "https://ty.bendibao.com/xiuxian/20261110/83719.shtm",
+    "source_count": 1,
+    "source_names": [
+      "太原·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "e5503bcdb293",
+    "title": "【太原】反光镜2026《会反光的你》新专辑巡演",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-12-11",
+    "end_time": "2026-12-11",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "THE BOO",
+    "address": "太原市南中环街与长治路交叉口西南角",
+    "price_info": null,
+    "description": "《会反光的你》城市专辑不做抒情安慰，不唱虚假乐观，只给清醒之后的力量与向上，2026下半年巡演→来现场，让情绪自然反光。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 20,
+    "days_to_start": 20,
+    "source_url": "https://ty.bendibao.com/xiuxian/20261110/83722.shtm",
+    "source_count": 1,
+    "source_names": [
+      "太原·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  }
+]

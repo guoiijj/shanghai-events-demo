@@ -13,17 +13,43 @@
     "location_name": "汉口北国际贸易城",
     "address": "湖北省武汉市黄陂区汉口北大道88号",
     "price_info": null,
-    "description": "19万平方米展区，22个主题馆汇集全球好物与荆楚优品，可免费逛展；有机器人互动、非遗手作、美食品鉴、试吃试饮、折扣满减等体验",
+    "description": "以“智联世界 贸通天下”为主题，19万平方米展区，主展区22个专题馆汇聚荆楚优品、亚洲/欧洲/大洋洲/非洲优品，另有新能源汽车、纺织服装、鲜花宠物等八大特色分展区，好看好玩好吃好买，并提供免费摆渡车",
     "confidence": 0.9,
     "status": "ongoing",
     "days_left": 1,
     "days_to_start": -2,
     "source_url": "https://wh.bendibao.com/xiuxian/20261113/201769.shtm",
+    "source_count": 2,
+    "source_names": [
+      "武汉·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "a51366be0362",
+    "title": "中国科学院第九届科学节·武汉专场暨2026年湖北省科普嘉年华",
+    "category": "exhibition",
+    "sub_tags": [
+      "文旅展"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-22",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "中国科学院武汉植物园",
+    "address": "武汉市武昌区鲁磨路北端特1号",
+    "price_info": null,
+    "description": "六大板块联动，含科普舞台剧、科学实验秀、重大科技设施模型首展、VR体验、专家科普讲座、亲子动手实验及科学文创市集，2000张门票免费领。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": 0,
+    "source_url": "https://wh.bendibao.com/xiuxian/20261116/201836.shtm",
     "source_count": 1,
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "bf4d4600b948",
@@ -49,7 +75,7 @@
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "c75b33374e09",
@@ -75,7 +101,7 @@
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "ccc2adea2ccd",
@@ -101,7 +127,7 @@
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "cba1f975506d",
@@ -127,7 +153,7 @@
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "079eff2d3e46",
@@ -151,7 +177,7 @@
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "e08830e17f52",
@@ -177,7 +203,7 @@
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "2a17fc02e15b",
@@ -191,8 +217,8 @@
     "end_time": "2027-05-30",
     "time_detail": null,
     "is_time_fuzzy": false,
-    "location_name": "武汉美术馆(琴台馆)",
-    "address": "武汉市汉阳区知音大道77号",
+    "location_name": "武汉美术馆(汉口馆)",
+    "address": "武汉市中山大道保华街2号(中山大道南京路口三角岛)",
     "price_info": null,
     "description": "主题“偶×遇 Walk & Talk”，设八大核心板块及两大特别单元，汇聚22个国家370余位艺术家500余件（组）作品，涵盖绘画、雕塑、装置、影像等，采用“1+1+N”双馆主展、全城辐射模式，联动武汉三镇文旅街区与商业",
     "confidence": 0.9,
@@ -204,6 +230,6 @@
     "source_names": [
       "武汉·周末活动"
     ],
-    "last_verified": "2026-11-17"
+    "last_verified": "2026-11-21"
   }
 ]

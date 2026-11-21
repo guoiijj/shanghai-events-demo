@@ -1,5 +1,109 @@
 [
   {
+    "id": "703ccef37fb3",
+    "title": "苏州公安警营开放日吴江专场",
+    "category": "exhibition",
+    "sub_tags": [
+      "景区开放"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "吴江远洋未来广场",
+    "address": "苏州市吴江区夏蓉街1298号",
+    "price_info": null,
+    "description": "1个主舞台+14个主题展区，可看擒敌拳、评弹、小品等文艺展演，参与反诈、禁毒、交通等互动问答与闯关游戏赢“大米币”兑换礼品，还能做平安手作带回家，零距离感受警营风采。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://suzhou.bendibao.com/xiuxian/20261119/140003.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "514d13b7da3f",
+    "title": "苏州市公安警营开放活动太仓专场",
+    "category": "exhibition",
+    "sub_tags": [
+      "景区开放"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "天镜湖公园",
+    "address": "苏州市太仓市太平新路与文治路交叉口南50米",
+    "price_info": null,
+    "description": "沉浸式体验警营文化，15个互动点位、8个集章打卡点，可看巡特警快闪表演、警用装备展示，参与普法互动游戏并集章抽取警营盲盒礼品",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://suzhou.bendibao.com/xiuxian/20261119/140009.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "4d26ab32419c",
+    "title": "苏州公安警营开放活动常熟专场",
+    "category": "exhibition",
+    "sub_tags": [
+      "景区开放"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "苏州琴湖溪里花园城",
+    "address": "苏州市常熟市琴湖路58号",
+    "price_info": null,
+    "description": "1个主舞台、5大互动区、20余个主题展区，可体验禁毒闯关、酒驾模拟、警用无人机、刑侦勘查小课堂，集章打卡赢警察熊等文创礼品",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://suzhou.bendibao.com/xiuxian/20261119/140010.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "85882ac301c2",
+    "title": "苏州公安警营开放活动工业园区专场",
+    "category": "exhibition",
+    "sub_tags": [
+      "景区开放"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2026-11-21",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "苏州工业园区青少年活动中心",
+    "address": "苏州工业园区南施街288号",
+    "price_info": null,
+    "description": "警营开放嘉年华，户外可看警用数智装备、体验反诈抓娃娃机、酒驾模拟眼镜、禁毒与网安互动游戏，室内有警营文艺舞台和少年警校学员演出，免费参与无需预约",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://suzhou.bendibao.com/xiuxian/20261119/140011.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
     "id": "09ce3f2a807f",
     "title": "【苏州】【苏州】H+美术馆 | 心游万象·无垠&徐震：文明漂移-一种组装技术",
     "category": "exhibition",
@@ -23,7 +127,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-17"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "fdd616aab0a9",
@@ -49,7 +153,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "7a672291231c",
@@ -75,7 +179,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "98e869bb11d5",
@@ -101,7 +205,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "59056ed203b8",
@@ -127,7 +231,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "bb67bfb08feb",
@@ -153,7 +257,7 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "ca96556df549",
@@ -179,7 +283,59 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-17"
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "4fc69ee7291f",
+    "title": "苏州万象天地奇想剧场",
+    "category": "exhibition",
+    "sub_tags": [
+      "灯光秀"
+    ],
+    "start_time": "2026-11-16",
+    "end_time": "2027-01-15",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "苏州万象天地",
+    "address": "姑苏区金阊街道枫桥路36号",
+    "price_info": null,
+    "description": "「奇想马戏团」，戏台已搭好，灯光已亮！",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 55,
+    "days_to_start": -5,
+    "source_url": "https://suzhou.bendibao.com/xiuxian/20261119/140006.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "28aa72585dde",
+    "title": "26-27学年西浦本科校园开放日",
+    "category": "exhibition",
+    "sub_tags": [
+      "高校开放"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2027-05-02",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "西交利物浦大学",
+    "address": "工业园区仁爱路111号(南京大学苏州研究院对面)",
+    "price_info": null,
+    "description": "实地探访西浦校园，含招生宣讲、校友分享、院系咨询及实验室与校园参观，部分学院另设专场活动",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 162,
+    "days_to_start": 0,
+    "source_url": "https://suzhou.bendibao.com/xiuxian/20261118/139997.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-21"
   },
   {
     "id": "710ea272984a",
@@ -205,7 +361,33 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "4c74ee388f2a",
+    "title": "常熟LOOKLOOK动漫嘉年华",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-12-26",
+    "end_time": "2026-12-27",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "常熟国际博览中心",
+    "address": "苏州市常熟市开元大道1号",
+    "price_info": null,
+    "description": "嘉宾见面会、随机舞蹈、集章游戏等等",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 36,
+    "days_to_start": 35,
+    "source_url": "https://suzhou.bendibao.com/xiuxian/20261118/140000.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-21"
   },
   {
     "id": "b195ea4f7229",
@@ -231,6 +413,84 @@
     "source_names": [
       "苏州·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "ed4e2a60d06f",
+    "title": "昆山蝴蝶效应动漫游戏展",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2027-01-01",
+    "end_time": "2027-01-02",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "苏州盒马NB昆山碧乐时光店",
+    "address": "江苏省苏州市昆山市玉山镇前进西路300号",
+    "price_info": null,
+    "description": "元旦假期来昆山逛漫展",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 42,
+    "days_to_start": 41,
+    "source_url": "https://suzhou.bendibao.com/xiuxian/20261117/139993.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "b9aa308c4c98",
+    "title": "苏州ICOMEACG二次元跨年盛典",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2027-01-02",
+    "end_time": "2027-01-03",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "木渎影视城会展中心",
+    "address": "金山南路288号",
+    "price_info": null,
+    "description": "漫展沉浸式剧本杀、各类精彩游戏",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 43,
+    "days_to_start": 42,
+    "source_url": "https://suzhou.bendibao.com/xiuxian/20261118/139998.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "0441aec87231",
+    "title": "昆山魔都理想乡动漫游戏博览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2027-01-23",
+    "end_time": "2027-01-24",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "花桥国际博览中心",
+    "address": "苏州市昆山市花桥经济开发区绿地大道1598号",
+    "price_info": null,
+    "description": "随着寒假及新年的靠近，一起与魔都理想乡“次元迎新年”",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 64,
+    "days_to_start": 63,
+    "source_url": "https://suzhou.bendibao.com/xiuxian/20261118/139999.shtm",
+    "source_count": 1,
+    "source_names": [
+      "苏州·周末活动"
+    ],
+    "last_verified": "2026-11-21"
   }
 ]

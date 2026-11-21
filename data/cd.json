@@ -23,7 +23,7 @@
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "311b01f9b601",
@@ -49,7 +49,7 @@
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-17"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "8850f60d7f8f",
@@ -75,7 +75,59 @@
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "f214c160bd8b",
+    "title": "2026/2027第二届川超",
+    "category": "exhibition",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-21",
+    "end_time": "2027-07-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "双流体育中心体育场",
+    "address": "成都市双流区东升街办白河路延伸段双流体育中心双流区体育局附近",
+    "price_info": null,
+    "description": "四川省城市足球联赛第二届，21支市州代表队分三组主客场双循环，揭幕战德阳赛区开打，实名制购票入场，购票可获赠观察豆",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 252,
+    "days_to_start": 0,
+    "source_url": "https://cd.bendibao.com/xiuxian/20261116/215931.shtm",
+    "source_count": 1,
+    "source_names": [
+      "成都·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "35467f0554bc",
+    "title": "2026年电子科技大学银杏季活动",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏叶节"
+    ],
+    "start_time": "2026-11-27",
+    "end_time": "2026-12-05",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "电子科技大学",
+    "address": "中国四川省成都市建设北路二段四号(610054)",
+    "price_info": null,
+    "description": "以校园银杏为线索，设银杏照相馆免费帮拍人像合影、银杏拾光作品征集与展览、银杏邮局慢递明信片三项活动，串联银杏大道打卡体验",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 14,
+    "days_to_start": 6,
+    "source_url": "https://cd.bendibao.com/xiuxian/20261120/216083.shtm",
+    "source_count": 1,
+    "source_names": [
+      "成都·周末活动"
+    ],
+    "last_verified": "2026-11-21"
   },
   {
     "id": "7d2fc7b3318b",
@@ -101,7 +153,7 @@
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   },
   {
     "id": "e6262f27d4f9",
@@ -125,6 +177,6 @@
     "source_names": [
       "成都·周末活动"
     ],
-    "last_verified": "2026-11-14"
+    "last_verified": "2026-11-21"
   }
 ]
