@@ -1,109 +1,5 @@
 [
   {
-    "id": "703ccef37fb3",
-    "title": "苏州公安警营开放日吴江专场",
-    "category": "exhibition",
-    "sub_tags": [
-      "景区开放"
-    ],
-    "start_time": "2026-11-21",
-    "end_time": "2026-11-21",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "吴江远洋未来广场",
-    "address": "苏州市吴江区夏蓉街1298号",
-    "price_info": null,
-    "description": "1个主舞台+14个主题展区，可看擒敌拳、评弹、小品等文艺展演，参与反诈、禁毒、交通等互动问答与闯关游戏赢“大米币”兑换礼品，还能做平安手作带回家，零距离感受警营风采。",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "https://suzhou.bendibao.com/xiuxian/20261119/140003.shtm",
-    "source_count": 1,
-    "source_names": [
-      "苏州·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "514d13b7da3f",
-    "title": "苏州市公安警营开放活动太仓专场",
-    "category": "exhibition",
-    "sub_tags": [
-      "景区开放"
-    ],
-    "start_time": "2026-11-21",
-    "end_time": "2026-11-21",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "天镜湖公园",
-    "address": "苏州市太仓市太平新路与文治路交叉口南50米",
-    "price_info": null,
-    "description": "沉浸式体验警营文化，15个互动点位、8个集章打卡点，可看巡特警快闪表演、警用装备展示，参与普法互动游戏并集章抽取警营盲盒礼品",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "https://suzhou.bendibao.com/xiuxian/20261119/140009.shtm",
-    "source_count": 1,
-    "source_names": [
-      "苏州·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "4d26ab32419c",
-    "title": "苏州公安警营开放活动常熟专场",
-    "category": "exhibition",
-    "sub_tags": [
-      "景区开放"
-    ],
-    "start_time": "2026-11-21",
-    "end_time": "2026-11-21",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "苏州琴湖溪里花园城",
-    "address": "苏州市常熟市琴湖路58号",
-    "price_info": null,
-    "description": "1个主舞台、5大互动区、20余个主题展区，可体验禁毒闯关、酒驾模拟、警用无人机、刑侦勘查小课堂，集章打卡赢警察熊等文创礼品",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "https://suzhou.bendibao.com/xiuxian/20261119/140010.shtm",
-    "source_count": 1,
-    "source_names": [
-      "苏州·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "85882ac301c2",
-    "title": "苏州公安警营开放活动工业园区专场",
-    "category": "exhibition",
-    "sub_tags": [
-      "景区开放"
-    ],
-    "start_time": "2026-11-21",
-    "end_time": "2026-11-21",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "苏州工业园区青少年活动中心",
-    "address": "苏州工业园区南施街288号",
-    "price_info": null,
-    "description": "警营开放嘉年华，户外可看警用数智装备、体验反诈抓娃娃机、酒驾模拟眼镜、禁毒与网安互动游戏，室内有警营文艺舞台和少年警校学员演出，免费参与无需预约",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 0,
-    "days_to_start": 0,
-    "source_url": "https://suzhou.bendibao.com/xiuxian/20261119/140011.shtm",
-    "source_count": 1,
-    "source_names": [
-      "苏州·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
     "id": "09ce3f2a807f",
     "title": "【苏州】【苏州】H+美术馆 | 心游万象·无垠&徐震：文明漂移-一种组装技术",
     "category": "exhibition",
@@ -120,8 +16,8 @@
     "description": "H+美术馆的开馆展览，推荐！",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -192,
+    "days_left": 5,
+    "days_to_start": -195,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026723/138087.shtm",
     "source_count": 2,
     "source_names": [
@@ -146,8 +42,8 @@
     "description": "整合品牌展演、专题展览、互动体验、文化研学四大板块，推出六十余场特色活动，含金秋虎丘庙会、桂花市集、盆景兰艺展、天平山红枫季、上方山金秋菊展等，融赏花观景、非遗演艺、手作体验、科普研学于一体",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 9,
-    "days_to_start": -81,
+    "days_left": 6,
+    "days_to_start": -84,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026917/139018.shtm",
     "source_count": 2,
     "source_names": [
@@ -172,8 +68,8 @@
     "description": "水秀主表演区最长168米、最宽12米，水景喷高可达108米，特效及光影元素合计十五种，光影交织，万般变化，具有较强的冲击力和观赏性，可形成壮观的视觉效果。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -205,
+    "days_left": 37,
+    "days_to_start": -208,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2025219/128766.shtm",
     "source_count": 2,
     "source_names": [
@@ -198,8 +94,8 @@
     "description": "吹着慵懒温柔的海风，看着夕阳染红的天空，当夜幕降临，随着喷泉表演的开始，水柱相继从喷管中涌出，跟着音乐节拍，绚丽色彩变化，起伏而跳跃，真的是视觉与听觉的双重享受！",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -234,
+    "days_left": 37,
+    "days_to_start": -237,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2024424/123334.shtm",
     "source_count": 2,
     "source_names": [
@@ -224,8 +120,8 @@
     "description": "音乐喷泉的水秀主表演区最长168米、最宽12米，水景喷高可达108米。喷泉水秀特效及光影元素合计15种，光影交织，万般变化。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -234,
+    "days_left": 37,
+    "days_to_start": -237,
     "source_url": "http://suzhou.bendibao.com/xiuxian/202547/129772.shtm",
     "source_count": 2,
     "source_names": [
@@ -250,8 +146,8 @@
     "description": "作为苏州地区首个集音乐喷泉、水幕电影、激光造型于一体的大型声光水艺秀，大渔湾昆曲音乐喷泉东西跨度355米、南北跨度150米、最高喷射高度达60米，不仅在技术上创造了多个“最”，还将昆山的独特文化符号昆曲巧妙地植入一幕幕绚",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2024422/123243.shtm",
     "source_count": 2,
     "source_names": [
@@ -276,8 +172,8 @@
     "description": "牛首、虎首、猴首、猪首四尊圆明园兽首原件重磅亮相，同时集中展出商周青铜器、北朝石刻造像等海外回流珍贵文物，展现中西艺术与科技交融的璀璨成就。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 45,
-    "days_to_start": -21,
+    "days_left": 42,
+    "days_to_start": -24,
     "source_url": "http://suzhou.bendibao.com/xiuxian/20261019/139658.shtm",
     "source_count": 2,
     "source_names": [
@@ -302,8 +198,8 @@
     "description": "「奇想马戏团」，戏台已搭好，灯光已亮！",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 55,
-    "days_to_start": -5,
+    "days_left": 52,
+    "days_to_start": -8,
     "source_url": "https://suzhou.bendibao.com/xiuxian/20261119/140006.shtm",
     "source_count": 1,
     "source_names": [
@@ -328,8 +224,8 @@
     "description": "实地探访西浦校园，含招生宣讲、校友分享、院系咨询及实验室与校园参观，部分学院另设专场活动",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 162,
-    "days_to_start": 0,
+    "days_left": 159,
+    "days_to_start": -3,
     "source_url": "https://suzhou.bendibao.com/xiuxian/20261118/139997.shtm",
     "source_count": 1,
     "source_names": [
@@ -354,8 +250,8 @@
     "description": "白日的克制归于沉寂，我们奔赴深夜旷野，奔赴一场全然释放的出逃，这便是「夜奔」的内核。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 14,
-    "days_to_start": 14,
+    "days_left": 11,
+    "days_to_start": 11,
     "source_url": "http://suzhou.bendibao.com/xiuxian/202699/138781.shtm",
     "source_count": 2,
     "source_names": [
@@ -380,8 +276,8 @@
     "description": "嘉宾见面会、随机舞蹈、集章游戏等等",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 36,
-    "days_to_start": 35,
+    "days_left": 33,
+    "days_to_start": 32,
     "source_url": "https://suzhou.bendibao.com/xiuxian/20261118/140000.shtm",
     "source_count": 1,
     "source_names": [
@@ -406,8 +302,8 @@
     "description": "跨年一起来听演唱会！新年快乐",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 41,
-    "days_to_start": 40,
+    "days_left": 38,
+    "days_to_start": 37,
     "source_url": "http://suzhou.bendibao.com/xiuxian/2026108/139445.shtm",
     "source_count": 2,
     "source_names": [
@@ -432,8 +328,8 @@
     "description": "元旦假期来昆山逛漫展",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 42,
-    "days_to_start": 41,
+    "days_left": 39,
+    "days_to_start": 38,
     "source_url": "https://suzhou.bendibao.com/xiuxian/20261117/139993.shtm",
     "source_count": 1,
     "source_names": [
@@ -458,8 +354,8 @@
     "description": "漫展沉浸式剧本杀、各类精彩游戏",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 43,
-    "days_to_start": 42,
+    "days_left": 40,
+    "days_to_start": 39,
     "source_url": "https://suzhou.bendibao.com/xiuxian/20261118/139998.shtm",
     "source_count": 1,
     "source_names": [
@@ -484,8 +380,8 @@
     "description": "随着寒假及新年的靠近，一起与魔都理想乡“次元迎新年”",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 64,
-    "days_to_start": 63,
+    "days_left": 61,
+    "days_to_start": 60,
     "source_url": "https://suzhou.bendibao.com/xiuxian/20261118/139999.shtm",
     "source_count": 1,
     "source_names": [

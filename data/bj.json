@@ -1,31 +1,5 @@
 [
   {
-    "id": "d6331eba075c",
-    "title": "紫竹院公园2026年秋季菊展",
-    "category": "exhibition",
-    "sub_tags": [
-      "赏花节"
-    ],
-    "start_time": "2026-10-24",
-    "end_time": "2026-11-22",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "紫竹院公园",
-    "address": "北京市海淀区中关村南大街35号",
-    "price_info": null,
-    "description": "紫竹院公园“竹影凝秋·金菊焕章”2026年秋季菊展将于10月24日正式开幕园内3000余平米布景2.7万余株秋季花卉与青翠竹影交相辉映为广大市民游客呈现一场沉浸式赏菊盛宴",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -28,
-    "source_url": "http://bj.bendibao.com/xiuxian/20251029/378446.shtm",
-    "source_count": 2,
-    "source_names": [
-      "北京·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
     "id": "faa771fc909f",
     "title": "木石有言-盆景赏石艺术展",
     "category": "exhibition",
@@ -42,15 +16,15 @@
     "description": "展览汇聚海南、江苏、上海等多地行业力量与参展精品，打破传统展厅边界，统筹室内展厅与室外近 2000 平方米园林空间，将木石雅韵嵌入真实园景，打造移步异景的沉浸式观展体验。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 50,
-    "days_to_start": -103,
+    "days_left": 47,
+    "days_to_start": -106,
     "source_url": "http://bj.bendibao.com/xiuxian/2026824/385607.shtm",
     "source_count": 2,
     "source_names": [
       "北京·展览",
       "北京·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-22"
   },
   {
     "id": "82683bccaf8f",
@@ -69,15 +43,15 @@
     "description": "此次展览由中俄艺术机构共同策划，集75件勾勒大师一生的重要作品；充分彰显费欣艺术风格之丰盈，创作媒介之全面；是全球近十年规模最宏大，学理体系最完备的尼古拉·费欣个案研究型作品展。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 85,
-    "days_to_start": -53,
+    "days_left": 82,
+    "days_to_start": -56,
     "source_url": "http://bj.bendibao.com/xiuxian/2026824/385609.shtm",
     "source_count": 2,
     "source_names": [
       "北京·展览",
       "北京·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-22"
   },
   {
     "id": "e1b3b310ecee",
@@ -94,14 +68,14 @@
     "description": "三大沉浸场景 刷新你的感官极限",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 931,
-    "days_to_start": -165,
+    "days_left": 928,
+    "days_to_start": -168,
     "source_url": "http://bj.bendibao.com/xiuxian/202669/383606.shtm",
     "source_count": 2,
     "source_names": [
       "北京·展览",
       "北京·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-22"
   }
 ]

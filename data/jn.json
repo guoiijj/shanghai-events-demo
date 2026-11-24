@@ -1,31 +1,5 @@
 [
   {
-    "id": "8897c7b865dd",
-    "title": "济南市第47届趵突泉金秋菊展",
-    "category": "exhibition",
-    "sub_tags": [
-      "赏花节"
-    ],
-    "start_time": "2026-10-24",
-    "end_time": "2026-11-23",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "趵突泉景区",
-    "address": "济南市历下区趵突泉南路1号",
-    "price_info": null,
-    "description": "这是一场集园林美学、传统文化、沉浸式互动于一体的秋日文旅盛宴。",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 2,
-    "days_to_start": -28,
-    "source_url": "https://jn.bendibao.com/xiuxian/20261029/85862.shtm",
-    "source_count": 1,
-    "source_names": [
-      "济南·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
     "id": "7fe69a595b2d",
     "title": "2026年济南红叶谷第26届红叶节",
     "category": "exhibition",
@@ -42,8 +16,8 @@
     "description": "4000余亩黄栌褪去盛夏青葱，层层叠叠渲染出独属于齐鲁大地的秋日盛景",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 9,
-    "days_to_start": -51,
+    "days_left": 6,
+    "days_to_start": -54,
     "source_url": "https://jn.bendibao.com/xiuxian/2026113/85870.shtm",
     "source_count": 1,
     "source_names": [
@@ -68,8 +42,8 @@
     "description": "场地开阔，从清晨到日暮都人声鼎沸",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "https://jn.bendibao.com/xiuxian/202625/83920.shtm",
     "source_count": 1,
     "source_names": [
@@ -94,8 +68,8 @@
     "description": "济南南部山区历史最悠久、规模最大的综合性集市。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "https://jn.bendibao.com/xiuxian/202625/83923.shtm",
     "source_count": 1,
     "source_names": [
@@ -120,8 +94,8 @@
     "description": "济南的唐王大集是体验当地风土人情和采购新鲜农产品的绝佳去处，尤其以丰富的蔬菜和农产品闻名。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "https://jn.bendibao.com/xiuxian/202626/83942.shtm",
     "source_count": 1,
     "source_names": [
@@ -146,8 +120,8 @@
     "description": "相传有一千多年的历史，是远近闻名的农村大集",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "https://jn.bendibao.com/xiuxian/202625/83924.shtm",
     "source_count": 1,
     "source_names": [
@@ -172,8 +146,8 @@
     "description": "西营大集自发形成于明洪武年间，距今已有600余年历史",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "https://jn.bendibao.com/xiuxian/202625/83933.shtm",
     "source_count": 1,
     "source_names": [
@@ -198,8 +172,8 @@
     "description": "济南的高而大集是一个充满烟火气的传统乡村集市，非常适合体验地道的风土人情和购买特色农产品。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "https://jn.bendibao.com/xiuxian/202626/83939.shtm",
     "source_count": 1,
     "source_names": [
@@ -224,8 +198,8 @@
     "description": "体验乡村风情、购置新鲜农产品的理想去处。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "https://jn.bendibao.com/xiuxian/202626/83940.shtm",
     "source_count": 1,
     "source_names": [

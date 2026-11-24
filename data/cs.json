@@ -1,30 +1,5 @@
 [
   {
-    "id": "52b2f0a4f9f9",
-    "title": "2026年全国体操冠军赛暨全国青年体操U系列冠军赛",
-    "category": "other",
-    "sub_tags": [],
-    "start_time": "2026-11-17",
-    "end_time": "2026-11-22",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "中南大学体育馆",
-    "address": "长沙市岳麓区后湖路中南大学(新校区)(中南大学地铁站3号口旁)",
-    "price_info": null,
-    "description": "全国体操冠军赛与全国青年体操U系列冠军赛首次同期同地举办，21支队伍700余名运动员参赛，成年组与青年组同台竞技；赛期还有世界冠军面对面、公开训练课、体操体验日等“体操进校园”活动。",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -4,
-    "source_url": "http://cs.bendibao.com/xiuxian/20261116/139223.shtm",
-    "source_count": 2,
-    "source_names": [
-      "长沙·免费活动",
-      "长沙·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
     "id": "c403c2dc8589",
     "title": "长沙岳麓山赏枫叶",
     "category": "exhibition",
@@ -41,8 +16,8 @@
     "description": "11月中下旬至12月中旬是长沙岳麓山赏红叶的最佳时节。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 9,
-    "days_to_start": -1,
+    "days_left": 6,
+    "days_to_start": -4,
     "source_url": "http://cs.bendibao.com/xiuxian/2015924/44766.shtm",
     "source_count": 2,
     "source_names": [
@@ -67,8 +42,8 @@
     "description": "德化的白，“朴素而天下莫能与之争美”",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 22,
-    "days_to_start": -58,
+    "days_left": 19,
+    "days_to_start": -61,
     "source_url": "http://cs.bendibao.com/xiuxian/2026914/138094.shtm",
     "source_count": 2,
     "source_names": [
@@ -93,8 +68,8 @@
     "description": "有众多长沙特色美食，很热闹",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -177,
+    "days_left": 37,
+    "days_to_start": -180,
     "source_url": "http://cs.bendibao.com/xiuxian/2022615/90318.shtm",
     "source_count": 2,
     "source_names": [
@@ -117,8 +92,8 @@
     "description": "长沙2026年体育赛事活动汇总",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "http://cs.bendibao.com/xiuxian/202617/132119.shtm",
     "source_count": 2,
     "source_names": [
@@ -143,8 +118,8 @@
     "description": "美食种类齐全，好吃、好玩、好逛",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -177,
+    "days_left": 37,
+    "days_to_start": -180,
     "source_url": "http://cs.bendibao.com/xiuxian/2022615/90320.shtm",
     "source_count": 2,
     "source_names": [
@@ -167,8 +142,8 @@
     "description": "网红派出所打卡，传递社会正能量",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -177,
+    "days_left": 37,
+    "days_to_start": -180,
     "source_url": "http://cs.bendibao.com/xiuxian/202456/120379.shtm",
     "source_count": 2,
     "source_names": [
@@ -191,8 +166,8 @@
     "description": "欣赏湘剧、花鼓戏、长沙弹词",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "http://cs.bendibao.com/xiuxian/2024411/119989.shtm",
     "source_count": 2,
     "source_names": [
@@ -217,8 +192,8 @@
     "description": "亮灯后氛围感拉满",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -689,
+    "days_left": 37,
+    "days_to_start": -692,
     "source_url": "http://cs.bendibao.com/xiuxian/2024318/119506.shtm",
     "source_count": 2,
     "source_names": [
@@ -241,8 +216,8 @@
     "description": "免费向社会公众开放，为湖南省文物保护单位。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -689,
+    "days_left": 37,
+    "days_to_start": -692,
     "source_url": "http://cs.bendibao.com/xiuxian/202512/124435.shtm",
     "source_count": 2,
     "source_names": [
@@ -265,38 +240,11 @@
     "description": "旧址内设有新民学会建党先声专题陈列",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 41,
-    "days_to_start": -689,
+    "days_left": 38,
+    "days_to_start": -692,
     "source_url": "http://cs.bendibao.com/xiuxian/202512/124434.shtm",
     "source_count": 2,
     "source_names": [
-      "长沙·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "5da4476a4b25",
-    "title": "长沙市第四届乡村欢乐跑暨四季花海跑（春华站）",
-    "category": "other",
-    "sub_tags": [
-      "徒步"
-    ],
-    "start_time": "2026-11-22",
-    "end_time": "2026-11-22",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "长沙县春华镇龙王庙村居家养老服务站",
-    "address": "春华镇龙王庙村新兴组",
-    "price_info": null,
-    "description": "10公里田园赛道穿越春华水杉林与稻田风光，设名次奖励、完赛奖牌、现场抽奖，六站全勤可解锁年度大奖，并提供免费接驳与本地农特产品参赛包。",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 1,
-    "days_to_start": 1,
-    "source_url": "http://cs.bendibao.com/xiuxian/20261110/139134.shtm",
-    "source_count": 2,
-    "source_names": [
-      "长沙·免费活动",
       "长沙·周末活动"
     ],
     "last_verified": "2026-11-21"
@@ -316,8 +264,8 @@
     "description": "4K超高清+5.1环绕声银幕直播中法联合制作莫扎特歌剧《魔笛》，含演出前5分钟与中场20分钟导赏，探秘台前幕后并与主创主演对谈",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 7,
-    "days_to_start": 7,
+    "days_left": 4,
+    "days_to_start": 4,
     "source_url": "http://cs.bendibao.com/xiuxian/20261116/139222.shtm",
     "source_count": 2,
     "source_names": [

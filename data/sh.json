@@ -1,92 +1,32 @@
 [
   {
-    "id": "629043080d74",
-    "title": "2026年上海外滩露台艺术季",
+    "id": "0083d0ea0526",
+    "title": "bauma CHINA 2026 上海宝马展",
     "category": "exhibition",
     "sub_tags": [
-      "熊猫主题",
-      "艺术装置",
-      "打卡集章",
-      "免费预约",
-      "非遗",
-      "音乐"
+      "工程机械",
+      "双馆联动",
+      "行业展会",
+      "实名登记"
     ],
-    "start_time": "2026-09-13",
-    "end_time": "2026-11-22",
-    "time_detail": null,
+    "start_time": "2026-11-23",
+    "end_time": "2026-11-27",
+    "time_detail": "世博展览馆11月23-25日9:00-17:00、11月26日9:00-15:0",
     "is_time_fuzzy": false,
-    "location_name": "北外滩滨江沿线",
-    "address": null,
-    "price_info": null,
-    "description": "大豫园首个以非遗音乐为内核的年度活动，启幕夜在BFC外滩心动露台“月之窗舞台”开锣，后续轮番上演法国爵士、巴西民谣、哥伦比亚拉丁电音等世界音乐。",
-    "confidence": 0.9,
+    "location_name": "上海世博展览馆、上海新国际博览中心",
+    "address": "上海市浦东新区国展路1099号（世博展览馆）；上海市浦东新区龙阳路2345号（新国际博览中心）",
+    "price_info": "11月21日0:00前预登记免费，之后80元/人",
+    "description": "中国国际工程机械、建材机械、矿山机械、工程车辆及设备博览会，首次一展双馆联动，覆盖工程机械与车辆、矿山机械、新能源技术、数字化工地等产业链，徐工、三一、中联重科及卡特彼勒等国内外品牌参展。",
+    "confidence": 0.95,
     "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -69,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026914/309202.shtm",
-    "source_count": 2,
+    "days_left": 3,
+    "days_to_start": -1,
+    "source_url": "http://sh.bendibao.com/xiuxian/20261027/310062.shtm",
+    "source_count": 1,
     "source_names": [
-      "上海本地宝 · 展览",
-      "上海·周末活动"
+      "上海本地宝 · 休闲"
     ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "75b3902f593e",
-    "title": "2026环复兴公园艺术季",
-    "category": "exhibition",
-    "sub_tags": [
-      "艺术展"
-    ],
-    "start_time": "2026-09-22",
-    "end_time": "2026-11-22",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "复兴公园",
-    "address": "上海市黄浦区雁荡路105号",
-    "price_info": null,
-    "description": "以“公园+艺术”轻介入模式打通复兴公园与思南公馆两大空间，卤猫系列公共艺术雕塑、《秋千花园》《野肆花园》、紫藤长廊新装置等散落公园街巷，可漫步打卡、沉浸感受自然与艺术交织的疗愈氛围",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -60,
-    "source_url": "http://sh.bendibao.com/xiuxian/20261010/309738.shtm",
-    "source_count": 2,
-    "source_names": [
-      "上海本地宝 · 展览",
-      "上海·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "59d46f47d318",
-    "title": "曲水园菊花艺术展",
-    "category": "exhibition",
-    "sub_tags": [
-      "菊花展",
-      "园林",
-      "免费",
-      "赏花节"
-    ],
-    "start_time": "2026-10-30",
-    "end_time": "2026-11-22",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "上海曲水园",
-    "address": "上海青浦区公园路612号",
-    "price_info": null,
-    "description": "以“曲水菊韵·雅集金秋”为主题，设入口迎宾、荷花池花船、假山东篱菊隐、沿河长廊、核心庭院四君子雅集五大展区，展出悬崖菊、菊龙、菊树及炫彩菊等造型品种。",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -22,
-    "source_url": "http://sh.bendibao.com/xiuxian/20261027/310063.shtm",
-    "source_count": 2,
-    "source_names": [
-      "上海本地宝 · 休闲",
-      "上海·周末活动"
-    ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-10-28"
   },
   {
     "id": "454297f5d66a",
@@ -108,8 +48,8 @@
     "description": "以“四秩风华凝秋色，满园菊韵绘新篇”为主题，设佳菊揽盛、艺绽芳华、群英荟萃三大板块，展示600余种精品菊花及多处主题景点。",
     "confidence": 0.95,
     "status": "ongoing",
-    "days_left": 8,
-    "days_to_start": -28,
+    "days_left": 5,
+    "days_to_start": -31,
     "source_url": "http://sh.bendibao.com/xiuxian/20261022/309988.shtm",
     "source_count": 3,
     "source_names": [
@@ -139,8 +79,8 @@
     "description": "数十万盆菊花、上百种品类与七彩菊亮相，3米高绿孔雀大象花雕；夜间上百万盏灯光千灯会夜游，舞台剧、NPC巡游互动与打铁花表演，还有碰碰车等游乐项目和奇迹动物城萌宠，适合亲子家庭与好友结伴。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 9,
-    "days_to_start": -57,
+    "days_left": 6,
+    "days_to_start": -60,
     "source_url": "http://sh.bendibao.com/xiuxian/2026928/309538.shtm",
     "source_count": 2,
     "source_names": [
@@ -169,8 +109,8 @@
     "description": "文学弄堂大型光影装置，分布在弄堂空间与北广场，转角可邂逅文学光影，并有机会领取“月下相逢”限定好礼。",
     "confidence": 0.85,
     "status": "ongoing",
-    "days_left": 9,
-    "days_to_start": -60,
+    "days_left": 6,
+    "days_to_start": -63,
     "source_url": "http://sh.bendibao.com/xiuxian/2026922/309419.shtm",
     "source_count": 1,
     "source_names": [
@@ -197,8 +137,8 @@
     "description": "贾科梅蒂艺术大展，与北京人民艺术剧院先锋版话剧《哈姆雷特》组成“大师纪念”演展联票，联票售价90元。",
     "confidence": 0.85,
     "status": "ongoing",
-    "days_left": 15,
-    "days_to_start": -127,
+    "days_left": 12,
+    "days_to_start": -130,
     "source_url": "http://sh.bendibao.com/xiuxian/202699/309131.shtm",
     "source_count": 1,
     "source_names": [
@@ -226,8 +166,8 @@
     "description": "约翰尼·德普在中国的首个美术馆大展，与德国古典电子跨界乐队“交响狂徒”上海音乐会组成演展联票，首轮优惠票平均半价发售。",
     "confidence": 0.85,
     "status": "ongoing",
-    "days_left": 22,
-    "days_to_start": -127,
+    "days_left": 19,
+    "days_to_start": -130,
     "source_url": "http://sh.bendibao.com/xiuxian/202699/309131.shtm",
     "source_count": 1,
     "source_names": [
@@ -252,8 +192,8 @@
     "description": "双子山蘑力乐园二期全新开放，新增国内首台以13种上海本土动物为原型的艺术旋转木马「蘑都飞旋」和森林高空闯关乐园「丛林迷踪」，一期经典项目全部免费开放，适合亲子家庭探险游玩。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -63,
+    "days_left": 37,
+    "days_to_start": -66,
     "source_url": "http://sh.bendibao.com/xiuxian/2026918/309296.shtm",
     "source_count": 2,
     "source_names": [
@@ -278,8 +218,8 @@
     "description": "2026年，精彩绝伦的烟花盛宴将继续点亮夜空",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 41,
-    "days_to_start": -325,
+    "days_left": 38,
+    "days_to_start": -328,
     "source_url": "http://sh.bendibao.com/xiuxian/20251222/302943.shtm",
     "source_count": 4,
     "source_names": [
@@ -308,8 +248,8 @@
     "description": "上海博物馆与大都会艺术博物馆共同主办，展出192件/组大都会馆藏珠宝珍品，并联动上博遴选20余件中国古代珠宝文物，分六大单元呈现五千年珠宝文明。",
     "confidence": 0.95,
     "status": "ongoing",
-    "days_left": 165,
-    "days_to_start": -3,
+    "days_left": 162,
+    "days_to_start": -6,
     "source_url": "http://sh.bendibao.com/xiuxian/2026114/310221.shtm",
     "source_count": 2,
     "source_names": [
@@ -335,8 +275,8 @@
     "description": "上海科技馆首次以科幻为核心主题打造的沉浸体验空间，由600平方米艺术展、500平方米VR大空间体验区及文创空间构成，含光之走廊、烧火工工坊、鲸骨殿堂、登天海滩、星海月船等打卡点，融合超高清视听、实时渲染等技术，最高可支持",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 283,
-    "days_to_start": -51,
+    "days_left": 280,
+    "days_to_start": -54,
     "source_url": "http://sh.bendibao.com/xiuxian/2026108/309659.shtm",
     "source_count": 2,
     "source_names": [
@@ -367,8 +307,8 @@
     "description": "上博继古埃及大展后再推全球古代文明大展，联合墨西哥、秘鲁文博机构，汇聚1129组近3000件文物，展陈超7000平方米，分“神圣时空”“黄金帝国”两大板块。",
     "confidence": 0.95,
     "status": "ongoing",
-    "days_left": 358,
-    "days_to_start": -135,
+    "days_left": 355,
+    "days_to_start": -138,
     "source_url": "http://sh.bendibao.com/xiuxian/202659/305770.shtm",
     "source_count": 2,
     "source_names": [
@@ -376,36 +316,6 @@
       "上海·周末活动"
     ],
     "last_verified": "2026-11-21"
-  },
-  {
-    "id": "0ea0673dbb34",
-    "title": "CHOUCHOU&FRIENDS全球旗舰店",
-    "category": "popup_store",
-    "sub_tags": [
-      "二次元",
-      "明星IP",
-      "潮玩",
-      "限定商品",
-      "打卡"
-    ],
-    "start_time": "2026-09-23",
-    "end_time": null,
-    "time_detail": null,
-    "is_time_fuzzy": true,
-    "location_name": "CHOUCHOU&FRIENDS全球旗舰店",
-    "address": "南京东路558号",
-    "price_info": null,
-    "description": "周杰伦官方二次元IP周同学CHOUCHOU全球首家旗舰店，总面积570平方米，共三层，首发超300个SKU，含上海城市限定系列，仅此店可买。",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": null,
-    "days_to_start": -59,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026924/309499.shtm",
-    "source_count": 1,
-    "source_names": [
-      "上海本地宝 · 周末去哪玩"
-    ],
-    "last_verified": "2026-10-28"
   },
   {
     "id": "5ea6fc51a1f6",
@@ -430,13 +340,100 @@
     "confidence": 0.75,
     "status": "ongoing",
     "days_left": null,
-    "days_to_start": -32,
+    "days_to_start": -35,
     "source_url": "http://sh.bendibao.com/xiuxian/202698/309073.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 周末去哪玩"
     ],
     "last_verified": "2026-10-29"
+  },
+  {
+    "id": "70751e11f6f9",
+    "title": "无畏契约冠军赛主题海底捞门店",
+    "category": "other",
+    "sub_tags": [
+      "联名",
+      "餐饮",
+      "主题门店"
+    ],
+    "start_time": "2026-09-28",
+    "end_time": null,
+    "time_detail": null,
+    "is_time_fuzzy": true,
+    "location_name": "海底捞多家门店",
+    "address": null,
+    "price_info": null,
+    "description": "无畏契约与海底捞开启全国联动，多家门店升级为冠军赛主题门店，覆盖赛事期间的餐饮消费场景。",
+    "confidence": 0.55,
+    "status": "ongoing",
+    "days_left": null,
+    "days_to_start": -57,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026924/309471.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 周末去哪玩"
+    ],
+    "last_verified": "2026-10-28"
+  },
+  {
+    "id": "aafa22b1c9f0",
+    "title": "2026上海动漫文化博览会 COMICUP33",
+    "category": "exhibition",
+    "sub_tags": [
+      "二次元",
+      "同人创作",
+      "国漫",
+      "签售"
+    ],
+    "start_time": "2026-12-26",
+    "end_time": "2026-12-27",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "国家会展中心（上海）",
+    "address": null,
+    "price_info": null,
+    "description": "以“冬日暖阳，创作火种”为主题，展馆面积近25万平方米，设1万多个创作摊位，含非遗换新、皮影小舞台、独立动画放映及国漫33年主题展等板块。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 33,
+    "days_to_start": 32,
+    "source_url": "http://sh.bendibao.com/xiuxian/20261012/309775.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 周末去哪玩"
+    ],
+    "last_verified": "2026-10-28"
+  },
+  {
+    "id": "0ea0673dbb34",
+    "title": "CHOUCHOU&FRIENDS全球旗舰店",
+    "category": "popup_store",
+    "sub_tags": [
+      "二次元",
+      "明星IP",
+      "潮玩",
+      "限定商品",
+      "打卡"
+    ],
+    "start_time": "2026-09-23",
+    "end_time": null,
+    "time_detail": null,
+    "is_time_fuzzy": true,
+    "location_name": "CHOUCHOU&FRIENDS全球旗舰店",
+    "address": "南京东路558号",
+    "price_info": null,
+    "description": "周杰伦官方二次元IP周同学CHOUCHOU全球首家旗舰店，总面积570平方米，共三层，首发超300个SKU，含上海城市限定系列，仅此店可买。",
+    "confidence": 0.9,
+    "status": "unknown",
+    "days_left": null,
+    "days_to_start": -62,
+    "source_url": "http://sh.bendibao.com/xiuxian/2026924/309499.shtm",
+    "source_count": 1,
+    "source_names": [
+      "上海本地宝 · 周末去哪玩"
+    ],
+    "last_verified": "2026-10-28"
   },
   {
     "id": "1447745b1bb0",
@@ -459,9 +456,9 @@
     "price_info": null,
     "description": "无畏契约与巴黎世家联名打造的限时概念空间，落地静安永源路街区，市民可通过预约方式前往打卡体验。",
     "confidence": 0.7,
-    "status": "ongoing",
+    "status": "unknown",
     "days_left": null,
-    "days_to_start": -58,
+    "days_to_start": -61,
     "source_url": "http://sh.bendibao.com/xiuxian/2026924/309471.shtm",
     "source_count": 1,
     "source_names": [
@@ -487,122 +484,10 @@
     "price_info": null,
     "description": "无畏契约贤者主题花园在前滩休闲公园对公众开放，是赛事期间面向市民的线下主题打卡场景。",
     "confidence": 0.65,
-    "status": "ongoing",
+    "status": "unknown",
     "days_left": null,
-    "days_to_start": -58,
+    "days_to_start": -61,
     "source_url": "http://sh.bendibao.com/xiuxian/2026924/309471.shtm",
-    "source_count": 1,
-    "source_names": [
-      "上海本地宝 · 周末去哪玩"
-    ],
-    "last_verified": "2026-10-28"
-  },
-  {
-    "id": "70751e11f6f9",
-    "title": "无畏契约冠军赛主题海底捞门店",
-    "category": "other",
-    "sub_tags": [
-      "联名",
-      "餐饮",
-      "主题门店"
-    ],
-    "start_time": "2026-09-28",
-    "end_time": null,
-    "time_detail": null,
-    "is_time_fuzzy": true,
-    "location_name": "海底捞多家门店",
-    "address": null,
-    "price_info": null,
-    "description": "无畏契约与海底捞开启全国联动，多家门店升级为冠军赛主题门店，覆盖赛事期间的餐饮消费场景。",
-    "confidence": 0.55,
-    "status": "ongoing",
-    "days_left": null,
-    "days_to_start": -54,
-    "source_url": "http://sh.bendibao.com/xiuxian/2026924/309471.shtm",
-    "source_count": 1,
-    "source_names": [
-      "上海本地宝 · 周末去哪玩"
-    ],
-    "last_verified": "2026-10-28"
-  },
-  {
-    "id": "e4bead3aa844",
-    "title": "2026青浦新城半程马拉松赛",
-    "category": "exhibition",
-    "sub_tags": [
-      "马拉松"
-    ],
-    "start_time": "2026-11-22",
-    "end_time": "2026-11-22",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "青浦环城水系公园",
-    "address": null,
-    "price_info": null,
-    "description": "21.0975公里赛道覆盖青浦新城城市风光与内河滨水风景，融合自然风貌、历史遗址、产业基地与人居环境，兼具观赏性与竞技性，沿青浦环城水系公园穿越新城核心区域。",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 1,
-    "days_to_start": 1,
-    "source_url": "http://sh.bendibao.com/xiuxian/20261021/309968.shtm",
-    "source_count": 2,
-    "source_names": [
-      "上海·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "0083d0ea0526",
-    "title": "bauma CHINA 2026 上海宝马展",
-    "category": "exhibition",
-    "sub_tags": [
-      "工程机械",
-      "双馆联动",
-      "行业展会",
-      "实名登记"
-    ],
-    "start_time": "2026-11-23",
-    "end_time": "2026-11-27",
-    "time_detail": "世博展览馆11月23-25日9:00-17:00、11月26日9:00-15:0",
-    "is_time_fuzzy": false,
-    "location_name": "上海世博展览馆、上海新国际博览中心",
-    "address": "上海市浦东新区国展路1099号（世博展览馆）；上海市浦东新区龙阳路2345号（新国际博览中心）",
-    "price_info": "11月21日0:00前预登记免费，之后80元/人",
-    "description": "中国国际工程机械、建材机械、矿山机械、工程车辆及设备博览会，首次一展双馆联动，覆盖工程机械与车辆、矿山机械、新能源技术、数字化工地等产业链，徐工、三一、中联重科及卡特彼勒等国内外品牌参展。",
-    "confidence": 0.95,
-    "status": "upcoming",
-    "days_left": 6,
-    "days_to_start": 2,
-    "source_url": "http://sh.bendibao.com/xiuxian/20261027/310062.shtm",
-    "source_count": 1,
-    "source_names": [
-      "上海本地宝 · 休闲"
-    ],
-    "last_verified": "2026-10-28"
-  },
-  {
-    "id": "aafa22b1c9f0",
-    "title": "2026上海动漫文化博览会 COMICUP33",
-    "category": "exhibition",
-    "sub_tags": [
-      "二次元",
-      "同人创作",
-      "国漫",
-      "签售"
-    ],
-    "start_time": "2026-12-26",
-    "end_time": "2026-12-27",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "国家会展中心（上海）",
-    "address": null,
-    "price_info": null,
-    "description": "以“冬日暖阳，创作火种”为主题，展馆面积近25万平方米，设1万多个创作摊位，含非遗换新、皮影小舞台、独立动画放映及国漫33年主题展等板块。",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 36,
-    "days_to_start": 35,
-    "source_url": "http://sh.bendibao.com/xiuxian/20261012/309775.shtm",
     "source_count": 1,
     "source_names": [
       "上海本地宝 · 周末去哪玩"

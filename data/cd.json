@@ -1,31 +1,5 @@
 [
   {
-    "id": "abf1569ca4c9",
-    "title": "和平精英2026PEL巅峰挑战赛总决赛",
-    "category": "exhibition",
-    "sub_tags": [
-      "电竞"
-    ],
-    "start_time": "2026-11-20",
-    "end_time": "2026-11-22",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "成都量子介VSPO电竞中心",
-    "address": "四川省成都市成华区二仙桥北路36号",
-    "price_info": null,
-    "description": "线下PEL观赛，现场有PEL周边免费领取、暖心空投小吃派发、游园会集章赢官方周边、多家俱乐部展位礼包，还有派对区自由体验和免费美甲编发预约",
-    "confidence": 0.9,
-    "status": "ongoing",
-    "days_left": 1,
-    "days_to_start": -1,
-    "source_url": "https://cd.bendibao.com/xiuxian/20261112/215833.shtm",
-    "source_count": 1,
-    "source_names": [
-      "成都·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
     "id": "311b01f9b601",
     "title": "成都博物馆V&A威基伍德陶瓷展",
     "category": "exhibition",
@@ -42,8 +16,8 @@
     "description": "英国维多利亚与艾尔伯特博物馆珍藏威基伍德陶瓷首次来蓉，联合四川博物院、成都博物馆展出202件珍品，呈现从中国瓷西传到英国工业瓷业创新的跨世纪文明对话",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 36,
-    "days_to_start": -52,
+    "days_left": 33,
+    "days_to_start": -55,
     "source_url": "http://cd.bendibao.com/xiuxian/2026916/213894.shtm",
     "source_count": 2,
     "source_names": [
@@ -68,8 +42,8 @@
     "description": "全年进行，灯光璀璨熠熠生辉",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 40,
-    "days_to_start": -324,
+    "days_left": 37,
+    "days_to_start": -327,
     "source_url": "http://cd.bendibao.com/xiuxian/2024412/182004.shtm",
     "source_count": 2,
     "source_names": [
@@ -94,8 +68,8 @@
     "description": "四川省城市足球联赛第二届，21支市州代表队分三组主客场双循环，揭幕战德阳赛区开打，实名制购票入场，购票可获赠观察豆",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 252,
-    "days_to_start": 0,
+    "days_left": 249,
+    "days_to_start": -3,
     "source_url": "https://cd.bendibao.com/xiuxian/20261116/215931.shtm",
     "source_count": 1,
     "source_names": [
@@ -120,8 +94,8 @@
     "description": "以校园银杏为线索，设银杏照相馆免费帮拍人像合影、银杏拾光作品征集与展览、银杏邮局慢递明信片三项活动，串联银杏大道打卡体验",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 14,
-    "days_to_start": 6,
+    "days_left": 11,
+    "days_to_start": 3,
     "source_url": "https://cd.bendibao.com/xiuxian/20261120/216083.shtm",
     "source_count": 1,
     "source_names": [
@@ -146,8 +120,8 @@
     "description": "采用15局8胜制，涵盖男单、女单、男双、女双及混双五个单项，小组赛与排名赛多场次对决",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 15,
-    "days_to_start": 8,
+    "days_left": 12,
+    "days_to_start": 5,
     "source_url": "https://cd.bendibao.com/xiuxian/2026119/215712.shtm",
     "source_count": 1,
     "source_names": [
@@ -170,8 +144,8 @@
     "description": "《灵笼》首个官方年度盛典，主创团队深度参与，经典名场面还原，《夜曲2X18》四手联弹、马克冉冰婚礼等独家内容首度呈现，20+首经典曲目全新编曲，融合情景舞剧、杂技、武术等25+节目，AR×全息科技打造沉浸式舞台，随票赠送",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 14,
-    "days_to_start": 14,
+    "days_left": 11,
+    "days_to_start": 11,
     "source_url": "http://cd.bendibao.com/xiuxian/20261028/215533.shtm",
     "source_count": 2,
     "source_names": [
