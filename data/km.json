@@ -16,14 +16,92 @@
     "description": "土豆节市集汇集蛋包洋芋、黄金薯球、狼牙土豆等土豆主题美食与打卡点，还有微信扫码免费报名的偷土豆大赛，冠军可赢土豆4kg、电影票和小土豆玩偶",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 5,
-    "days_to_start": -4,
+    "days_left": 4,
+    "days_to_start": -5,
     "source_url": "https://km.bendibao.com/xiuxian/20261120/108671.shtm",
     "source_count": 1,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "fd239db06f49",
+    "title": "昆明市黑龙潭公园赏枫",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏叶节"
+    ],
+    "start_time": "2026-11-01",
+    "end_time": "2026-11-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "黑龙潭公园",
+    "address": "昆明市盘龙区龙泉路612号",
+    "price_info": null,
+    "description": "黑龙潭公园进入枫叶最佳观赏期，满园红叶绚烂绽放，可沉浸式邂逅漫山红叶秘境，是春城深秋赏枫好去处",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 5,
+    "days_to_start": -24,
+    "source_url": "https://km.bendibao.com/xiuxian/20261123/108692.shtm",
+    "source_count": 1,
+    "source_names": [
+      "昆明·免费活动"
+    ],
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "8022cb44fc5a",
+    "title": "盘龙区2026年首届枫叶咖啡生活节",
+    "category": "market",
+    "sub_tags": [
+      "综合市集"
+    ],
+    "start_time": "2026-11-12",
+    "end_time": "2026-11-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "昆明植物园",
+    "address": "植物园东园的中乌全球葱园(昆明中心)",
+    "price_info": null,
+    "description": "串联昆明植物园、野溪地乐园、大草坪，集赏枫、咖啡、市集、美食、非遗、音乐、研学于一体，青年市集主理人招募中",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 5,
+    "days_to_start": -13,
+    "source_url": "https://km.bendibao.com/xiuxian/20261123/108691.shtm",
+    "source_count": 1,
+    "source_names": [
+      "昆明·免费活动"
+    ],
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "b4d1dbf45244",
+    "title": "玉龙湾景区赏枫",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏叶节"
+    ],
+    "start_time": "2026-11-20",
+    "end_time": "2026-12-05",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "玉龙湾景区",
+    "address": "昆明市安宁市太平乡妥乐村玉龙湾",
+    "price_info": null,
+    "description": "玉龙湾景区枫叶变色率已达一半以上，S形弯道两侧枫叶层层叠叠，与蓝天相映成景，适合散步赏叶、拍照打卡",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 10,
+    "days_to_start": -5,
+    "source_url": "https://km.bendibao.com/xiuxian/20261123/108693.shtm",
+    "source_count": 1,
+    "source_names": [
+      "昆明·免费活动"
+    ],
+    "last_verified": "2026-11-25"
   },
   {
     "id": "feb94633f033",
@@ -42,14 +120,14 @@
     "description": "枫香大道、观叶观果园和水生植物园都是赏秋好去处",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 21,
-    "days_to_start": -40,
+    "days_left": 20,
+    "days_to_start": -41,
     "source_url": "http://km.bendibao.com/xiuxian/20261014/108116.shtm",
     "source_count": 2,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "45a3c6be01c7",
@@ -68,14 +146,40 @@
     "description": "从千余件社会投稿中遴选400余件作品，摄影展区设六大主题，书画展区汇集篆隶楷行草多书体与国画、水彩、油画等，全景展现呈贡撤县设区十五年发展蝶变",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 37,
-    "days_to_start": -20,
+    "days_left": 36,
+    "days_to_start": -21,
     "source_url": "http://km.bendibao.com/xiuxian/2026116/108484.shtm",
     "source_count": 2,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "6c9e19fcbe8f",
+    "title": "昆明植物园东园杉叶观赏",
+    "category": "exhibition",
+    "sub_tags": [
+      "赏叶节"
+    ],
+    "start_time": "2026-11-23",
+    "end_time": "2026-12-31",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "昆明植物园",
+    "address": "植物园东园的中乌全球葱园(昆明中心)",
+    "price_info": null,
+    "description": "昆明植物园东园池杉、水杉及墨西哥落羽杉正变色落叶，进入最佳观赏期，观赏点在水生植物园",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 36,
+    "days_to_start": -2,
+    "source_url": "https://km.bendibao.com/xiuxian/20261123/108690.shtm",
+    "source_count": 1,
+    "source_names": [
+      "昆明·免费活动"
+    ],
+    "last_verified": "2026-11-25"
   },
   {
     "id": "f2e9b6d23302",
@@ -92,14 +196,14 @@
     "description": "公益免费参与，设8周减脂赛道与12周增肌赛道，完成三次医学体测即可参与评奖，个人或2-4人组队均可报名，还有储值金、骨密度检测卡等奖励。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 61,
-    "days_to_start": -22,
+    "days_left": 60,
+    "days_to_start": -23,
     "source_url": "http://km.bendibao.com/xiuxian/20261026/108285.shtm",
     "source_count": 2,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "206b7eec8436",
@@ -118,14 +222,14 @@
     "description": "展出丽江雪社60余件书画作品，分林泉高致、应物象形、传神写照、文质相济四大板块，含周霖《金沙水拍云崖暖》等重点展品，设多处推荐打卡点",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 90,
-    "days_to_start": -54,
+    "days_left": 89,
+    "days_to_start": -55,
     "source_url": "http://km.bendibao.com/xiuxian/20261022/108258.shtm",
     "source_count": 2,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "cb37860b859b",
@@ -144,14 +248,14 @@
     "description": "双桥夜市升级改造坚持有文化内涵的改造，有当代气息的改造，体现当地文化、展现特色风貌，力求贴合当下年轻一代(90%的客户群)审美，与时代同行。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 96,
-    "days_to_start": -1089,
+    "days_left": 95,
+    "days_to_start": -1090,
     "source_url": "http://km.bendibao.com/xiuxian/2024418/84067.shtm",
     "source_count": 2,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "5c7fe65db2c5",
@@ -168,14 +272,92 @@
     "description": "融创海世界恒温室内玩水，打卡亲子水寨、造浪池、漂流河，搭配海洋动物表演，储物柜浮圈按需租赁，上午入园错峰更舒适",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 402,
-    "days_to_start": -146,
+    "days_left": 401,
+    "days_to_start": -147,
     "source_url": "http://km.bendibao.com/xiuxian/2026714/106015.shtm",
     "source_count": 2,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "4ab37b3c1a76",
+    "title": "2026版筑翠园第四届银杏市集「奇想之年」",
+    "category": "market",
+    "sub_tags": [
+      "综合市集"
+    ],
+    "start_time": "2026-11-27",
+    "end_time": "2026-11-29",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "版筑翠园",
+    "address": "昆明市五华区版筑翠园后街",
+    "price_info": null,
+    "description": "银杏林下的第四届银杏市集，设奇想市集、落日银杏漫游、星光漫游夜，含乌镇戏剧节入围偶剧《纸飞机》昆明首演、萌宠运动会、大树下的餐桌、三大主题市集与银杏主题装置打卡，免费入场。",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 4,
+    "days_to_start": 2,
+    "source_url": "https://km.bendibao.com/xiuxian/20261123/108699.shtm",
+    "source_count": 1,
+    "source_names": [
+      "昆明·免费活动"
+    ],
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "6e9267cef092",
+    "title": "2026—2027赛季中国排球超级联赛云南赛区（云南经济管理学院安宁校区主场）",
+    "category": "other",
+    "sub_tags": [
+      "球赛"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2027-03-07",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "云南经济管理学院",
+    "address": "安宁校区地址：云南省昆明安宁市职教园区麒麟路17号 昆明校区地址：云南省昆明市五华区海屯路296号",
+    "price_info": null,
+    "description": "国家级排球联赛主场时隔三十年重返昆明，17场主场赛事全程免费观赛，需提前扫码预约，座位先到先得",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 102,
+    "days_to_start": 3,
+    "source_url": "https://km.bendibao.com/xiuxian/20261123/108689.shtm",
+    "source_count": 1,
+    "source_names": [
+      "昆明·免费活动"
+    ],
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "2c656fdbca5c",
+    "title": "金殿名胜区第九届秋叶静美活动季之凌烟汉文化铁旗卫汉服出行日",
+    "category": "other",
+    "sub_tags": [
+      "文化节"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-28",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "昆明市金殿名胜区",
+    "address": "昆明市盘龙区穿金路",
+    "price_info": null,
+    "description": "汉服巡游、甲胄列队、汉服集体大秀、剪纸书法非遗体验、群像拍摄（裙幄宴、水浒人物、红楼梦），秋叶与华服相映，可着汉服同游同拍",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 3,
+    "days_to_start": 3,
+    "source_url": "https://km.bendibao.com/xiuxian/20261124/108736.shtm",
+    "source_count": 1,
+    "source_names": [
+      "昆明·免费活动"
+    ],
+    "last_verified": "2026-11-25"
   },
   {
     "id": "da5ab7b0557e",
@@ -194,14 +376,15 @@
     "description": "流行朋克碰撞硬摇滚，热烈躁动的现场，新歌老歌齐发，搭配限定周边福利，奔赴平行世界之约，尽情随节奏跳跃释放。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 5,
-    "days_to_start": 5,
+    "days_left": 4,
+    "days_to_start": 4,
     "source_url": "http://km.bendibao.com/xiuxian/20261026/108297.shtm",
-    "source_count": 2,
+    "source_count": 3,
     "source_names": [
-      "昆明·周末活动"
+      "昆明·周末活动",
+      "昆明·免费活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "a53258bf5cd1",
@@ -220,14 +403,14 @@
     "description": "周云蓬「以演还演」2026昆明站巡演时间为2026.12.06 周日 20:00，演出地点为MODERNSKY LAB(昆明店)。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 12,
-    "days_to_start": 12,
+    "days_left": 11,
+    "days_to_start": 11,
     "source_url": "http://km.bendibao.com/xiuxian/20261026/108293.shtm",
     "source_count": 2,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "3aea529f8483",
@@ -246,14 +429,14 @@
     "description": "氤氲梦幻吉他音墙，温柔治愈的 indie pop 现场，唱响《傍晚去太子湾吗》等金曲，诉说细腻浪漫心事，沉浸式感受松弛柔软氛围。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 17,
-    "days_to_start": 17,
+    "days_left": 16,
+    "days_to_start": 16,
     "source_url": "http://km.bendibao.com/xiuxian/20261026/108296.shtm",
     "source_count": 2,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "32bba31ad4e2",
@@ -272,14 +455,40 @@
     "description": "2026年布衣乐队《云起时》巡演昆明站来袭啦！其中将于昆明市空格现场(新迎店)举办。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 29,
-    "days_to_start": 29,
+    "days_left": 28,
+    "days_to_start": 28,
     "source_url": "http://km.bendibao.com/xiuxian/20261026/108288.shtm",
     "source_count": 2,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "8d04841ed967",
+    "title": "丢火车2026“萨尔图”系列专场昆明站",
+    "category": "other",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2027-01-17",
+    "end_time": "2027-01-17",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "MODERNSKY LAB",
+    "address": "云南省昆明市西山区滇池路569号南亚风情newmall3楼",
+    "price_info": null,
+    "description": "丢火车2026“萨尔图”系列昆明站专场来袭！",
+    "confidence": 0.9,
+    "status": "upcoming",
+    "days_left": 53,
+    "days_to_start": 53,
+    "source_url": "https://km.bendibao.com/xiuxian/20261123/108685.shtm",
+    "source_count": 1,
+    "source_names": [
+      "昆明·免费活动"
+    ],
+    "last_verified": "2026-11-25"
   },
   {
     "id": "6392a8ae8ceb",
@@ -298,13 +507,13 @@
     "description": "全品类年货一站配齐，糖酒茶饮、生鲜腊味、年宵花卉、文创非遗等上千款商品齐聚；滇味美食市集现做现尝；现场设写春联、剪窗花、非遗展演、新春打卡点等民俗互动，可购可尝可玩。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 70,
-    "days_to_start": 57,
+    "days_left": 69,
+    "days_to_start": 56,
     "source_url": "http://km.bendibao.com/xiuxian/2026112/108395.shtm",
     "source_count": 2,
     "source_names": [
       "昆明·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   }
 ]

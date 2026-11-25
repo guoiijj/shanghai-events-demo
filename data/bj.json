@@ -16,15 +16,15 @@
     "description": "展览汇聚海南、江苏、上海等多地行业力量与参展精品，打破传统展厅边界，统筹室内展厅与室外近 2000 平方米园林空间，将木石雅韵嵌入真实园景，打造移步异景的沉浸式观展体验。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 47,
-    "days_to_start": -106,
+    "days_left": 46,
+    "days_to_start": -107,
     "source_url": "http://bj.bendibao.com/xiuxian/2026824/385607.shtm",
     "source_count": 2,
     "source_names": [
       "北京·展览",
       "北京·周末活动"
     ],
-    "last_verified": "2026-11-22"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "82683bccaf8f",
@@ -43,15 +43,15 @@
     "description": "此次展览由中俄艺术机构共同策划，集75件勾勒大师一生的重要作品；充分彰显费欣艺术风格之丰盈，创作媒介之全面；是全球近十年规模最宏大，学理体系最完备的尼古拉·费欣个案研究型作品展。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 82,
-    "days_to_start": -56,
+    "days_left": 81,
+    "days_to_start": -57,
     "source_url": "http://bj.bendibao.com/xiuxian/2026824/385609.shtm",
     "source_count": 2,
     "source_names": [
       "北京·展览",
       "北京·周末活动"
     ],
-    "last_verified": "2026-11-22"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "e1b3b310ecee",
@@ -68,14 +68,14 @@
     "description": "三大沉浸场景 刷新你的感官极限",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 928,
-    "days_to_start": -168,
+    "days_left": 927,
+    "days_to_start": -169,
     "source_url": "http://bj.bendibao.com/xiuxian/202669/383606.shtm",
     "source_count": 2,
     "source_names": [
       "北京·展览",
       "北京·周末活动"
     ],
-    "last_verified": "2026-11-22"
+    "last_verified": "2026-11-25"
   }
 ]

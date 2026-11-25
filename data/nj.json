@@ -16,14 +16,14 @@
     "description": "一站一景、一站一特色，南京为2026江苏省户外运动城市联赛启幕首站赛事。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 6,
-    "days_to_start": -268,
+    "days_left": 5,
+    "days_to_start": -269,
     "source_url": "http://nj.bendibao.com/xiuxian/2026212/179128.shtm",
     "source_count": 2,
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "cfaac732f17d",
@@ -42,14 +42,14 @@
     "description": "玄武湖2026秋花秋实展，含向日葵花展、金秋菊展、盆景赏石书画摄影联展、国庆升旗仪式、热狗节、湖光音乐会、明后湖黄册库护卫巡游等，秋花秋实与湖光秋色相映成趣",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 6,
-    "days_to_start": -56,
+    "days_left": 5,
+    "days_to_start": -57,
     "source_url": "http://nj.bendibao.com/xiuxian/2026929/183386.shtm",
     "source_count": 2,
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "05e42a44cf28",
@@ -68,14 +68,14 @@
     "description": "国内知名的赏枫胜地。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 24,
-    "days_to_start": -37,
+    "days_left": 23,
+    "days_to_start": -38,
     "source_url": "http://nj.bendibao.com/xiuxian/2025113/177044.shtm",
     "source_count": 2,
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "da73fc257335",
@@ -94,14 +94,14 @@
     "description": "江苏省13市篮球联赛",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 37,
-    "days_to_start": -84,
+    "days_left": 36,
+    "days_to_start": -85,
     "source_url": "http://nj.bendibao.com/xiuxian/2026130/178846.shtm",
     "source_count": 8,
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "279b7be16d30",
@@ -120,14 +120,14 @@
     "description": "亲历校园风采，在最美春光里漫步百年学府。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 37,
-    "days_to_start": -327,
+    "days_left": 36,
+    "days_to_start": -328,
     "source_url": "http://nj.bendibao.com/xiuxian/2026327/179649.shtm",
     "source_count": 2,
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "b442aca03fe0",
@@ -144,14 +144,14 @@
     "description": "年末压轴珠宝大展，翡翠工厂直销、彩色宝石直供、和田玉鉴赏、珍珠源头甄选、金银首饰福利节、独立设计师与古董专场、松石琥珀水晶专区，现场可免费鉴定、免费首饰清洗，打卡消费领伴手礼",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 6,
-    "days_to_start": 3,
+    "days_left": 5,
+    "days_to_start": 2,
     "source_url": "http://nj.bendibao.com/xiuxian/2026115/184027.shtm",
     "source_count": 2,
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   },
   {
     "id": "da205dcd4e4f",
@@ -170,13 +170,13 @@
     "description": "现场很多活动，10:00-17:00玩转停不下来！",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 4,
-    "days_to_start": 4,
+    "days_left": 3,
+    "days_to_start": 3,
     "source_url": "http://nj.bendibao.com/xiuxian/2026112/183934.shtm",
     "source_count": 2,
     "source_names": [
       "南京·周末活动"
     ],
-    "last_verified": "2026-11-21"
+    "last_verified": "2026-11-25"
   }
 ]
