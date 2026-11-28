@@ -1,5 +1,31 @@
 [
   {
+    "id": "b4bc63e92580",
+    "title": "2026重庆草莓音乐节",
+    "category": "exhibition",
+    "sub_tags": [
+      "音乐节"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-29",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "重庆国际博览中心",
+    "address": "重庆市渝北区悦来大道66号",
+    "price_info": null,
+    "description": "时隔6年草莓音乐节再抵重庆，两天双舞台，万能青年旅店、杨千嬅、梁博、回春丹等众多音乐人轮番开唱，还有MVM×费那奇动画周主题动画展映。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": 0,
+    "source_url": "http://cq.bendibao.com/xiuxian/20261027/168637.shtm",
+    "source_count": 2,
+    "source_names": [
+      "重庆·周末活动"
+    ],
+    "last_verified": "2026-11-25"
+  },
+  {
     "id": "e7ceb87a4279",
     "title": "上美影经典动画回顾展—重庆站",
     "category": "exhibition",
@@ -16,40 +42,14 @@
     "description": "30+部经典动画，70+年中国动画艺术史",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 67,
-    "days_to_start": -288,
+    "days_left": 64,
+    "days_to_start": -291,
     "source_url": "http://cq.bendibao.com/xiuxian/202625/161480.shtm",
     "source_count": 1,
     "source_names": [
       "重庆·展览"
     ],
     "last_verified": "2026-11-17"
-  },
-  {
-    "id": "b4bc63e92580",
-    "title": "2026重庆草莓音乐节",
-    "category": "exhibition",
-    "sub_tags": [
-      "音乐节"
-    ],
-    "start_time": "2026-11-28",
-    "end_time": "2026-11-29",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "重庆国际博览中心",
-    "address": "重庆市渝北区悦来大道66号",
-    "price_info": null,
-    "description": "时隔6年草莓音乐节再抵重庆，两天双舞台，万能青年旅店、杨千嬅、梁博、回春丹等众多音乐人轮番开唱，还有MVM×费那奇动画周主题动画展映。",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 4,
-    "days_to_start": 3,
-    "source_url": "http://cq.bendibao.com/xiuxian/20261027/168637.shtm",
-    "source_count": 2,
-    "source_names": [
-      "重庆·周末活动"
-    ],
-    "last_verified": "2026-11-25"
   },
   {
     "id": "ea247c90eef8",
@@ -68,8 +68,8 @@
     "description": "国际滑联A类顶级旗舰赛事，青年组与成年组总决赛首次落户重庆巴南，全球顶尖花滑选手齐聚山城冰面竞技",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 17,
-    "days_to_start": 15,
+    "days_left": 14,
+    "days_to_start": 12,
     "source_url": "https://cq.bendibao.com/xiuxian/20261110/168934.shtm",
     "source_count": 1,
     "source_names": [

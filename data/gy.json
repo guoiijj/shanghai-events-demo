@@ -1,5 +1,31 @@
 [
   {
+    "id": "5dec341e78c7",
+    "title": "贵阳·第二届黔韵动漫游戏嘉年华",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-28",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "贵阳国际会议展览中心",
+    "address": "贵州省贵阳市观山湖区长岭北路1号",
+    "price_info": null,
+    "description": "嘉宾：夕楼76、夕楼、有事摇铃、时岚toki、帝人MIKADO、萝卜D……",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://gy.bendibao.com/xiuxian/20261110/80550.shtm",
+    "source_count": 1,
+    "source_names": [
+      "贵阳·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
     "id": "cf6373a78c05",
     "title": "CROSS越界元XR",
     "category": "exhibition",
@@ -16,35 +42,9 @@
     "description": "穿越时空的界限，沉浸式体验穿越无尽时空，身临其境，感受前所未有的震撼与魅力！",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 36,
-    "days_to_start": -422,
+    "days_left": 33,
+    "days_to_start": -425,
     "source_url": "https://gy.bendibao.com/xiuxian/202625/78106.shtm",
-    "source_count": 1,
-    "source_names": [
-      "贵阳·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "5dec341e78c7",
-    "title": "贵阳·第二届黔韵动漫游戏嘉年华",
-    "category": "exhibition",
-    "sub_tags": [
-      "漫展"
-    ],
-    "start_time": "2026-11-28",
-    "end_time": "2026-11-28",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "贵阳国际会议展览中心",
-    "address": "贵州省贵阳市观山湖区长岭北路1号",
-    "price_info": null,
-    "description": "嘉宾：夕楼76、夕楼、有事摇铃、时岚toki、帝人MIKADO、萝卜D……",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 3,
-    "source_url": "https://gy.bendibao.com/xiuxian/20261110/80550.shtm",
     "source_count": 1,
     "source_names": [
       "贵阳·周末活动"
@@ -68,8 +68,8 @@
     "description": "1.2米以下儿童免费！",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 31,
-    "days_to_start": 31,
+    "days_left": 28,
+    "days_to_start": 28,
     "source_url": "https://gy.bendibao.com/xiuxian/20261110/80551.shtm",
     "source_count": 1,
     "source_names": [

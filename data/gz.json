@@ -16,9 +16,35 @@
     "description": "本届联赛设“广州龙王组”和“湾区龙腾组”两大组别，兼顾本土竞技传承与湾区交流推广。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 5,
-    "days_to_start": -147,
+    "days_left": 2,
+    "days_to_start": -150,
     "source_url": "http://gz.bendibao.com/xiuxian/2026526/368485.shtm",
+    "source_count": 2,
+    "source_names": [
+      "广州·周末活动"
+    ],
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "bea96754d6c2",
+    "title": "2026年第二十四届广州国际汽车展览会",
+    "category": "exhibition",
+    "sub_tags": [
+      "车展"
+    ],
+    "start_time": "2026-11-27",
+    "end_time": "2026-12-06",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "广交会展馆",
+    "address": "广州市海珠区阅江中路380号",
+    "price_info": null,
+    "description": "展会延续“新科技・新生活”的主题，诚邀海内外整车企业、科技企业、零部件企业共赴羊城。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 8,
+    "days_to_start": -1,
+    "source_url": "http://gz.bendibao.com/xiuxian/20261027/373612.shtm",
     "source_count": 2,
     "source_names": [
       "广州·周末活动"
@@ -42,8 +68,8 @@
     "description": "今年园博会首次将核心主场设在融德里城市更新片区及历史文化街区周边，园区融合岭南园艺美学、绿色花卉产业、科创宜居场景，创新打造“景、文、商、旅、科”一体融合的全新园博范式。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 14,
-    "days_to_start": -5,
+    "days_left": 11,
+    "days_to_start": -8,
     "source_url": "http://gz.bendibao.com/xiuxian/20261116/374104.shtm",
     "source_count": 2,
     "source_names": [
@@ -69,38 +95,12 @@
     "description": "广州历史最悠久、规模最大的专业菊花展，将于11月21日开幕，免费向游客开放。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 17,
-    "days_to_start": -4,
+    "days_left": 14,
+    "days_to_start": -7,
     "source_url": "http://gz.bendibao.com/xiuxian/20261116/374099.shtm",
     "source_count": 2,
     "source_names": [
       "广州·免费活动",
-      "广州·周末活动"
-    ],
-    "last_verified": "2026-11-25"
-  },
-  {
-    "id": "bea96754d6c2",
-    "title": "2026年第二十四届广州国际汽车展览会",
-    "category": "exhibition",
-    "sub_tags": [
-      "车展"
-    ],
-    "start_time": "2026-11-27",
-    "end_time": "2026-12-06",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "广交会展馆",
-    "address": "广州市海珠区阅江中路380号",
-    "price_info": null,
-    "description": "展会延续“新科技・新生活”的主题，诚邀海内外整车企业、科技企业、零部件企业共赴羊城。",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 11,
-    "days_to_start": 2,
-    "source_url": "http://gz.bendibao.com/xiuxian/20261027/373612.shtm",
-    "source_count": 2,
-    "source_names": [
       "广州·周末活动"
     ],
     "last_verified": "2026-11-25"
@@ -122,8 +122,8 @@
     "description": "本届灯光节设置灯光艺术、灯光装置、城市楼宇影像、城市幻光森林、建筑3D Mapping五大赛道",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 19,
-    "days_to_start": 9,
+    "days_left": 16,
+    "days_to_start": 6,
     "source_url": "http://gz.bendibao.com/xiuxian/2026114/373785.shtm",
     "source_count": 2,
     "source_names": [
@@ -148,8 +148,8 @@
     "description": "丰富票种随心选择，花式玩转漫展不烧心！元旦Happy行程，虫娘全包啦！",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 39,
-    "days_to_start": 37,
+    "days_left": 36,
+    "days_to_start": 34,
     "source_url": "https://gz.bendibao.com/xiuxian/20261112/374029.shtm",
     "source_count": 2,
     "source_names": [

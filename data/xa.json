@@ -1,5 +1,32 @@
 [
   {
+    "id": "e4d420151abb",
+    "title": "西安·IW无限世界动漫游戏博览会SP01·头号玩家",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-29",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "西安浐灞丝路国际文化艺术中心",
+    "address": "西安市灞桥区金茂一路2168号",
+    "price_info": null,
+    "description": "知名coser，自媒体博主，人气嘉宾兔娘到场，现场氛围好",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": 0,
+    "source_url": "http://xa.bendibao.com/xiuxian/2026119/155117.shtm",
+    "source_count": 2,
+    "source_names": [
+      "西安·免费活动",
+      "西安·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
     "id": "0381282ec38d",
     "title": "西安万象城生命之树光影秀",
     "category": "other",
@@ -16,8 +43,8 @@
     "description": "生命之树光影秀",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 126,
-    "days_to_start": -716,
+    "days_left": 123,
+    "days_to_start": -719,
     "source_url": "http://xa.bendibao.com/xiuxian/2024123/135581.shtm",
     "source_count": 2,
     "source_names": [
@@ -43,8 +70,8 @@
     "description": "中国顶尖的学府之一",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 279,
-    "days_to_start": -957,
+    "days_left": 276,
+    "days_to_start": -960,
     "source_url": "http://xa.bendibao.com/xiuxian/2024322/126273.shtm",
     "source_count": 2,
     "source_names": [
@@ -70,36 +97,9 @@
     "description": "拥有世界最长的光带，喷泉的水柱高达几十米，伴随着音乐和灯光的变化，给人以强烈的视觉冲击力。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 432,
-    "days_to_start": -957,
+    "days_left": 429,
+    "days_to_start": -960,
     "source_url": "http://xa.bendibao.com/xiuxian/20231226/122056.shtm",
-    "source_count": 2,
-    "source_names": [
-      "西安·免费活动",
-      "西安·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "e4d420151abb",
-    "title": "西安·IW无限世界动漫游戏博览会SP01·头号玩家",
-    "category": "exhibition",
-    "sub_tags": [
-      "漫展"
-    ],
-    "start_time": "2026-11-28",
-    "end_time": "2026-11-29",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "西安浐灞丝路国际文化艺术中心",
-    "address": "西安市灞桥区金茂一路2168号",
-    "price_info": null,
-    "description": "知名coser，自媒体博主，人气嘉宾兔娘到场，现场氛围好",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 4,
-    "days_to_start": 3,
-    "source_url": "http://xa.bendibao.com/xiuxian/2026119/155117.shtm",
     "source_count": 2,
     "source_names": [
       "西安·免费活动",
@@ -124,8 +124,8 @@
     "description": "集结多元阵容&搭载顶配舞美，做突破常规，拓宽想象的现场革新者，致力打造沉浸式的音乐现场，缔造全新维度。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 11,
-    "days_to_start": 10,
+    "days_left": 8,
+    "days_to_start": 7,
     "source_url": "http://xa.bendibao.com/xiuxian/2026119/155105.shtm",
     "source_count": 2,
     "source_names": [
@@ -151,8 +151,8 @@
     "description": "票价很低、跨年氛围浓，适合轻松逛展和拍照",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 38,
-    "days_to_start": 37,
+    "days_left": 35,
+    "days_to_start": 34,
     "source_url": "http://xa.bendibao.com/xiuxian/2026119/155119.shtm",
     "source_count": 2,
     "source_names": [
@@ -178,8 +178,8 @@
     "description": "票价亲民、场馆宽敞、适合轻松逛展",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 67,
-    "days_to_start": 66,
+    "days_left": 64,
+    "days_to_start": 63,
     "source_url": "http://xa.bendibao.com/xiuxian/2026119/155118.shtm",
     "source_count": 2,
     "source_names": [

@@ -1,5 +1,31 @@
 [
   {
+    "id": "c80fbaf489b1",
+    "title": "顺益 OPEN DAY・顺德一中115周年校庆社会开放日",
+    "category": "exhibition",
+    "sub_tags": [
+      "高中开放"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-28",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "顺德第一中学",
+    "address": "广东佛山顺德大良南国东路",
+    "price_info": null,
+    "description": "顺德一中建校115周年校庆社会开放日，可校园参观、参加拔尖培才报告会、研学分享、微型马拉松、欢乐集市与社团体验、校友足球邀请赛及校园饭堂体验，感受校园多元活力。",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://fs.bendibao.com/xiuxian/20261119/143570.shtm",
+    "source_count": 1,
+    "source_names": [
+      "佛山·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
     "id": "d1b23709aeb2",
     "title": "纪念李小龙诞辰86周年系列活动",
     "category": "market",
@@ -15,36 +41,10 @@
     "price_info": null,
     "description": "龙狮夜游巡街开路，武馆汇演、功夫特技、双节棍秀、音乐LiveShow",
     "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 4,
-    "days_to_start": 2,
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": -1,
     "source_url": "https://fs.bendibao.com/xiuxian/20261118/143569.shtm",
-    "source_count": 1,
-    "source_names": [
-      "佛山·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "ac25abb3d33b",
-    "title": "『咖港』渔人码头咖啡面包节6.0",
-    "category": "market",
-    "sub_tags": [
-      "美食市集"
-    ],
-    "start_time": "2026-11-27",
-    "end_time": "2026-11-29",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "渔人码头",
-    "address": "三水区西南月桂路33号",
-    "price_info": null,
-    "description": "渔人码头咖啡面包节6.0，招募主理人自在出摊，汇集咖啡与面包摊位",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 4,
-    "days_to_start": 2,
-    "source_url": "https://fs.bendibao.com/xiuxian/2026114/143208.shtm",
     "source_count": 1,
     "source_names": [
       "佛山·周末活动"
@@ -67,9 +67,9 @@
     "price_info": null,
     "description": "gapday音乐节收官站，以「软托邦（Softopia）」沙漠秘境为主题，克莱因蓝梦幻沙漠场景、篝火与音乐相伴，主打治愈放松的旷野音乐体验",
     "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 4,
-    "days_to_start": 3,
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": 0,
     "source_url": "https://fs.bendibao.com/xiuxian/2026114/143211.shtm",
     "source_count": 1,
     "source_names": [
@@ -78,25 +78,25 @@
     "last_verified": "2026-11-21"
   },
   {
-    "id": "c80fbaf489b1",
-    "title": "顺益 OPEN DAY・顺德一中115周年校庆社会开放日",
-    "category": "exhibition",
+    "id": "ac25abb3d33b",
+    "title": "『咖港』渔人码头咖啡面包节6.0",
+    "category": "market",
     "sub_tags": [
-      "高中开放"
+      "美食市集"
     ],
-    "start_time": "2026-11-28",
-    "end_time": "2026-11-28",
+    "start_time": "2026-11-27",
+    "end_time": "2026-11-29",
     "time_detail": null,
     "is_time_fuzzy": false,
-    "location_name": "顺德第一中学",
-    "address": "广东佛山顺德大良南国东路",
+    "location_name": "渔人码头",
+    "address": "三水区西南月桂路33号",
     "price_info": null,
-    "description": "顺德一中建校115周年校庆社会开放日，可校园参观、参加拔尖培才报告会、研学分享、微型马拉松、欢乐集市与社团体验、校友足球邀请赛及校园饭堂体验，感受校园多元活力。",
+    "description": "渔人码头咖啡面包节6.0，招募主理人自在出摊，汇集咖啡与面包摊位",
     "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 3,
-    "source_url": "https://fs.bendibao.com/xiuxian/20261119/143570.shtm",
+    "status": "ongoing",
+    "days_left": 1,
+    "days_to_start": -1,
+    "source_url": "https://fs.bendibao.com/xiuxian/2026114/143208.shtm",
     "source_count": 1,
     "source_names": [
       "佛山·周末活动"
@@ -120,8 +120,8 @@
     "description": "西江畔千年渔村左滩的酱鱼文化嘉年华，可试吃购买非遗酱鱼、体验刷酱制作、吃村席，还有五大市集超百摊位、工业遗址探秘、戏剧巡游、见龙晚会与限定烟花秀，水陆双栖连嗨两周。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 11,
-    "days_to_start": 10,
+    "days_left": 8,
+    "days_to_start": 7,
     "source_url": "https://fs.bendibao.com/xiuxian/20261119/143572.shtm",
     "source_count": 1,
     "source_names": [
@@ -146,8 +146,8 @@
     "description": "90支队伍参赛的五人龙舟精英邀请赛，赛道环绕紫南文化旅游区水上格兰披治魔鬼赛道共六圈、总赛程约19公里，现场可观看激烈竞渡。",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 17,
-    "days_to_start": 17,
+    "days_left": 14,
+    "days_to_start": 14,
     "source_url": "https://fs.bendibao.com/xiuxian/20261027/143044.shtm",
     "source_count": 1,
     "source_names": [

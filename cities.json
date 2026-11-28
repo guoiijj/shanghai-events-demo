@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-11-25T20:30:57+08:00",
+  "generated_at": "2026-11-28T17:41:44+08:00",
   "city_count": 75,
-  "total_published": 208,
+  "total_published": 204,
   "cities": [
     {
       "code": "sh",
       "name": "上海",
       "tier": 1,
       "tier_label": "一线",
-      "published": 22,
-      "ongoing": 13,
+      "published": 21,
+      "ongoing": 11,
       "upcoming": 1,
-      "unknown": 8
+      "unknown": 9
     },
     {
       "code": "gz",
@@ -19,8 +19,8 @@
       "tier": 1,
       "tier_label": "一线",
       "published": 6,
-      "ongoing": 3,
-      "upcoming": 3,
+      "ongoing": 4,
+      "upcoming": 2,
       "unknown": 0
     },
     {
@@ -49,8 +49,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 20,
-      "ongoing": 11,
-      "upcoming": 9,
+      "ongoing": 14,
+      "upcoming": 6,
       "unknown": 0
     },
     {
@@ -69,8 +69,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 12,
-      "ongoing": 10,
-      "upcoming": 2,
+      "ongoing": 11,
+      "upcoming": 1,
       "unknown": 0
     },
     {
@@ -89,8 +89,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 8,
-      "ongoing": 2,
-      "upcoming": 6,
+      "ongoing": 7,
+      "upcoming": 1,
       "unknown": 0
     },
     {
@@ -99,8 +99,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 8,
-      "ongoing": 6,
-      "upcoming": 2,
+      "ongoing": 8,
+      "upcoming": 0,
       "unknown": 0
     },
     {
@@ -109,8 +109,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 7,
-      "ongoing": 5,
-      "upcoming": 2,
+      "ongoing": 7,
+      "upcoming": 0,
       "unknown": 0
     },
     {
@@ -119,8 +119,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 7,
-      "ongoing": 3,
-      "upcoming": 4,
+      "ongoing": 4,
+      "upcoming": 3,
       "unknown": 0
     },
     {
@@ -129,8 +129,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 6,
-      "ongoing": 3,
-      "upcoming": 3,
+      "ongoing": 4,
+      "upcoming": 2,
       "unknown": 0
     },
     {
@@ -149,8 +149,8 @@
       "tier": 2,
       "tier_label": "新一线",
       "published": 3,
-      "ongoing": 1,
-      "upcoming": 2,
+      "ongoing": 2,
+      "upcoming": 1,
       "unknown": 0
     },
     {
@@ -198,9 +198,9 @@
       "name": "南昌",
       "tier": 3,
       "tier_label": "二线",
-      "published": 27,
-      "ongoing": 6,
-      "upcoming": 21,
+      "published": 25,
+      "ongoing": 8,
+      "upcoming": 17,
       "unknown": 0
     },
     {
@@ -219,8 +219,8 @@
       "tier": 3,
       "tier_label": "二线",
       "published": 7,
-      "ongoing": 2,
-      "upcoming": 5,
+      "ongoing": 3,
+      "upcoming": 4,
       "unknown": 0
     },
     {
@@ -229,8 +229,8 @@
       "tier": 3,
       "tier_label": "二线",
       "published": 6,
-      "ongoing": 0,
-      "upcoming": 6,
+      "ongoing": 4,
+      "upcoming": 2,
       "unknown": 0
     },
     {
@@ -238,9 +238,9 @@
       "name": "太原",
       "tier": 3,
       "tier_label": "二线",
-      "published": 6,
-      "ongoing": 1,
-      "upcoming": 5,
+      "published": 5,
+      "ongoing": 3,
+      "upcoming": 2,
       "unknown": 0
     },
     {
@@ -249,8 +249,8 @@
       "tier": 3,
       "tier_label": "二线",
       "published": 4,
-      "ongoing": 3,
-      "upcoming": 1,
+      "ongoing": 4,
+      "upcoming": 0,
       "unknown": 0
     },
     {
@@ -269,8 +269,8 @@
       "tier": 3,
       "tier_label": "二线",
       "published": 3,
-      "ongoing": 1,
-      "upcoming": 2,
+      "ongoing": 2,
+      "upcoming": 1,
       "unknown": 0
     },
     {
@@ -286,6 +286,16 @@
     {
       "code": "bd",
       "name": "保定",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 1,
+      "ongoing": 1,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
+      "code": "nt",
+      "name": "南通",
       "tier": 3,
       "tier_label": "二线",
       "published": 1,
@@ -344,28 +354,8 @@
       "unknown": 0
     },
     {
-      "code": "fz",
-      "name": "福州",
-      "tier": 3,
-      "tier_label": "二线",
-      "published": 1,
-      "ongoing": 1,
-      "upcoming": 0,
-      "unknown": 0
-    },
-    {
       "code": "linyi",
       "name": "临沂",
-      "tier": 3,
-      "tier_label": "二线",
-      "published": 0,
-      "ongoing": 0,
-      "upcoming": 0,
-      "unknown": 0
-    },
-    {
-      "code": "nt",
-      "name": "南通",
       "tier": 3,
       "tier_label": "二线",
       "published": 0,
@@ -464,6 +454,16 @@
       "unknown": 0
     },
     {
+      "code": "fz",
+      "name": "福州",
+      "tier": 3,
+      "tier_label": "二线",
+      "published": 0,
+      "ongoing": 0,
+      "upcoming": 0,
+      "unknown": 0
+    },
+    {
       "code": "sx",
       "name": "绍兴",
       "tier": 3,
@@ -499,8 +499,8 @@
       "tier": 4,
       "tier_label": "三线热门",
       "published": 2,
-      "ongoing": 1,
-      "upcoming": 1,
+      "ongoing": 2,
+      "upcoming": 0,
       "unknown": 0
     },
     {

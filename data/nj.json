@@ -1,5 +1,31 @@
 [
   {
+    "id": "da205dcd4e4f",
+    "title": "南京·星幻动漫节2026第26届",
+    "category": "exhibition",
+    "sub_tags": [
+      "漫展"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-28",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "do re mi轰趴派对中心",
+    "address": "南京市栖霞区紫东路18-3号114室",
+    "price_info": null,
+    "description": "现场很多活动，10:00-17:00玩转停不下来！",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183934.shtm",
+    "source_count": 2,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-25"
+  },
+  {
     "id": "5e2fd02a6462",
     "title": "江苏省户外运动城市联赛",
     "category": "exhibition",
@@ -16,9 +42,33 @@
     "description": "一站一景、一站一特色，南京为2026江苏省户外运动城市联赛启幕首站赛事。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 5,
-    "days_to_start": -269,
+    "days_left": 2,
+    "days_to_start": -272,
     "source_url": "http://nj.bendibao.com/xiuxian/2026212/179128.shtm",
+    "source_count": 2,
+    "source_names": [
+      "南京·周末活动"
+    ],
+    "last_verified": "2026-11-25"
+  },
+  {
+    "id": "b442aca03fe0",
+    "title": "2026中国（南京）国际珠宝首饰展览会",
+    "category": "exhibition",
+    "sub_tags": [],
+    "start_time": "2026-11-27",
+    "end_time": "2026-11-30",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "南京国际博览中心",
+    "address": "南京市建邺区江东中路300号",
+    "price_info": null,
+    "description": "年末压轴珠宝大展，翡翠工厂直销、彩色宝石直供、和田玉鉴赏、珍珠源头甄选、金银首饰福利节、独立设计师与古董专场、松石琥珀水晶专区，现场可免费鉴定、免费首饰清洗，打卡消费领伴手礼",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 2,
+    "days_to_start": -1,
+    "source_url": "http://nj.bendibao.com/xiuxian/2026115/184027.shtm",
     "source_count": 2,
     "source_names": [
       "南京·周末活动"
@@ -42,8 +92,8 @@
     "description": "玄武湖2026秋花秋实展，含向日葵花展、金秋菊展、盆景赏石书画摄影联展、国庆升旗仪式、热狗节、湖光音乐会、明后湖黄册库护卫巡游等，秋花秋实与湖光秋色相映成趣",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 5,
-    "days_to_start": -57,
+    "days_left": 2,
+    "days_to_start": -60,
     "source_url": "http://nj.bendibao.com/xiuxian/2026929/183386.shtm",
     "source_count": 2,
     "source_names": [
@@ -68,8 +118,8 @@
     "description": "国内知名的赏枫胜地。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 23,
-    "days_to_start": -38,
+    "days_left": 20,
+    "days_to_start": -41,
     "source_url": "http://nj.bendibao.com/xiuxian/2025113/177044.shtm",
     "source_count": 2,
     "source_names": [
@@ -94,8 +144,8 @@
     "description": "江苏省13市篮球联赛",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 36,
-    "days_to_start": -85,
+    "days_left": 33,
+    "days_to_start": -88,
     "source_url": "http://nj.bendibao.com/xiuxian/2026130/178846.shtm",
     "source_count": 8,
     "source_names": [
@@ -120,59 +170,9 @@
     "description": "亲历校园风采，在最美春光里漫步百年学府。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 36,
-    "days_to_start": -328,
+    "days_left": 33,
+    "days_to_start": -331,
     "source_url": "http://nj.bendibao.com/xiuxian/2026327/179649.shtm",
-    "source_count": 2,
-    "source_names": [
-      "南京·周末活动"
-    ],
-    "last_verified": "2026-11-25"
-  },
-  {
-    "id": "b442aca03fe0",
-    "title": "2026中国（南京）国际珠宝首饰展览会",
-    "category": "exhibition",
-    "sub_tags": [],
-    "start_time": "2026-11-27",
-    "end_time": "2026-11-30",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "南京国际博览中心",
-    "address": "南京市建邺区江东中路300号",
-    "price_info": null,
-    "description": "年末压轴珠宝大展，翡翠工厂直销、彩色宝石直供、和田玉鉴赏、珍珠源头甄选、金银首饰福利节、独立设计师与古董专场、松石琥珀水晶专区，现场可免费鉴定、免费首饰清洗，打卡消费领伴手礼",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 5,
-    "days_to_start": 2,
-    "source_url": "http://nj.bendibao.com/xiuxian/2026115/184027.shtm",
-    "source_count": 2,
-    "source_names": [
-      "南京·周末活动"
-    ],
-    "last_verified": "2026-11-25"
-  },
-  {
-    "id": "da205dcd4e4f",
-    "title": "南京·星幻动漫节2026第26届",
-    "category": "exhibition",
-    "sub_tags": [
-      "漫展"
-    ],
-    "start_time": "2026-11-28",
-    "end_time": "2026-11-28",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "do re mi轰趴派对中心",
-    "address": "南京市栖霞区紫东路18-3号114室",
-    "price_info": null,
-    "description": "现场很多活动，10:00-17:00玩转停不下来！",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 3,
-    "source_url": "http://nj.bendibao.com/xiuxian/2026112/183934.shtm",
     "source_count": 2,
     "source_names": [
       "南京·周末活动"

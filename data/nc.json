@@ -1,24 +1,76 @@
 [
   {
-    "id": "3edf4f0c20f8",
-    "title": "失落掠夺2026《大盗归来》同名EP巡演 南昌站",
+    "id": "8cf93c49023b",
+    "title": "LikeKpop「BIGBANG二十周年专场」室内Kpop派对",
     "category": "exhibition",
     "sub_tags": [
       "livehouse"
     ],
-    "start_time": "2026-11-25",
-    "end_time": "2026-11-25",
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-28",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "瓦肆 VAS ear NC",
+    "address": "南昌市上海路543号520Park文创公园21号01区域",
+    "price_info": null,
+    "description": "BIGBANG二十周年粉丝蹦迪派对，高清大屏、专业KPOP DJ/MC带唱，沉浸式氛围，带上皇冠灯一起合唱经典歌单",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://nc.bendibao.com/xiuxian/20261117/102097.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南昌·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "2c980e775acd",
+    "title": "浅水ShallowEnd「容器」2026新专辑巡演南昌站",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-28",
     "time_detail": null,
     "is_time_fuzzy": false,
     "location_name": "追乐部落LIVEHOUSE MAX",
     "address": "庐山南大道2478号新势力文创公园A2栋",
     "price_info": null,
-    "description": "长沙独立摇滚乐队失落掠夺《大盗归来》同名EP巡演南昌站现场演出，酒精与噪音的摇滚现场",
+    "description": "浅水ShallowEnd首张全器乐专辑《容器》巡演南昌站，现场以器乐层层铺陈与爆发呈现情绪张力",
     "confidence": 0.9,
     "status": "ongoing",
     "days_left": 0,
     "days_to_start": 0,
-    "source_url": "https://nc.bendibao.com/xiuxian/20261117/102117.shtm",
+    "source_url": "https://nc.bendibao.com/xiuxian/20261117/102099.shtm",
+    "source_count": 1,
+    "source_names": [
+      "南昌·周末活动"
+    ],
+    "last_verified": "2026-11-21"
+  },
+  {
+    "id": "679f95f94c4b",
+    "title": "LikeKpop「SEVENTEEN专场」室内Kpop派对",
+    "category": "exhibition",
+    "sub_tags": [
+      "livehouse"
+    ],
+    "start_time": "2026-11-28",
+    "end_time": "2026-11-28",
+    "time_detail": null,
+    "is_time_fuzzy": false,
+    "location_name": "瓦肆 VAS ear NC",
+    "address": "南昌市上海路543号520Park文创公园21号01区域",
+    "price_info": null,
+    "description": "全场SEVENTEEN歌曲的Kpop派对，DJ+MC带玩，专业livehouse场地配超大舞台与360度灯光，高清大屏欣赏，适合克拉线下聚会蹦迪合唱",
+    "confidence": 0.9,
+    "status": "ongoing",
+    "days_left": 0,
+    "days_to_start": 0,
+    "source_url": "https://nc.bendibao.com/xiuxian/20261117/102107.shtm",
     "source_count": 1,
     "source_names": [
       "南昌·周末活动"
@@ -42,8 +94,8 @@
     "description": "八一广场音乐喷泉以红色文化为主题，结合声光电技术打造震撼水舞秀，每晚定时上演多场表演，喷泉随《中国人民解放军进行曲》等经典军歌节奏起伏，最高水柱可达30米，配合灯光与音乐营造出庄严而激昂的视听体验。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 36,
-    "days_to_start": -693,
+    "days_left": 33,
+    "days_to_start": -696,
     "source_url": "https://nc.bendibao.com/xiuxian/2024529/88086.shtm",
     "source_count": 1,
     "source_names": [
@@ -68,8 +120,8 @@
     "description": "华东交通大学，位于江西省南昌市，是一所以交通为特色、轨道为核心、多学科协调发展的教学研究型大学。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 37,
-    "days_to_start": -328,
+    "days_left": 34,
+    "days_to_start": -331,
     "source_url": "https://nc.bendibao.com/xiuxian/2024529/88095.shtm",
     "source_count": 1,
     "source_names": [
@@ -94,8 +146,8 @@
     "description": "九龙湖音乐喷泉以200米水幕随乐起舞，灯光变幻间演绎城市故事，打造视听盛宴。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 39,
-    "days_to_start": -326,
+    "days_left": 36,
+    "days_to_start": -329,
     "source_url": "https://nc.bendibao.com/xiuxian/2024527/88003.shtm",
     "source_count": 1,
     "source_names": [
@@ -120,8 +172,8 @@
     "description": "南昌一江两岸灯光秀打造一场视觉盛宴。",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 401,
-    "days_to_start": -297,
+    "days_left": 398,
+    "days_to_start": -300,
     "source_url": "https://nc.bendibao.com/xiuxian/2025114/94000.shtm",
     "source_count": 1,
     "source_names": [
@@ -146,113 +198,9 @@
     "description": "亚洲最大音乐喷泉群，主喷高达128米，激光水幕与音乐共舞，夜色中演绎",
     "confidence": 0.9,
     "status": "ongoing",
-    "days_left": 402,
-    "days_to_start": -328,
+    "days_left": 399,
+    "days_to_start": -331,
     "source_url": "https://nc.bendibao.com/xiuxian/2024527/88002.shtm",
-    "source_count": 1,
-    "source_names": [
-      "南昌·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "980bbbad2ae4",
-    "title": "布衣乐队《云起时》巡演南昌站",
-    "category": "exhibition",
-    "sub_tags": [
-      "livehouse"
-    ],
-    "start_time": "2026-11-27",
-    "end_time": "2026-11-27",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "瓦肆 VAS ear NC",
-    "address": "南昌市上海路543号520Park文创公园21号01区域",
-    "price_info": null,
-    "description": "布衣乐队成立31年、巡演13年，本次《云起时》巡演减少PGM，回归吉他贝斯鼓三大件，靠四人默契呈现更纯粹、更有能量的摇滚现场",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 2,
-    "days_to_start": 2,
-    "source_url": "https://nc.bendibao.com/xiuxian/20261117/102111.shtm",
-    "source_count": 1,
-    "source_names": [
-      "南昌·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "8cf93c49023b",
-    "title": "LikeKpop「BIGBANG二十周年专场」室内Kpop派对",
-    "category": "exhibition",
-    "sub_tags": [
-      "livehouse"
-    ],
-    "start_time": "2026-11-28",
-    "end_time": "2026-11-28",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "瓦肆 VAS ear NC",
-    "address": "南昌市上海路543号520Park文创公园21号01区域",
-    "price_info": null,
-    "description": "BIGBANG二十周年粉丝蹦迪派对，高清大屏、专业KPOP DJ/MC带唱，沉浸式氛围，带上皇冠灯一起合唱经典歌单",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 3,
-    "source_url": "https://nc.bendibao.com/xiuxian/20261117/102097.shtm",
-    "source_count": 1,
-    "source_names": [
-      "南昌·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "2c980e775acd",
-    "title": "浅水ShallowEnd「容器」2026新专辑巡演南昌站",
-    "category": "exhibition",
-    "sub_tags": [
-      "livehouse"
-    ],
-    "start_time": "2026-11-28",
-    "end_time": "2026-11-28",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "追乐部落LIVEHOUSE MAX",
-    "address": "庐山南大道2478号新势力文创公园A2栋",
-    "price_info": null,
-    "description": "浅水ShallowEnd首张全器乐专辑《容器》巡演南昌站，现场以器乐层层铺陈与爆发呈现情绪张力",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 3,
-    "source_url": "https://nc.bendibao.com/xiuxian/20261117/102099.shtm",
-    "source_count": 1,
-    "source_names": [
-      "南昌·周末活动"
-    ],
-    "last_verified": "2026-11-21"
-  },
-  {
-    "id": "679f95f94c4b",
-    "title": "LikeKpop「SEVENTEEN专场」室内Kpop派对",
-    "category": "exhibition",
-    "sub_tags": [
-      "livehouse"
-    ],
-    "start_time": "2026-11-28",
-    "end_time": "2026-11-28",
-    "time_detail": null,
-    "is_time_fuzzy": false,
-    "location_name": "瓦肆 VAS ear NC",
-    "address": "南昌市上海路543号520Park文创公园21号01区域",
-    "price_info": null,
-    "description": "全场SEVENTEEN歌曲的Kpop派对，DJ+MC带玩，专业livehouse场地配超大舞台与360度灯光，高清大屏欣赏，适合克拉线下聚会蹦迪合唱",
-    "confidence": 0.9,
-    "status": "upcoming",
-    "days_left": 3,
-    "days_to_start": 3,
-    "source_url": "https://nc.bendibao.com/xiuxian/20261117/102107.shtm",
     "source_count": 1,
     "source_names": [
       "南昌·周末活动"
@@ -276,8 +224,8 @@
     "description": "NBL江西赛区主场赛事，江西大谦对阵贵州猛龙，可购单场票或12个主场赛季套票",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 93,
-    "days_to_start": 4,
+    "days_left": 90,
+    "days_to_start": 1,
     "source_url": "https://nc.bendibao.com/xiuxian/20261120/102154.shtm",
     "source_count": 1,
     "source_names": [
@@ -302,8 +250,8 @@
     "description": "KPOP与欧美热单混音派对，设应援交换角、随机彩蛋、自由麦环节，可现场报名公演舞台",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 9,
-    "days_to_start": 9,
+    "days_left": 6,
+    "days_to_start": 6,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102098.shtm",
     "source_count": 1,
     "source_names": [
@@ -328,8 +276,8 @@
     "description": "纯开圈说唱派对，单身/非单身手环社交玩法，门票含酒水一杯与冬季限定挂件（限量先到先得）",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 9,
-    "days_to_start": 9,
+    "days_left": 6,
+    "days_to_start": 6,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102121.shtm",
     "source_count": 1,
     "source_names": [
@@ -354,8 +302,8 @@
     "description": "特摄ONLY同人展，三大特摄社团参展，6000平场地含舞台区、签绘墙、特摄猎人杀等互动区域，服务台提供补给物品",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 11,
-    "days_to_start": 10,
+    "days_left": 8,
+    "days_to_start": 7,
     "source_url": "https://nc.bendibao.com/xiuxian/20261110/102015.shtm",
     "source_count": 1,
     "source_names": [
@@ -380,8 +328,8 @@
     "description": "閏与性格缺失乐队联合专场，迷幻、实验、独立音乐风格现场演出",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 11,
-    "days_to_start": 11,
+    "days_left": 8,
+    "days_to_start": 8,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102114.shtm",
     "source_count": 1,
     "source_names": [
@@ -406,8 +354,8 @@
     "description": "苏菲花园乐队“同花顺”冬季巡演南昌站现场演出，寒色入冬，歌声入夜，与乐队一起为热爱歌唱",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 14,
-    "days_to_start": 14,
+    "days_left": 11,
+    "days_to_start": 11,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102116.shtm",
     "source_count": 1,
     "source_names": [
@@ -432,8 +380,8 @@
     "description": "岛屿心情「美丽人生」新专辑第二轮巡演南昌站，重置VI、灯光升级，旧曲新编、新歌首唱，高价位票档含实体专辑及周边礼包",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 16,
-    "days_to_start": 16,
+    "days_left": 13,
+    "days_to_start": 13,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102103.shtm",
     "source_count": 1,
     "source_names": [
@@ -458,8 +406,8 @@
     "description": "刘鸿林乐队与朋友们三城巡演南昌站，携手PRIMARY SCHOOL PARTY现场演出，不同风格音乐在同一空间相遇碰撞",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 16,
-    "days_to_start": 16,
+    "days_left": 13,
+    "days_to_start": 13,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102115.shtm",
     "source_count": 1,
     "source_names": [
@@ -484,8 +432,8 @@
     "description": "明日方舟同人only主题漫展，设早鸟票与现场VIP票，嘉宾到场互动",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 25,
-    "days_to_start": 25,
+    "days_left": 22,
+    "days_to_start": 22,
     "source_url": "https://nc.bendibao.com/xiuxian/20261110/102014.shtm",
     "source_count": 1,
     "source_names": [
@@ -510,8 +458,8 @@
     "description": "平安夜狂欢演唱会，20首耳熟能详金曲大合唱，现场乐队超燃演出，荧光棒与幸运刮刮卡互动，超燃前区票含前排摇滚区与幸运平安果",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 29,
-    "days_to_start": 29,
+    "days_left": 26,
+    "days_to_start": 26,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102105.shtm",
     "source_count": 1,
     "source_names": [
@@ -536,8 +484,8 @@
     "description": "童年BGM女神陈洁丽动漫歌主题演唱会，演唱《猪猪侠》《超兽武装》《果宝特攻》等国漫经典歌曲，高规格乐队与舞台制作，VIP含限定周边、优先入场及1v1合照签名",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 31,
-    "days_to_start": 31,
+    "days_left": 28,
+    "days_to_start": 28,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102119.shtm",
     "source_count": 1,
     "source_names": [
@@ -562,8 +510,8 @@
     "description": "中文说唱派对现场，含OD妹、AOE、维密秀、FE!N等多首派对歌单曲目",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 31,
-    "days_to_start": 31,
+    "days_left": 28,
+    "days_to_start": 28,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102108.shtm",
     "source_count": 1,
     "source_names": [
@@ -588,8 +536,8 @@
     "description": "跨年演唱会含跨年倒计时，室内乐队演出不设座位，SVIP/VIP/普通票可参与现场汪苏泷或孙燕姿签名照抽奖，SVIP另含限定透卡与专属荧光棒",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 36,
-    "days_to_start": 36,
+    "days_left": 33,
+    "days_to_start": 33,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102102.shtm",
     "source_count": 1,
     "source_names": [
@@ -614,8 +562,8 @@
     "description": "千人跨年倒计时321，流行摇滚民谣现场，3大星际主题沉浸式互动，20+网易云热榜曲目大合唱，VVIP含璀璨星河大礼包与提前入场",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 37,
-    "days_to_start": 36,
+    "days_left": 34,
+    "days_to_start": 33,
     "source_url": "https://nc.bendibao.com/xiuxian/20261117/102109.shtm",
     "source_count": 1,
     "source_names": [
@@ -640,8 +588,8 @@
     "description": "跨次元夜场晚会，设五个篇章及终章，灯光舞台与同好相聚，凭电子票入场",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 37,
-    "days_to_start": 37,
+    "days_left": 34,
+    "days_to_start": 34,
     "source_url": "https://nc.bendibao.com/xiuxian/20261110/102016.shtm",
     "source_count": 1,
     "source_names": [
@@ -666,8 +614,8 @@
     "description": "次元白鹭02MAX漫展，嘉宾shiro希若到场，电子票单日多次入场有效",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 37,
-    "days_to_start": 37,
+    "days_left": 34,
+    "days_to_start": 34,
     "source_url": "https://nc.bendibao.com/xiuxian/20261110/102019.shtm",
     "source_count": 1,
     "source_names": [
@@ -692,8 +640,8 @@
     "description": "ES同人主题展会，多位嘉宾到场，电子票单日多次入场有效",
     "confidence": 0.9,
     "status": "upcoming",
-    "days_left": 52,
-    "days_to_start": 52,
+    "days_left": 49,
+    "days_to_start": 49,
     "source_url": "https://nc.bendibao.com/xiuxian/20261110/102018.shtm",
     "source_count": 1,
     "source_names": [
